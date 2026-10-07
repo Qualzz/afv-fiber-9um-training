@@ -1,0 +1,122 @@
+{
+  "scope": "Frozen final V5/V6 training corpus, excluding validation; not cumulative base pretraining or all historical optimization steps",
+  "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+  "trainRegions": 356,
+  "PHerc0125TrainRegions": 25,
+  "regionPercentage": 7.022471910112359,
+  "trainSourceLengthMeters": 99.52630422310887,
+  "PHerc0125SourceLengthMeters": 7.863107397395813,
+  "sourceLengthPercentage": 7.900531883278843,
+  "finalTrainScrolls": [
+    "PHerc0125",
+    "PHerc0175A",
+    "PHerc0191",
+    "PHerc0211",
+    "PHerc0257",
+    "PHerc0268",
+    "PHerc0306B",
+    "PHerc0800",
+    "PHerc1447"
+  ],
+  "sampling": "V6 inherits V5 Samples.choose: uniform scroll, uniform fibre family, source-length weighted trace within scroll/family",
+  "expectedPHerc0125V6ProposalPercentage": 11.11111111111111,
+  "geometricOverlapChecks": [
+    {
+      "phase": "fiber-compression-multiscroll-v4",
+      "snapshotSHA256": "aa3bc7d1854cd5aa60185de96c61d78e5cbf27a2f09fa98ce7cbe2e7bc726067",
+      "comparisonBoxOriginXYZ": [
+        3904,
+        3932,
+        10785
+      ],
+      "comparisonBoxShapeXYZ": [
+        256,
+        256,
+        256
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    },
+    {
+      "phase": "fiber-compression-multiscroll-v4",
+      "snapshotSHA256": "aa3bc7d1854cd5aa60185de96c61d78e5cbf27a2f09fa98ce7cbe2e7bc726067",
+      "comparisonBoxOriginXYZ": [
+        3872,
+        3900,
+        10753
+      ],
+      "comparisonBoxShapeXYZ": [
+        320,
+        320,
+        320
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    },
+    {
+      "phase": "fiber-full-8000-v5",
+      "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "comparisonBoxOriginXYZ": [
+        3904,
+        3932,
+        10785
+      ],
+      "comparisonBoxShapeXYZ": [
+        256,
+        256,
+        256
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    },
+    {
+      "phase": "fiber-full-8000-v5",
+      "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "comparisonBoxOriginXYZ": [
+        3872,
+        3900,
+        10753
+      ],
+      "comparisonBoxShapeXYZ": [
+        320,
+        320,
+        320
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    },
+    {
+      "phase": "fiber-centre-compression-v6",
+      "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "comparisonBoxOriginXYZ": [
+        3904,
+        3932,
+        10785
+      ],
+      "comparisonBoxShapeXYZ": [
+        256,
+        256,
+        256
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    },
+    {
+      "phase": "fiber-centre-compression-v6",
+      "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "comparisonBoxOriginXYZ": [
+        3872,
+        3900,
+        10753
+      ],
+      "comparisonBoxShapeXYZ": [
+        320,
+        320,
+        320
+      ],
+      "testedTrainingRegions": 25,
+      "overlappingRegions": []
+    }
+  ],
+  "limitations": "Region counts are not realized sample proportions; same-scroll geometric separation does not prove independence from base pretraining or anatomical correlations."
+}

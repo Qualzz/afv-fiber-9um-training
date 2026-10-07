@@ -14,3 +14,9 @@ This illustration compares the original ScrollPrize HZ/VT checkpoint with the pu
 ![Matched voxel predictions](../assets/fiberpred-pherc0125-256.png)
 
 [Source, chunk and input provenance](../provenance/comparison-pherc0125-256/provenance.json) · [Original inference](../provenance/comparison-pherc0125-256/original-provenance.json) · [V6 inference](../provenance/comparison-pherc0125-256/ours-provenance.json) · [Render parameters](../provenance/comparison-pherc0125-256/render-provenance.json).
+
+## Training exposure
+
+PHerc0125 contributes **25 of the 356 training regions (7.02%)** in the frozen final V5/V6 corpus, and **7.863 of 99.526 metres of pseudo-labelled source fibres (7.90%)**. The V6 sampler selects uniformly among nine training scrolls, so its expected share of sample proposals is **11.11%**. These are final-corpus and V6 sampling proportions, not cumulative shares across all fine-tuning phases or base-model pretraining. The displayed cube, including its 32-voxel inference halo, does not overlap any preserved PHerc0125 training-region box in V4–V6. This does not establish independence from base-model pretraining or correlations within the same scroll; the image remains a qualitative comparison, not an independent test.
+
+[Counts and geometric overlap checks](../provenance/comparison-pherc0125-256/training-share.json).

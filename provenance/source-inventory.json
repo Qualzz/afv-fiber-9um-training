@@ -445,6 +445,12 @@
       "kind": "matched-comparison-provenance"
     },
     {
+      "path": "provenance/comparison-pherc0125-256/training-share.json",
+      "bytes": 3356,
+      "sha256": "2ef19d791fb6b33f1798b6e4ec80e4d9240dc152c9a92b7079950c60237f1f5b",
+      "kind": "matched-comparison-training-exposure-check"
+    },
+    {
       "path": "provenance/ct-source-metadata.json",
       "sha256": "451945d3635c4d11b3dbd869d6fe2cba0d688c00d20750233ea00bc78c1c48db",
       "bytes": 8342,
