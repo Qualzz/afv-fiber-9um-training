@@ -1,0 +1,47 @@
+{
+  "name": "multiscroll-full-v5",
+  "maxSteps": 12000,
+  "batchSize": 2,
+  "accumulation": 4,
+  "seed": 3582026,
+  "learningRate": 2e-05,
+  "warmupSteps": 100,
+  "validationEvery": 250,
+  "workers": 8,
+  "snapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+  "device": "NVIDIA GeForce RTX 4090",
+  "torch": "2.1.2",
+  "precision": "bf16",
+  "augmentationEnabled": true,
+  "materialThresholdU8Range": [
+    50,
+    80
+  ],
+  "sourceLabelStatus": "Long teacher pseudo-labels; not human ground truth",
+  "model": "ResidualEncoderUNet + centre + six affinities",
+  "selection": "real semantic loss + 0.5 compressed semantic loss",
+  "earlyStoppingPatience": 20,
+  "earlyStoppingMinSteps": 1000,
+  "codeSHA256": {
+    "network.py": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+    "data.py": "ad9c7e45457b069826aa4e689c34ab36e4575531f1aaf13792b14297d19d4056",
+    "material.py": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+    "train.py": "79813b1be4738be4925548efe80a9356f54c4d0705ab5f35075db8bf6aaafa30",
+    "reliable_io.py": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e"
+  },
+  "teacherSHA256": [
+    "6a3ff424f67c5619a12b18fcb2598fbc36961fd851f9fb67e4d4d0c37d3e458b",
+    "7195cdaa831700d72c1fb3da98c8ce71d8ea87659d026a9f26c358b759f4ba59"
+  ],
+  "sampleOffset": 10000000,
+  "distillation": false,
+  "parentStep": 8000,
+  "checkpointEvery": 50,
+  "sampling": "uniform scroll, uniform family, arclength within group; compaction donors from same scroll",
+  "initializationSHA256": "6a3ff424f67c5619a12b18fcb2598fbc36961fd851f9fb67e4d4d0c37d3e458b",
+  "limitations": [
+    "Geometric material compaction, not calibrated mechanical simulation.",
+    "Validation combines the unchanged PHerc0813 cases and disjoint PHerc1447 regions; targets are pseudo-labels, not independently verified fibre accuracy.",
+    "Intersection-dominated targets are ignored; intersection performance is not established."
+  ]
+}

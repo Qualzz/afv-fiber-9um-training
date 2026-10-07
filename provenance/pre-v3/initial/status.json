@@ -1,0 +1,8 @@
+{
+  "stage": "stopped",
+  "step": 1199,
+  "maxSteps": 3000,
+  "bestScore": 1.933753422622023,
+  "updatedAt": "2026-09-19T17:43:02Z",
+  "earlyStopped": true
+}

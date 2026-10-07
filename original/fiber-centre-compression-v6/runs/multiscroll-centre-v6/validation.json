@@ -1,0 +1,4228 @@
+[
+  {
+    "file": "paired-00-real.npz",
+    "sha256": "de45fae16bf30601359a20b0a8eb8be26cfba6bba5ec31ac290bac00848d11cd",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.9162055964307807,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6950778961181641,
+      0.38673073053359985,
+      0.6060578227043152
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.8817963600158691,
+    "compressed": false,
+    "centerVoxels": 61,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000000,
+    "sourceRegions": [
+      "PHerc0813-z9728_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z9728_y1536_x3584-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-00-mild.npz",
+    "sha256": "da502bd56c4244efced3d58d77bde43c1ea3bef5324d1bfc72bb85de79d907b1",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.9162055964307807,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6950778961181641,
+      0.38673073053359985,
+      0.6060578227043152
+    ],
+    "mixedLabelFraction": 0.01911306381225586,
+    "coverage": 1.0,
+    "knownFraction": 0.8698692321777344,
+    "compressed": true,
+    "centerVoxels": 62,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8447206020355225,
+    "seed": 94000000,
+    "sourceRegions": [
+      "PHerc0813-z9728_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z9728_y1536_x3584-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-00-moderate.npz",
+    "sha256": "ce51212950e469e22faf6b315037af0eac1e8c514c7e8df7f7652f40140e63bc",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.9162055964307807,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6950778961181641,
+      0.38673073053359985,
+      0.6060578227043152
+    ],
+    "mixedLabelFraction": 0.04741668701171875,
+    "coverage": 1.0,
+    "knownFraction": 0.857673168182373,
+    "compressed": true,
+    "centerVoxels": 63,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8447206020355225,
+    "seed": 94000000,
+    "sourceRegions": [
+      "PHerc0813-z9728_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z9728_y1536_x3584-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-00-hard.npz",
+    "sha256": "17a86b3b2f687b174252b30566c9a62bd482f13c8b3a0718896c6198e85f51e4",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.9162055964307807,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6950778961181641,
+      0.38673073053359985,
+      0.6060578227043152
+    ],
+    "mixedLabelFraction": 0.05769205093383789,
+    "coverage": 1.0,
+    "knownFraction": 0.8623552322387695,
+    "compressed": true,
+    "centerVoxels": 97,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8447206020355225,
+    "seed": 94000000,
+    "sourceRegions": [
+      "PHerc0813-z9728_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z9728_y1536_x3584-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-01-real.npz",
+    "sha256": "81cca15a74ee123897336860d5ab8586be1ceaa082526bf1615ec9b321cdf6c8",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9329299926757812,
+    "compressed": false,
+    "centerVoxels": 2274,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000001,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981080-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-01-mild.npz",
+    "sha256": "e920963d2e71309e81cc542a24474a075bdb4f83b9877ffc8d66223ec0d2d028",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.011019706726074219,
+    "coverage": 1.0,
+    "knownFraction": 0.9262185096740723,
+    "compressed": true,
+    "centerVoxels": 2303,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000001,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981080-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-01-moderate.npz",
+    "sha256": "28847be90aeae914406ccd51c932b8d1f83598774f60b757f988cef69de2fdbf",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.04168415069580078,
+    "coverage": 1.0,
+    "knownFraction": 0.9058966636657715,
+    "compressed": true,
+    "centerVoxels": 2605,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000001,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981080-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-01-hard.npz",
+    "sha256": "ea7d6b4080e8abfa2f329e262663705455b482e5fde117ca6a0cc6e2d90b54fb",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.05775308609008789,
+    "coverage": 1.0,
+    "knownFraction": 0.8958473205566406,
+    "compressed": true,
+    "centerVoxels": 3473,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000001,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981080-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-02-real.npz",
+    "sha256": "cebedd86c333922e464ffe04ac6c0ce4827c21a0fc1f3dbb93554fdf7c6c7066",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.433359692855855,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.4715650677680969,
+      0.48448196053504944,
+      0.7368199229240417
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.8921818733215332,
+    "compressed": false,
+    "centerVoxels": 185,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000002,
+    "sourceRegions": [
+      "PHerc0813-z8704_y4608_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z8704_y4608_x5632-HZ-004"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-02-mild.npz",
+    "sha256": "e63fd59a51e2437d753d840b6eecca89fc0a482112800ea2436111989e6f4114",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.433359692855855,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.4715650677680969,
+      0.48448196053504944,
+      0.7368199229240417
+    ],
+    "mixedLabelFraction": 0.0009832382202148438,
+    "coverage": 1.0,
+    "knownFraction": 0.8916220664978027,
+    "compressed": true,
+    "centerVoxels": 187,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9859617948532104,
+    "seed": 94000002,
+    "sourceRegions": [
+      "PHerc0813-z8704_y4608_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z8704_y4608_x5632-HZ-004"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-02-moderate.npz",
+    "sha256": "5e3a240255fd847d0c4dad5d1709923fbf13fe48a41b50221b26ab3cbf758f3b",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.433359692855855,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.4715650677680969,
+      0.48448196053504944,
+      0.7368199229240417
+    ],
+    "mixedLabelFraction": 0.05032682418823242,
+    "coverage": 1.0,
+    "knownFraction": 0.8606243133544922,
+    "compressed": true,
+    "centerVoxels": 202,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9859617948532104,
+    "seed": 94000002,
+    "sourceRegions": [
+      "PHerc0813-z8704_y4608_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z8704_y4608_x5632-HZ-004"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-02-hard.npz",
+    "sha256": "9ec068d8de9b23efb11c3e2bfb1a78d8538820143d83c6131ab993b127ef0f93",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.433359692855855,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.4715650677680969,
+      0.48448196053504944,
+      0.7368199229240417
+    ],
+    "mixedLabelFraction": 0.07033491134643555,
+    "coverage": 1.0,
+    "knownFraction": 0.8496050834655762,
+    "compressed": true,
+    "centerVoxels": 328,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9859617948532104,
+    "seed": 94000002,
+    "sourceRegions": [
+      "PHerc0813-z8704_y4608_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z8704_y4608_x5632-HZ-004"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-03-real.npz",
+    "sha256": "c3fd4962052c8da22a6597550a5d650fdacc0735a963e4f0dbceb02c07930121",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.6950864727631797,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.8117350339889526,
+      0.5557941198348999,
+      0.17938579618930817
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9356393814086914,
+    "compressed": false,
+    "centerVoxels": 1723,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000003,
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3735256-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-03-mild.npz",
+    "sha256": "eaeb3d25a1644e6f4b9ab3920bbc256576bebb32f611cade7a85c60fea01e159",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6950864727631797,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.8117350339889526,
+      0.5557941198348999,
+      0.17938579618930817
+    ],
+    "mixedLabelFraction": 0.00732421875,
+    "coverage": 1.0,
+    "knownFraction": 0.9307861328125,
+    "compressed": true,
+    "centerVoxels": 1745,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9467823505401611,
+    "seed": 94000003,
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3735256-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-03-moderate.npz",
+    "sha256": "824ca9cf2b1e56d9f7fbdfa59108d413154ec6f4bb21bd2eca3361c811ec16a2",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6950864727631797,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.8117350339889526,
+      0.5557941198348999,
+      0.17938579618930817
+    ],
+    "mixedLabelFraction": 0.036637306213378906,
+    "coverage": 1.0,
+    "knownFraction": 0.9141955375671387,
+    "compressed": true,
+    "centerVoxels": 1897,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9467823505401611,
+    "seed": 94000003,
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3735256-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-03-hard.npz",
+    "sha256": "c38563342ebf8fcff8cdc1dbe5b21bc9142ba6e022f2d10decdeadd33ef18378",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6950864727631797,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.8117350339889526,
+      0.5557941198348999,
+      0.17938579618930817
+    ],
+    "mixedLabelFraction": 0.049180030822753906,
+    "coverage": 1.0,
+    "knownFraction": 0.9083418846130371,
+    "compressed": true,
+    "centerVoxels": 2616,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9467823505401611,
+    "seed": 94000003,
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3735256-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-04-real.npz",
+    "sha256": "b663a357ef2e11ef0a3b8e11f5f7bfabea701360cf37c9e65fe9ec03b2f9214f",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8323047600798087,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3104398250579834,
+      -0.9384898543357849,
+      0.15120844542980194
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9196510314941406,
+    "compressed": false,
+    "centerVoxels": 1885,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000004,
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-127"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-04-mild.npz",
+    "sha256": "6a25b21b963e77b0df4fab5cf1c8ff4c1b83124b2f6b092e42451e0fa18a6fc9",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8323047600798087,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3104398250579834,
+      -0.9384898543357849,
+      0.15120844542980194
+    ],
+    "mixedLabelFraction": 0.026558399200439453,
+    "coverage": 1.0,
+    "knownFraction": 0.9026761054992676,
+    "compressed": true,
+    "centerVoxels": 1880,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9534485340118408,
+    "seed": 94000004,
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-127"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-04-moderate.npz",
+    "sha256": "9609159faaef1b7c3b9bd99b3bc6e271ea553c92b1b41490681a34c35f72b3d6",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8323047600798087,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3104398250579834,
+      -0.9384898543357849,
+      0.15120844542980194
+    ],
+    "mixedLabelFraction": 0.048970699310302734,
+    "coverage": 1.0,
+    "knownFraction": 0.889702320098877,
+    "compressed": true,
+    "centerVoxels": 1962,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9534485340118408,
+    "seed": 94000004,
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-127"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-04-hard.npz",
+    "sha256": "0454536b6d45ba8595f0448346b128518f8c3d11a50ed128a12ba44fdeb5758d",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8323047600798087,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3104398250579834,
+      -0.9384898543357849,
+      0.15120844542980194
+    ],
+    "mixedLabelFraction": 0.0630960464477539,
+    "coverage": 1.0,
+    "knownFraction": 0.8829789161682129,
+    "compressed": true,
+    "centerVoxels": 2131,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9534485340118408,
+    "seed": 94000004,
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-127"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-05-real.npz",
+    "sha256": "a824a69b451e702887140ba4763e3ef5d9fcc710d776c7fce5e9d119d1c0d0e8",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9429111480712891,
+    "compressed": false,
+    "centerVoxels": 2112,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000005,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921792-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-05-mild.npz",
+    "sha256": "93292b6e421a7a41b8a3182caf52463cb13e88495c34f73d55a41d7a6b885954",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.01823139190673828,
+    "coverage": 1.0,
+    "knownFraction": 0.9306416511535645,
+    "compressed": true,
+    "centerVoxels": 2138,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000005,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921792-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-05-moderate.npz",
+    "sha256": "d5f6ac591fb6d2a0e36ca125fa7c7e657d44aebcc28706c35ddadb387308341b",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.03588151931762695,
+    "coverage": 1.0,
+    "knownFraction": 0.9189825057983398,
+    "compressed": true,
+    "centerVoxels": 2340,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000005,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921792-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-05-hard.npz",
+    "sha256": "022059cd54799d115179de4f9ea1f80102da8dd5458f0c60269b8140865ff269",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.04260969161987305,
+    "coverage": 1.0,
+    "knownFraction": 0.9164872169494629,
+    "compressed": true,
+    "centerVoxels": 2753,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000005,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921792-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-06-real.npz",
+    "sha256": "8efa70dd6c2265320ed5bda403379017b96c047d978c5e3bc51d7fd37d9987fa",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.7773020933540531,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.29651015996932983,
+      0.8901109099388123,
+      0.3460986316204071
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9130706787109375,
+    "compressed": false,
+    "centerVoxels": 629,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000006,
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-HZ-070"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-06-mild.npz",
+    "sha256": "3192a20a680b5e9281487dcaf375a7af5466f4dfd633b22c35a27e306e25e445",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.7773020933540531,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.29651015996932983,
+      0.8901109099388123,
+      0.3460986316204071
+    ],
+    "mixedLabelFraction": 0.02434253692626953,
+    "coverage": 1.0,
+    "knownFraction": 0.8979859352111816,
+    "compressed": true,
+    "centerVoxels": 639,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9250255227088928,
+    "seed": 94000006,
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-HZ-070"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-06-moderate.npz",
+    "sha256": "7cb0b3b6861ac140031a749dd83521608e0a4db18afd346265acf7c0b1f744e3",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.7773020933540531,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.29651015996932983,
+      0.8901109099388123,
+      0.3460986316204071
+    ],
+    "mixedLabelFraction": 0.04201793670654297,
+    "coverage": 1.0,
+    "knownFraction": 0.8854250907897949,
+    "compressed": true,
+    "centerVoxels": 825,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9250255227088928,
+    "seed": 94000006,
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-HZ-070"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-06-hard.npz",
+    "sha256": "4598080a7b90c5928320822cc93dc68c43a82f57439c99c44284d55113bb16f0",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.7773020933540531,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.29651015996932983,
+      0.8901109099388123,
+      0.3460986316204071
+    ],
+    "mixedLabelFraction": 0.055855751037597656,
+    "coverage": 1.0,
+    "knownFraction": 0.8770298957824707,
+    "compressed": true,
+    "centerVoxels": 1295,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9250255227088928,
+    "seed": 94000006,
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-HZ-070"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-07-real.npz",
+    "sha256": "db7cad141a41648d310fc168bda7ea6b16186234347f9d49ef767e30ffc0ed7e",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9611268043518066,
+    "compressed": false,
+    "centerVoxels": 3416,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000007,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140306-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-07-mild.npz",
+    "sha256": "cb9438c8ae5a47740a29d4d1af0e9dcfa3dc472c93d654a32f6f0b1c614c9e98",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.031192302703857422,
+    "coverage": 1.0,
+    "knownFraction": 0.9388012886047363,
+    "compressed": true,
+    "centerVoxels": 3518,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000007,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140306-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-07-moderate.npz",
+    "sha256": "60c793f509ada77e131a93e7aaf34cebb2497c245338b9a7c0659117761821bc",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.043961524963378906,
+    "coverage": 1.0,
+    "knownFraction": 0.9284477233886719,
+    "compressed": true,
+    "centerVoxels": 3812,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000007,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140306-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-07-hard.npz",
+    "sha256": "e54747ed57e42c02f912802e3c1c8682c06825c85311d289baa7b1037f310e76",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.06021308898925781,
+    "coverage": 1.0,
+    "knownFraction": 0.912604808807373,
+    "compressed": true,
+    "centerVoxels": 4807,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000007,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140306-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-08-real.npz",
+    "sha256": "9251bf077e8f69091b62c454da5acfca3628c728802d394ac9c8c1802056be11",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8650724629330097,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6335612535476685,
+      0.69672030210495,
+      -0.3364238440990448
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.8834638595581055,
+    "compressed": false,
+    "centerVoxels": 412,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000008,
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z3584_y1536_x3584-VT-027"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-08-mild.npz",
+    "sha256": "bf93bdfa2975227a27e45ed443bb28a50771271e52ce3fdd2a0586dea8f8124e",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8650724629330097,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6335612535476685,
+      0.69672030210495,
+      -0.3364238440990448
+    ],
+    "mixedLabelFraction": 0.01780986785888672,
+    "coverage": 1.0,
+    "knownFraction": 0.873934268951416,
+    "compressed": true,
+    "centerVoxels": 421,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8461713194847107,
+    "seed": 94000008,
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z3584_y1536_x3584-VT-027"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-08-moderate.npz",
+    "sha256": "483a8e6cfa39cf867be30f8d6bf7f1ab36058eb89b2eeb8c253db8c52e4c1ad7",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8650724629330097,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6335612535476685,
+      0.69672030210495,
+      -0.3364238440990448
+    ],
+    "mixedLabelFraction": 0.050925254821777344,
+    "coverage": 1.0,
+    "knownFraction": 0.8610701560974121,
+    "compressed": true,
+    "centerVoxels": 446,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8461713194847107,
+    "seed": 94000008,
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z3584_y1536_x3584-VT-027"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-08-hard.npz",
+    "sha256": "c5a49ab25471e664e5a94cfa0e432b6b9b01cbf401cd81249d9fad2cac20d41f",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8650724629330097,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6335612535476685,
+      0.69672030210495,
+      -0.3364238440990448
+    ],
+    "mixedLabelFraction": 0.058678627014160156,
+    "coverage": 1.0,
+    "knownFraction": 0.867424488067627,
+    "compressed": true,
+    "centerVoxels": 562,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8461713194847107,
+    "seed": 94000008,
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x3584"
+    ],
+    "donors": [
+      "PHerc0813-z3584_y1536_x3584-VT-027"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-09-real.npz",
+    "sha256": "a824a69b451e702887140ba4763e3ef5d9fcc710d776c7fce5e9d119d1c0d0e8",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9429111480712891,
+    "compressed": false,
+    "centerVoxels": 2112,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000009,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4922024-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-09-mild.npz",
+    "sha256": "93292b6e421a7a41b8a3182caf52463cb13e88495c34f73d55a41d7a6b885954",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.01823139190673828,
+    "coverage": 1.0,
+    "knownFraction": 0.9306416511535645,
+    "compressed": true,
+    "centerVoxels": 2138,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000009,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4922024-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-09-moderate.npz",
+    "sha256": "d5f6ac591fb6d2a0e36ca125fa7c7e657d44aebcc28706c35ddadb387308341b",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.03588151931762695,
+    "coverage": 1.0,
+    "knownFraction": 0.9189825057983398,
+    "compressed": true,
+    "centerVoxels": 2340,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000009,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4922024-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-09-hard.npz",
+    "sha256": "022059cd54799d115179de4f9ea1f80102da8dd5458f0c60269b8140865ff269",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.6295324280120922,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.22097386419773102,
+      0.37040722370147705,
+      -0.902202308177948
+    ],
+    "mixedLabelFraction": 0.04260969161987305,
+    "coverage": 1.0,
+    "knownFraction": 0.9164872169494629,
+    "compressed": true,
+    "centerVoxels": 2753,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9207471609115601,
+    "seed": 94000009,
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4922024-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-10-real.npz",
+    "sha256": "bab807100733527858f19cb0c911c8bce6f5a5868a3db626ebbf0d8868870a3a",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8392119706262137,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.44796252250671387,
+      -0.25826311111450195,
+      -0.8559379577636719
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9051446914672852,
+    "compressed": false,
+    "centerVoxels": 24,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000010,
+    "sourceRegions": [
+      "PHerc0813-z14848_y4608_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z14848_y4608_x2560-HZ-010"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-10-mild.npz",
+    "sha256": "d8a29f5482b08ff9b97e09b190d513425d2eea97527494c002b01990ea49247a",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8392119706262137,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.44796252250671387,
+      -0.25826311111450195,
+      -0.8559379577636719
+    ],
+    "mixedLabelFraction": 0.024830341339111328,
+    "coverage": 1.0,
+    "knownFraction": 0.8901968002319336,
+    "compressed": true,
+    "centerVoxels": 34,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.955072283744812,
+    "seed": 94000010,
+    "sourceRegions": [
+      "PHerc0813-z14848_y4608_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z14848_y4608_x2560-HZ-010"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-10-moderate.npz",
+    "sha256": "0d221a6e39635432437b083d6c014feb7eaa669d919927847d86e37cea98456d",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8392119706262137,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.44796252250671387,
+      -0.25826311111450195,
+      -0.8559379577636719
+    ],
+    "mixedLabelFraction": 0.04901933670043945,
+    "coverage": 1.0,
+    "knownFraction": 0.8739862442016602,
+    "compressed": true,
+    "centerVoxels": 85,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.955072283744812,
+    "seed": 94000010,
+    "sourceRegions": [
+      "PHerc0813-z14848_y4608_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z14848_y4608_x2560-HZ-010"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-10-hard.npz",
+    "sha256": "8ec044356cbf0701b9df42a5e8fdfcdf0a9a406130c1a15471d7bd9086def668",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8392119706262137,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.44796252250671387,
+      -0.25826311111450195,
+      -0.8559379577636719
+    ],
+    "mixedLabelFraction": 0.06581783294677734,
+    "coverage": 1.0,
+    "knownFraction": 0.8646740913391113,
+    "compressed": true,
+    "centerVoxels": 162,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.955072283744812,
+    "seed": 94000010,
+    "sourceRegions": [
+      "PHerc0813-z14848_y4608_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z14848_y4608_x2560-HZ-010"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-11-real.npz",
+    "sha256": "db7cad141a41648d310fc168bda7ea6b16186234347f9d49ef767e30ffc0ed7e",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9611268043518066,
+    "compressed": false,
+    "centerVoxels": 3416,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000011,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140199-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-11-mild.npz",
+    "sha256": "cb9438c8ae5a47740a29d4d1af0e9dcfa3dc472c93d654a32f6f0b1c614c9e98",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.031192302703857422,
+    "coverage": 1.0,
+    "knownFraction": 0.9388012886047363,
+    "compressed": true,
+    "centerVoxels": 3518,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000011,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140199-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-11-moderate.npz",
+    "sha256": "60c793f509ada77e131a93e7aaf34cebb2497c245338b9a7c0659117761821bc",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.043961524963378906,
+    "coverage": 1.0,
+    "knownFraction": 0.9284477233886719,
+    "compressed": true,
+    "centerVoxels": 3812,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000011,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140199-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-11-hard.npz",
+    "sha256": "e54747ed57e42c02f912802e3c1c8682c06825c85311d289baa7b1037f310e76",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8495047107964053,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.07681018114089966,
+      -0.9782857298851013,
+      0.19250255823135376
+    ],
+    "mixedLabelFraction": 0.06021308898925781,
+    "coverage": 1.0,
+    "knownFraction": 0.912604808807373,
+    "compressed": true,
+    "centerVoxels": 4807,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.7349406480789185,
+    "seed": 94000011,
+    "sourceRegions": [
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z032-y10-x07-s4140199-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-12-real.npz",
+    "sha256": "645b3e936ea625ce6301e322d4267628e44370e1e851396fa6d9f5eb57be9a73",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.10631551053336719,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.0751987025141716,
+      0.9549534916877747,
+      -0.2870696187019348
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9754319190979004,
+    "compressed": false,
+    "centerVoxels": 0,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000012,
+    "sourceRegions": [
+      "PHerc0813-z12800_y4608_x4608"
+    ],
+    "donors": [
+      "PHerc0813-z12800_y4608_x4608-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-12-mild.npz",
+    "sha256": "0a3187fb5764c65c45cf25eaef6337409f0e0cb39ebda0c0b055abd33330d785",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.10631551053336719,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.0751987025141716,
+      0.9549534916877747,
+      -0.2870696187019348
+    ],
+    "mixedLabelFraction": 0.0060329437255859375,
+    "coverage": 1.0,
+    "knownFraction": 0.9687237739562988,
+    "compressed": true,
+    "centerVoxels": 0,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8601760268211365,
+    "seed": 94000012,
+    "sourceRegions": [
+      "PHerc0813-z12800_y4608_x4608"
+    ],
+    "donors": [
+      "PHerc0813-z12800_y4608_x4608-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-12-moderate.npz",
+    "sha256": "7ba9090cb40ca4be03bcbc15023702f5409ec25d1727f08c7e87803391edd71c",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.10631551053336719,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.0751987025141716,
+      0.9549534916877747,
+      -0.2870696187019348
+    ],
+    "mixedLabelFraction": 0.011511802673339844,
+    "coverage": 1.0,
+    "knownFraction": 0.9582657814025879,
+    "compressed": true,
+    "centerVoxels": 45,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8601760268211365,
+    "seed": 94000012,
+    "sourceRegions": [
+      "PHerc0813-z12800_y4608_x4608"
+    ],
+    "donors": [
+      "PHerc0813-z12800_y4608_x4608-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-12-hard.npz",
+    "sha256": "6be7bb468abcd98251b773a13f9522570f5040d31ed1ee97014fa0c44369956d",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.10631551053336719,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      0.0751987025141716,
+      0.9549534916877747,
+      -0.2870696187019348
+    ],
+    "mixedLabelFraction": 0.022601604461669922,
+    "coverage": 1.0,
+    "knownFraction": 0.9385151863098145,
+    "compressed": true,
+    "centerVoxels": 188,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.8601760268211365,
+    "seed": 94000012,
+    "sourceRegions": [
+      "PHerc0813-z12800_y4608_x4608"
+    ],
+    "donors": [
+      "PHerc0813-z12800_y4608_x4608-VT-005"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-13-real.npz",
+    "sha256": "81cca15a74ee123897336860d5ab8586be1ceaa082526bf1615ec9b321cdf6c8",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9329299926757812,
+    "compressed": false,
+    "centerVoxels": 2274,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000013,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s980839-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-13-mild.npz",
+    "sha256": "e920963d2e71309e81cc542a24474a075bdb4f83b9877ffc8d66223ec0d2d028",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.011019706726074219,
+    "coverage": 1.0,
+    "knownFraction": 0.9262185096740723,
+    "compressed": true,
+    "centerVoxels": 2303,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000013,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s980839-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-13-moderate.npz",
+    "sha256": "28847be90aeae914406ccd51c932b8d1f83598774f60b757f988cef69de2fdbf",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.04168415069580078,
+    "coverage": 1.0,
+    "knownFraction": 0.9058966636657715,
+    "compressed": true,
+    "centerVoxels": 2605,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000013,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s980839-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-13-hard.npz",
+    "sha256": "ea7d6b4080e8abfa2f329e262663705455b482e5fde117ca6a0cc6e2d90b54fb",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.8063122531321567,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.6132007241249084,
+      0.5393431782722473,
+      0.5771428346633911
+    ],
+    "mixedLabelFraction": 0.05775308609008789,
+    "coverage": 1.0,
+    "knownFraction": 0.8958473205566406,
+    "compressed": true,
+    "centerVoxels": 3473,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.970310628414154,
+    "seed": 94000013,
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s980839-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-14-real.npz",
+    "sha256": "628a56190cde18fab68446c3417dab76955e2c1d42c257b49ca600f0e8d82fc3",
+    "group": "real",
+    "severity": "real",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.5546745636857786,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.12345350533723831,
+      -0.990390419960022,
+      0.0623386949300766
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9273843765258789,
+    "compressed": false,
+    "centerVoxels": 1168,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000014,
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-HZ-059"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-14-mild.npz",
+    "sha256": "4624e8898a41675daecd391349a8138147d48837bf2821b3903a3161afd85e4a",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.5546745636857786,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.12345350533723831,
+      -0.990390419960022,
+      0.0623386949300766
+    ],
+    "mixedLabelFraction": 0.011344432830810547,
+    "coverage": 1.0,
+    "knownFraction": 0.9205937385559082,
+    "compressed": true,
+    "centerVoxels": 1161,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9466002583503723,
+    "seed": 94000014,
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-HZ-059"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-14-moderate.npz",
+    "sha256": "5108833e536fd91a5f188f0fcf3ec1c53d06aba11f237213d758ead9f94263b6",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.5546745636857786,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.12345350533723831,
+      -0.990390419960022,
+      0.0623386949300766
+    ],
+    "mixedLabelFraction": 0.03440713882446289,
+    "coverage": 1.0,
+    "knownFraction": 0.9082703590393066,
+    "compressed": true,
+    "centerVoxels": 1264,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9466002583503723,
+    "seed": 94000014,
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-HZ-059"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-14-hard.npz",
+    "sha256": "cdc8ecac4a1bb19b1cfb102d3bd518affd68c28311a12d2d5642a8290bc0df13",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "retention-0813",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.5546745636857786,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.12345350533723831,
+      -0.990390419960022,
+      0.0623386949300766
+    ],
+    "mixedLabelFraction": 0.0442051887512207,
+    "coverage": 1.0,
+    "knownFraction": 0.9073867797851562,
+    "compressed": true,
+    "centerVoxels": 1519,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9466002583503723,
+    "seed": 94000014,
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560"
+    ],
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-HZ-059"
+    ],
+    "scroll": "PHerc0813"
+  },
+  {
+    "file": "paired-15-real.npz",
+    "sha256": "bc02ff0c942728a292f4e611c6235b51826cfd8d9a35393adf359993726a5808",
+    "group": "real",
+    "severity": "real",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": false,
+    "normalConfidence": 0.841690780360243,
+    "materialFactor": 1.0,
+    "voidFactor": 1.0,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3829110562801361,
+      0.9186495542526245,
+      -0.09727372229099274
+    ],
+    "mixedLabelFraction": 0.0,
+    "coverage": 1.0,
+    "knownFraction": 0.9454083442687988,
+    "compressed": false,
+    "centerVoxels": 2879,
+    "ctSubsamples": 1,
+    "meanMaterialDensity": null,
+    "seed": 94000015,
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938293-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-15-mild.npz",
+    "sha256": "72f5bb8d4fbac9c735c935573cd60eec88b3b5202df35f1a32ca9ef3780dd6f3",
+    "group": "compressed",
+    "severity": "mild",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.841690780360243,
+    "materialFactor": 1.0,
+    "voidFactor": 0.45,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3829110562801361,
+      0.9186495542526245,
+      -0.09727372229099274
+    ],
+    "mixedLabelFraction": 0.008160114288330078,
+    "coverage": 1.0,
+    "knownFraction": 0.9405207633972168,
+    "compressed": true,
+    "centerVoxels": 2882,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9496277570724487,
+    "seed": 94000015,
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938293-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-15-moderate.npz",
+    "sha256": "136c2a68a5fcdec17458cbcd3140c83e977d4aa457e451dd1b53391d6a5e1dc3",
+    "group": "compressed",
+    "severity": "moderate",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.841690780360243,
+    "materialFactor": 0.9,
+    "voidFactor": 0.15,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3829110562801361,
+      0.9186495542526245,
+      -0.09727372229099274
+    ],
+    "mixedLabelFraction": 0.041552066802978516,
+    "coverage": 1.0,
+    "knownFraction": 0.9211382865905762,
+    "compressed": true,
+    "centerVoxels": 3148,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9496277570724487,
+    "seed": 94000015,
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938293-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "file": "paired-15-hard.npz",
+    "sha256": "a61684437afac7c43dd3e432b0cf27dac53010fd0c2bb0a2ea5c0290793b099e",
+    "group": "compressed",
+    "severity": "hard",
+    "cohort": "new-1447",
+    "legacy": false,
+    "augmented": true,
+    "normalConfidence": 0.841690780360243,
+    "materialFactor": 0.65,
+    "voidFactor": 0.04,
+    "centerZYX": [
+      255.5,
+      255.5,
+      255.5
+    ],
+    "normalZYX": [
+      -0.3829110562801361,
+      0.9186495542526245,
+      -0.09727372229099274
+    ],
+    "mixedLabelFraction": 0.056656837463378906,
+    "coverage": 1.0,
+    "knownFraction": 0.9103856086730957,
+    "compressed": true,
+    "centerVoxels": 4356,
+    "ctSubsamples": 3,
+    "meanMaterialDensity": 0.9496277570724487,
+    "seed": 94000015,
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938293-0"
+    ],
+    "scroll": "PHerc1447"
+  },
+  {
+    "sha256": "2036e47253beb7ab136c590064f2e05fb792c1729926e6686a03778c0ffa6b3c",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z5632_y2560_x2560-HZ-046"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y2560_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100000,
+    "cohort": "retention-0813",
+    "file": "legacy-000.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "0cac783d46b3aa3b86b7ab65ca8edcd632ecf59846403f12a0d1396f75a71711",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-HZ-096"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.4576011102945924,
+      "materialThreshold": 65,
+      "coverage": 0.9577550888061523,
+      "voidFractionRemoved": 0.40069711208343506,
+      "mixedInstanceFraction": 0.02914714813232422,
+      "slabs": 4,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 65.11518859863281
+    },
+    "seed": 800100001,
+    "cohort": "retention-0813",
+    "file": "legacy-001.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "ef150b1237bc8bf30283f4d9258c755227711fc900a9638f38dcddc044830edb",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z10752_y3584_x3584-HZ-031"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z10752_y3584_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100002,
+    "cohort": "retention-0813",
+    "file": "legacy-002.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "cb8b90f221ad10683a69e9fc2e97ce03b0c3a4962cc1945b2c3bd19fe5a6aaf6",
+    "augmented": true,
+    "factor": 0.45401890011141544,
+    "materialThreshold": 62,
+    "coverage": 0.9953765869140625,
+    "voidFractionRemoved": 0.4018362760543823,
+    "mixedInstanceFraction": 0.015933990478515625,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.012672424316406,
+    "forwardWarpJacobian": 0.8938045259698295,
+    "bendingAmplitudeVoxels": 4.032644466561345,
+    "donors": [
+      "PHerc0813-z13824_y2560_x1536-VT-002",
+      "PHerc0813-z10752_y3584_x3584-HZ-021",
+      "PHerc0813-z15872_y2560_x1536-HZ-128",
+      "PHerc0813-z2560_y2560_x2560-VT-053"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z13824_y2560_x1536",
+      "PHerc0813-z10752_y3584_x3584",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z2560_y2560_x2560"
+    ],
+    "compressed": true,
+    "seed": 800100003,
+    "cohort": "retention-0813",
+    "file": "legacy-003.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "297a35e6394c449a151b44eca3a98a823b1dbf16e7d5ebd7569288dd6cd61e2b",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-001"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100004,
+    "cohort": "retention-0813",
+    "file": "legacy-004.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "b825a85c97c4c3c0894f6b411f6f12cde7077ad495b0eebb9bf0662cbf3afc85",
+    "augmented": true,
+    "factor": 0.17838375654236097,
+    "materialThreshold": 62,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.335757082158869,
+    "mixedInstanceFraction": 0.04008960723876953,
+    "slabs": 11,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.03838348388672,
+    "forwardWarpJacobian": 0.826655222909134,
+    "bendingAmplitudeVoxels": 1.5490190400000494,
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-VT-003",
+      "PHerc0813-z7680_y2560_x5632-VT-075",
+      "PHerc0813-z11776_y2560_x5632-HZ-008",
+      "PHerc0813-z15872_y2560_x2560-VT-024",
+      "PHerc0813-z14848_y1536_x3584-HZ-004",
+      "PHerc0813-z15872_y2560_x2560-VT-066",
+      "PHerc0813-z4608_y4608_x4608-HZ-008",
+      "PHerc0813-z15872_y2560_x2560-VT-049",
+      "PHerc0813-z15872_y2560_x2560-HZ-058",
+      "PHerc0813-z7680_y2560_x5632-HZ-046",
+      "PHerc0813-z15872_y2560_x1536-VT-003"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z4608_y4608_x4608",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z15872_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100005,
+    "cohort": "retention-0813",
+    "file": "legacy-005.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "61182832e487a9241e87eac3846c46eb0bd1d8cd90f45fd977fda74d105eb128",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z10752_y4608_x2560-HZ-010"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z10752_y4608_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100006,
+    "cohort": "retention-0813",
+    "file": "legacy-006.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "b8b8ff8cb412f5c7eaee79d444fe9cfe9a1ecd5f7ce91b567357817230e93840",
+    "augmented": true,
+    "factor": 0.48342372822970614,
+    "materialThreshold": 62,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.1960228681564331,
+    "mixedInstanceFraction": 0.031427860260009766,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.03996276855469,
+    "forwardWarpJacobian": 0.8693634469947102,
+    "bendingAmplitudeVoxels": 4.241314281706395,
+    "donors": [
+      "PHerc0813-z10752_y4608_x2560-VT-090",
+      "PHerc0813-z13824_y2560_x2560-VT-001",
+      "PHerc0813-z14848_y1536_x3584-VT-034",
+      "PHerc0813-z7680_y2560_x5632-VT-038"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z13824_y2560_x2560",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": true,
+    "seed": 800100007,
+    "cohort": "retention-0813",
+    "file": "legacy-007.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "aa8113c76c079805a1a97ac96445ee4244b21209755c89293d4a57f7fe2c7250",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z9728_y1536_x3584-HZ-003"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z9728_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100008,
+    "cohort": "retention-0813",
+    "file": "legacy-008.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "a703c8f8630ec473f7a2933f6cc5028454adbef02e8568da158dbf08574de017",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z3584_y1536_x1536-HZ-015"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x1536"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.6206941906606821,
+      "materialThreshold": 66,
+      "coverage": 0.9098005294799805,
+      "voidFractionRemoved": 0.40559260050455725,
+      "mixedInstanceFraction": 0.020189762115478516,
+      "slabs": 3,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 66.05381774902344
+    },
+    "seed": 800100009,
+    "cohort": "retention-0813",
+    "file": "legacy-009.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "a594e5a8393b80409b2382afa487f8afae3c9191cf88f072f59cb1d9cbb0c974",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z3584_y1536_x1536-HZ-012"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100010,
+    "cohort": "retention-0813",
+    "file": "legacy-010.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "c3e34508345015c6f0b8fbdd52f7e275b145985d5adef8614f0e760db39244f5",
+    "augmented": true,
+    "factor": 0.2974347341717657,
+    "materialThreshold": 68,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.2977164132254464,
+    "mixedInstanceFraction": 0.018942832946777344,
+    "slabs": 7,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 68.06095123291016,
+    "forwardWarpJacobian": 1.0483817151012578,
+    "bendingAmplitudeVoxels": 2.4628957473371416,
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-VT-003",
+      "PHerc0813-z5632_y2560_x2560-VT-010",
+      "PHerc0813-z1536_y4608_x3584-VT-001",
+      "PHerc0813-z12800_y4608_x4608-HZ-010",
+      "PHerc0813-z15872_y2560_x2560-HZ-067",
+      "PHerc0813-z3584_y1536_x3584-VT-024",
+      "PHerc0813-z15872_y2560_x2560-HZ-014"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560",
+      "PHerc0813-z5632_y2560_x2560",
+      "PHerc0813-z1536_y4608_x3584",
+      "PHerc0813-z12800_y4608_x4608",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z15872_y2560_x2560"
+    ],
+    "compressed": true,
+    "seed": 800100011,
+    "cohort": "retention-0813",
+    "file": "legacy-011.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "9bf1108d3f67256dfc267e0a205b6c9be959ddc495d151504727533a8e16c228",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z9728_y4608_x4608-HZ-001"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z9728_y4608_x4608"
+    ],
+    "compressed": false,
+    "seed": 800100012,
+    "cohort": "retention-0813",
+    "file": "legacy-012.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "54d5ebd1907c5168d7377df46222f90e8d2c367d2274fe832c79d0506431b8e9",
+    "augmented": true,
+    "factor": 0.47921430306079904,
+    "materialThreshold": 62,
+    "coverage": 0.9999995231628418,
+    "voidFractionRemoved": 0.3688170909881592,
+    "mixedInstanceFraction": 0.03158712387084961,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.037208557128906,
+    "forwardWarpJacobian": 0.7700563827033917,
+    "bendingAmplitudeVoxels": 4.256798616398997,
+    "donors": [
+      "PHerc0813-z15872_y2560_x1536-HZ-034",
+      "PHerc0813-z14848_y1536_x3584-HZ-040",
+      "PHerc0813-z5632_y3584_x3584-HZ-019",
+      "PHerc0813-z15872_y2560_x1536-HZ-015"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z5632_y3584_x3584",
+      "PHerc0813-z15872_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100013,
+    "cohort": "retention-0813",
+    "file": "legacy-013.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "4bfa22d5dee312eec0c9828d28e88e73bb9b28e0dab2d7a41101310b9758885a",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-VT-015"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100014,
+    "cohort": "retention-0813",
+    "file": "legacy-014.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "ee454c4be6d33d123c6f9f5be8ac9ced6f746d97ec11339d4a7ebb65cd052e31",
+    "augmented": true,
+    "factor": 0.5730443687606777,
+    "materialThreshold": 52,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.18355953693389893,
+    "mixedInstanceFraction": 0.028892993927001953,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 52.00596618652344,
+    "forwardWarpJacobian": 0.8661064181919044,
+    "bendingAmplitudeVoxels": 2.9885156032469666,
+    "donors": [
+      "PHerc0813-z2560_y2560_x2560-VT-003",
+      "PHerc0813-z6656_y2560_x5632-HZ-030",
+      "PHerc0813-z15872_y2560_x1536-HZ-092",
+      "PHerc0813-z3584_y1536_x3584-VT-024"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z2560_y2560_x2560",
+      "PHerc0813-z6656_y2560_x5632",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z3584_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100015,
+    "cohort": "retention-0813",
+    "file": "legacy-015.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "b7968035f68784a25abf23737676fe815051d8ef89dcb233bc4afe04d1966d1c",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z8704_y4608_x5632-VT-006"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z8704_y4608_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100016,
+    "cohort": "retention-0813",
+    "file": "legacy-016.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "0cd3f7b9e137faa03ae63497ad4cba6e1e13045b5b0c266f088fd4e5bd3ca43d",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-VT-020"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.41633724814119843,
+      "materialThreshold": 80,
+      "coverage": 0.9259905815124512,
+      "voidFractionRemoved": 0.5437725067138672,
+      "mixedInstanceFraction": 0.03794431686401367,
+      "slabs": 5,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 80.03274536132812
+    },
+    "seed": 800100017,
+    "cohort": "retention-0813",
+    "file": "legacy-017.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "c20d806541a698a4b6d185c1758eb4ef6dd7960e7f2dd080ecdbe4006076b569",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-VT-016"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100018,
+    "cohort": "retention-0813",
+    "file": "legacy-018.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "d6499eb2e16515c11784bc51120a55731e4009bf1295ccac7b7f2b3ee81b7d9f",
+    "augmented": true,
+    "factor": 0.19948753420234863,
+    "materialThreshold": 60,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.3789718627929688,
+    "mixedInstanceFraction": 0.051457881927490234,
+    "slabs": 10,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 60.00945281982422,
+    "forwardWarpJacobian": 0.8185221898012935,
+    "bendingAmplitudeVoxels": 2.0025516588536276,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-HZ-030",
+      "PHerc0813-z7680_y2560_x5632-HZ-098",
+      "PHerc0813-z14848_y1536_x3584-HZ-007",
+      "PHerc0813-z13824_y2560_x2560-VT-001",
+      "PHerc0813-z15872_y2560_x2560-VT-034",
+      "PHerc0813-z10752_y3584_x3584-HZ-037",
+      "PHerc0813-z14848_y1536_x3584-HZ-066",
+      "PHerc0813-z5632_y2560_x2560-VT-068",
+      "PHerc0813-z15872_y2560_x2560-VT-033",
+      "PHerc0813-z15872_y2560_x1536-HZ-062"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z13824_y2560_x2560",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z10752_y3584_x3584",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z5632_y2560_x2560",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z15872_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100019,
+    "cohort": "retention-0813",
+    "file": "legacy-019.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "317ef33ad1247e019581873c4e87c16857ea6573532d06f1d40ad6226ce3bde5",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-HZ-046"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100020,
+    "cohort": "retention-0813",
+    "file": "legacy-020.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "1866ab533a4151d8dd20f8bcb00bd9beb95c7616316707e9328d62551ad5906e",
+    "augmented": true,
+    "factor": 0.3140056958160301,
+    "materialThreshold": 56,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.19800758361816406,
+    "mixedInstanceFraction": 0.03675508499145508,
+    "slabs": 6,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 56.09862518310547,
+    "forwardWarpJacobian": 0.8432017107675289,
+    "bendingAmplitudeVoxels": 3.7663758425277254,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-HZ-035",
+      "PHerc0813-z14848_y1536_x3584-HZ-135",
+      "PHerc0813-z10752_y4608_x2560-VT-050",
+      "PHerc0813-z11776_y2560_x5632-HZ-020",
+      "PHerc0813-z14848_y1536_x3584-HZ-149",
+      "PHerc0813-z2560_y3584_x3584-VT-030"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z2560_y3584_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100021,
+    "cohort": "retention-0813",
+    "file": "legacy-021.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "d31cd6690e1d654c66f282db8c497cb7ca036206cec0310bfee382ea1e238054",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z12800_y4608_x4608-HZ-004"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z12800_y4608_x4608"
+    ],
+    "compressed": false,
+    "seed": 800100022,
+    "cohort": "retention-0813",
+    "file": "legacy-022.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "030294c6f08a045d5de76c963f8355f79624ec38d9c73d533ee94c790303b08d",
+    "augmented": true,
+    "factor": 0.4477658974546407,
+    "materialThreshold": 65,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.3471632957458496,
+    "mixedInstanceFraction": 0.021085739135742188,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 65.05268096923828,
+    "forwardWarpJacobian": 0.7871337420140851,
+    "bendingAmplitudeVoxels": 2.5363718823777313,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-HZ-001",
+      "PHerc0813-z8704_y3584_x4608-HZ-005",
+      "PHerc0813-z14848_y1536_x3584-HZ-119",
+      "PHerc0813-z11776_y2560_x5632-VT-049",
+      "PHerc0813-z4608_y2560_x4608-VT-038"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z8704_y3584_x4608",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z4608_y2560_x4608"
+    ],
+    "compressed": true,
+    "seed": 800100023,
+    "cohort": "retention-0813",
+    "file": "legacy-023.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "88f8259220bb40544562b38ebb184aaf818f687eb5ef9cefe8381f3baae256da",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-011"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100024,
+    "cohort": "retention-0813",
+    "file": "legacy-024.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "18ce353b4870d584992af810758159c7f1a0ae2334b3243afba2ccdfb5e802ae",
+    "augmented": true,
+    "factor": 0.227605593085093,
+    "materialThreshold": 51,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.20550799369812012,
+    "mixedInstanceFraction": 0.02923870086669922,
+    "slabs": 8,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 51.01881408691406,
+    "forwardWarpJacobian": 1.0051065957404544,
+    "bendingAmplitudeVoxels": 3.487767196630836,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-054",
+      "PHerc0813-z5632_y3584_x3584-VT-027",
+      "PHerc0813-z7680_y2560_x5632-HZ-124",
+      "PHerc0813-z6656_y2560_x5632-HZ-022",
+      "PHerc0813-z15872_y2560_x2560-HZ-006",
+      "PHerc0813-z14848_y1536_x3584-HZ-098",
+      "PHerc0813-z14848_y1536_x3584-HZ-152",
+      "PHerc0813-z13824_y2560_x1536-HZ-003"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z5632_y3584_x3584",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z6656_y2560_x5632",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z13824_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100025,
+    "cohort": "retention-0813",
+    "file": "legacy-025.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "2e29fb8b6fc6e40d5ae42ed448bb3b72dbedae9c9a541031c9cc7e685ca7d75c",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-HZ-147"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100026,
+    "cohort": "retention-0813",
+    "file": "legacy-026.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "0d034f00d81b082f8080b186952023a2bd97b32954327b93f962455c5c210754",
+    "augmented": true,
+    "factor": 0.44142122563380926,
+    "materialThreshold": 54,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.23657579421997066,
+    "mixedInstanceFraction": 0.024226665496826172,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 54.01514434814453,
+    "forwardWarpJacobian": 0.8106786167748082,
+    "bendingAmplitudeVoxels": 2.0446867737370567,
+    "donors": [
+      "PHerc0813-z2560_y3584_x3584-VT-021",
+      "PHerc0813-z3584_y1536_x3584-HZ-033",
+      "PHerc0813-z14848_y1536_x3584-VT-050",
+      "PHerc0813-z15872_y2560_x1536-VT-007",
+      "PHerc0813-z14848_y1536_x3584-VT-008"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z2560_y3584_x3584",
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100027,
+    "cohort": "retention-0813",
+    "file": "legacy-027.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "c6c4b05c273d93d31c11ede0c135e7988fc3e2635c3519a6d1251babd59d69d6",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-VT-057"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100028,
+    "cohort": "retention-0813",
+    "file": "legacy-028.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "65038eb847ce4b28837d4fbb3289ba4780b4ec42641efa6c0e966d5007c1eeef",
+    "augmented": true,
+    "factor": 0.23758668562170923,
+    "materialThreshold": 78,
+    "coverage": 0.9930200576782227,
+    "voidFractionRemoved": 0.3513941764831543,
+    "mixedInstanceFraction": 0.04535055160522461,
+    "slabs": 8,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 78.08574676513672,
+    "forwardWarpJacobian": 0.8565833839964967,
+    "bendingAmplitudeVoxels": 1.777416124350491,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-082",
+      "PHerc0813-z10752_y4608_x2560-VT-084",
+      "PHerc0813-z9728_y1536_x3584-VT-011",
+      "PHerc0813-z14848_y1536_x3584-HZ-039",
+      "PHerc0813-z10752_y4608_x2560-VT-041",
+      "PHerc0813-z15872_y2560_x1536-VT-037",
+      "PHerc0813-z14848_y1536_x3584-HZ-027",
+      "PHerc0813-z15872_y2560_x2560-VT-019"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z9728_y1536_x3584",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z15872_y2560_x2560"
+    ],
+    "compressed": true,
+    "seed": 800100029,
+    "cohort": "retention-0813",
+    "file": "legacy-029.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "9760c462833f0e481621075999388ab5d7c3df8386fce8d7f95bf0aad77b62b4",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-142"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100030,
+    "cohort": "retention-0813",
+    "file": "legacy-030.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "94456ccf645c38a253d26a4e20558b49e56d682886db9a445b69dc6ffc329b0a",
+    "augmented": true,
+    "factor": 0.46954604288414636,
+    "materialThreshold": 70,
+    "coverage": 0.9924454689025879,
+    "voidFractionRemoved": 0.3323221206665039,
+    "mixedInstanceFraction": 0.022539615631103516,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 70.08595275878906,
+    "forwardWarpJacobian": 1.0472914324213465,
+    "bendingAmplitudeVoxels": 2.5336674449492276,
+    "donors": [
+      "PHerc0813-z11776_y2560_x5632-HZ-017",
+      "PHerc0813-z3584_y1536_x3584-HZ-033",
+      "PHerc0813-z15872_y2560_x2560-HZ-011",
+      "PHerc0813-z7680_y2560_x5632-VT-042"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": true,
+    "seed": 800100031,
+    "cohort": "retention-0813",
+    "file": "legacy-031.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "33c703d6e2ed8be5b048e8014e04f7733267b81594f4f37723b93ecf030f394f",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-VT-009"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100032,
+    "cohort": "retention-0813",
+    "file": "legacy-032.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "0c1b91d3435373cccf9d51f9beb08f9182892045a8b06d8ff9c7996034ca3428",
+    "augmented": true,
+    "factor": 0.583413215212699,
+    "materialThreshold": 68,
+    "coverage": 0.9959135055541992,
+    "voidFractionRemoved": 0.4546165466308594,
+    "mixedInstanceFraction": 0.03418397903442383,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 68.03887176513672,
+    "forwardWarpJacobian": 0.9384939423368508,
+    "bendingAmplitudeVoxels": 2.9355588316770973,
+    "donors": [
+      "PHerc0813-z10752_y4608_x2560-HZ-019",
+      "PHerc0813-z10752_y4608_x2560-VT-114",
+      "PHerc0813-z15872_y2560_x1536-HZ-009",
+      "PHerc0813-z14848_y1536_x3584-HZ-005"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100033,
+    "cohort": "retention-0813",
+    "file": "legacy-033.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "085d7a52f18c833f56643034063e7be815227b71d5d82458a9386e1c6e2d57fd",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-HZ-005"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100034,
+    "cohort": "retention-0813",
+    "file": "legacy-034.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "6672ba0b5ca2e3e4ec0a6958f6f3fe0ac8d2410b8464ff31911916c7803d237d",
+    "augmented": true,
+    "factor": 0.42392924144216637,
+    "materialThreshold": 63,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.399562931060791,
+    "mixedInstanceFraction": 0.017348289489746094,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 63.06412124633789,
+    "forwardWarpJacobian": 0.9212763020508352,
+    "bendingAmplitudeVoxels": 3.232616737986556,
+    "donors": [
+      "PHerc0813-z3584_y1536_x3584-VT-001",
+      "PHerc0813-z10752_y3584_x3584-HZ-033",
+      "PHerc0813-z11776_y2560_x5632-HZ-060",
+      "PHerc0813-z11776_y2560_x5632-VT-001",
+      "PHerc0813-z4608_y4608_x4608-HZ-002"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z10752_y3584_x3584",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z4608_y4608_x4608"
+    ],
+    "compressed": true,
+    "seed": 800100035,
+    "cohort": "retention-0813",
+    "file": "legacy-035.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "c3c11665ea30d423ff278ad4dc8e9a2c14cf122cf1883b9a8a2f3ab1300a7240",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z11776_y2560_x5632-HZ-057"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z11776_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100036,
+    "cohort": "retention-0813",
+    "file": "legacy-036.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "39965990b0fe93e4fa6f79bba60088cf142b02ae191fc00e4377091c758e2506",
+    "augmented": true,
+    "factor": 0.46651164034567094,
+    "materialThreshold": 57,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.320642352104187,
+    "mixedInstanceFraction": 0.018855571746826172,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 57.0037841796875,
+    "forwardWarpJacobian": 0.8482967196626774,
+    "bendingAmplitudeVoxels": 4.097295951407657,
+    "donors": [
+      "PHerc0813-z14848_y1536_x3584-VT-123",
+      "PHerc0813-z8704_y3584_x4608-HZ-007",
+      "PHerc0813-z11776_y1536_x4608-HZ-016",
+      "PHerc0813-z5632_y3584_x3584-VT-042"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z8704_y3584_x4608",
+      "PHerc0813-z11776_y1536_x4608",
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100037,
+    "cohort": "retention-0813",
+    "file": "legacy-037.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "cd54c28b33489e53c052c05835da16879043dadeff39faf6dceb53fefa2df93f",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z10752_y3584_x3584-HZ-004"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z10752_y3584_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100038,
+    "cohort": "retention-0813",
+    "file": "legacy-038.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "07ce1b3d4e750aed4e75cba3ba3099a8e91b70545eedb41fd2892b1f9d399d57",
+    "augmented": true,
+    "factor": 0.2086180313841188,
+    "materialThreshold": 64,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.24639410442776155,
+    "mixedInstanceFraction": 0.04074811935424805,
+    "slabs": 9,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 64.07649230957031,
+    "forwardWarpJacobian": 1.007073100416775,
+    "bendingAmplitudeVoxels": 1.8516970930359342,
+    "donors": [
+      "PHerc0813-z15872_y2560_x1536-VT-006",
+      "PHerc0813-z14848_y1536_x3584-VT-034",
+      "PHerc0813-z7680_y2560_x5632-HZ-128",
+      "PHerc0813-z5632_y2560_x2560-HZ-015",
+      "PHerc0813-z3584_y1536_x3584-VT-005",
+      "PHerc0813-z10752_y4608_x2560-VT-001",
+      "PHerc0813-z5632_y2560_x2560-VT-063",
+      "PHerc0813-z3584_y1536_x3584-VT-034",
+      "PHerc0813-z13824_y2560_x2560-VT-065"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z5632_y2560_x2560",
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z5632_y2560_x2560",
+      "PHerc0813-z3584_y1536_x3584",
+      "PHerc0813-z13824_y2560_x2560"
+    ],
+    "compressed": true,
+    "seed": 800100039,
+    "cohort": "retention-0813",
+    "file": "legacy-039.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "df37c068a5bded1de16d5cdd7aa8a557f1a22fdd0a883ae21e567606a9338b83",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-010"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": false,
+    "seed": 800100040,
+    "cohort": "retention-0813",
+    "file": "legacy-040.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "4a861ff33c9be2fd857a9e4cd708639835bbff1858cb890ce9ab9fab73097b1b",
+    "augmented": true,
+    "factor": 0.27483766905021256,
+    "materialThreshold": 70,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.3451305116925921,
+    "mixedInstanceFraction": 0.032355308532714844,
+    "slabs": 7,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 70.17037963867188,
+    "forwardWarpJacobian": 0.9990509741755473,
+    "bendingAmplitudeVoxels": 4.388124274449712,
+    "donors": [
+      "PHerc0813-z7680_y2560_x5632-VT-006",
+      "PHerc0813-z14848_y1536_x3584-HZ-131",
+      "PHerc0813-z13824_y2560_x2560-VT-050",
+      "PHerc0813-z14848_y1536_x3584-VT-095",
+      "PHerc0813-z11776_y2560_x5632-HZ-053",
+      "PHerc0813-z14848_y4608_x2560-VT-008",
+      "PHerc0813-z5632_y3584_x3584-HZ-023"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z13824_y2560_x2560",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z14848_y4608_x2560",
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100041,
+    "cohort": "retention-0813",
+    "file": "legacy-041.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "b4c23f27762b0c5d2f7ce94c4cc510ac39a988909c15525d202e796f9ee1c9dd",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-HZ-019"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100042,
+    "cohort": "retention-0813",
+    "file": "legacy-042.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "9af7c037ab02e7728727ef5eabb8dff8163c726edc8ed13c66c128dec866ebd3",
+    "augmented": true,
+    "factor": 0.3490200503327824,
+    "materialThreshold": 67,
+    "coverage": 0.9835162162780762,
+    "voidFractionRemoved": 0.3663771947224935,
+    "mixedInstanceFraction": 0.016367435455322266,
+    "slabs": 6,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 67.09024810791016,
+    "forwardWarpJacobian": 0.828961842387924,
+    "bendingAmplitudeVoxels": 2.3626730444059416,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-HZ-063",
+      "PHerc0813-z11776_y2560_x5632-VT-005",
+      "PHerc0813-z14848_y1536_x3584-VT-049",
+      "PHerc0813-z7680_y2560_x5632-VT-106",
+      "PHerc0813-z13824_y2560_x2560-VT-026",
+      "PHerc0813-z6656_y2560_x5632-VT-017"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z11776_y2560_x5632",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z7680_y2560_x5632",
+      "PHerc0813-z13824_y2560_x2560",
+      "PHerc0813-z6656_y2560_x5632"
+    ],
+    "compressed": true,
+    "seed": 800100043,
+    "cohort": "retention-0813",
+    "file": "legacy-043.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "f618d55a2cb75b9167031783f7dff6aceb6d4c8cb19177f9ff9edd8f2d8934fc",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z13824_y2560_x1536-VT-010"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z13824_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100044,
+    "cohort": "retention-0813",
+    "file": "legacy-044.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "a95fb925978dd3c8e5f551f4795f4ddc6c5a12956494b8da13f5231ac5e46e32",
+    "augmented": true,
+    "factor": 0.4306892725620628,
+    "materialThreshold": 65,
+    "coverage": 0.9912710189819336,
+    "voidFractionRemoved": 0.3568859100341797,
+    "mixedInstanceFraction": 0.03056192398071289,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 65.15202331542969,
+    "forwardWarpJacobian": 0.8645881568578596,
+    "bendingAmplitudeVoxels": 3.8056847222628574,
+    "donors": [
+      "PHerc0813-z5632_y2560_x2560-VT-058",
+      "PHerc0813-z14848_y1536_x3584-VT-084",
+      "PHerc0813-z2560_y2560_x2560-VT-060",
+      "PHerc0813-z10752_y4608_x2560-HZ-009",
+      "PHerc0813-z1536_y4608_x3584-HZ-002"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y2560_x2560",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z2560_y2560_x2560",
+      "PHerc0813-z10752_y4608_x2560",
+      "PHerc0813-z1536_y4608_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100045,
+    "cohort": "retention-0813",
+    "file": "legacy-045.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "921b30d65755f818fc02478c1f04e47a7fff48645d3736eded42c64e9d837b9e",
+    "augmented": false,
+    "donors": [
+      "PHerc0813-z5632_y3584_x3584-HZ-037"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z5632_y3584_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100046,
+    "cohort": "retention-0813",
+    "file": "legacy-046.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "504a1a91cfe0cdae278a8a094be5fa54a0b85965ef051cfa324d2619b136c33b",
+    "augmented": true,
+    "factor": 0.446399096751413,
+    "materialThreshold": 51,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.3166106224060059,
+    "mixedInstanceFraction": 0.031147480010986328,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 51.01587677001953,
+    "forwardWarpJacobian": 0.9737938761192186,
+    "bendingAmplitudeVoxels": 3.510780007702588,
+    "donors": [
+      "PHerc0813-z15872_y2560_x2560-VT-006",
+      "PHerc0813-z15872_y2560_x1536-HZ-009",
+      "PHerc0813-z14848_y1536_x3584-VT-112",
+      "PHerc0813-z1536_y4608_x3584-HZ-010",
+      "PHerc0813-z7680_y2560_x5632-VT-013"
+    ],
+    "sourceRegions": [
+      "PHerc0813-z15872_y2560_x2560",
+      "PHerc0813-z15872_y2560_x1536",
+      "PHerc0813-z14848_y1536_x3584",
+      "PHerc0813-z1536_y4608_x3584",
+      "PHerc0813-z7680_y2560_x5632"
+    ],
+    "compressed": true,
+    "seed": 800100047,
+    "cohort": "retention-0813",
+    "file": "legacy-047.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "d1993a8299a5f5975e4192f5effe947f8bf38b3301ad08d702da103a6766fcc1",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734772-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900000,
+    "file": "legacy-1447-000.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "89be3f996573e04860066d9106596fe30381e851c5753284cab9a2d86915c704",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.29401932584062584,
+    "materialThreshold": 78,
+    "coverage": 0.9866514205932617,
+    "voidFractionRemoved": 0.4340057373046875,
+    "mixedInstanceFraction": 0.07300662994384766,
+    "slabs": 7,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 78.1050033569336,
+    "forwardWarpJacobian": 0.927011640052581,
+    "bendingAmplitudeVoxels": 3.9282361515331456,
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938520-0",
+      "PHerc1447-v5-z032-y10-x07-s4140660-0",
+      "PHerc1447-v5-z030-y06-x07-s1118098-0",
+      "PHerc1447-v5-z035-y08-x09-s4938569-0",
+      "PHerc1447-v5-z033-y10-x05-s4922073-0",
+      "PHerc1447-v5-z034-y06-x07-s3735015-0",
+      "PHerc1447-v5-z032-y10-x07-s4140396-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z032-y10-x07",
+      "PHerc1447-v5-z030-y06-x07",
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z034-y06-x07",
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "compressed": true,
+    "seed": 800900001,
+    "file": "legacy-1447-001.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "1e7e8be028290d4098919fcc7aeba2359bc729ac80003c68071a616606c51ea2",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4387724-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "compressed": false,
+    "seed": 800900002,
+    "file": "legacy-1447-002.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "2d409976e444ca542635165ff9b246ede6e355ac8f848c8ed3517328a786c19c",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.4047464384063312,
+    "materialThreshold": 53,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.22951335906982417,
+    "mixedInstanceFraction": 0.04494524002075195,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 53.00726318359375,
+    "forwardWarpJacobian": 0.7801991190641283,
+    "bendingAmplitudeVoxels": 2.383457768508394,
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921933-0",
+      "PHerc1447-v5-z031-y06-x06-s1764874-0",
+      "PHerc1447-v5-z035-y08-x09-s4938293-0",
+      "PHerc1447-v5-z033-y10-x05-s4921563-1",
+      "PHerc1447-v5-z033-y10-x05-s4921520-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z031-y06-x06",
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "compressed": true,
+    "seed": 800900003,
+    "file": "legacy-1447-003.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "8c0c9d1357c01dc3570298c7bb62804cf262f50189ab5dc51be1c8021109e334",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734796-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900004,
+    "file": "legacy-1447-004.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "530b2b45874883645fbb37b780e3ff6b28856253f9c22a4edc245c616dd6c9f2",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.6002736891853742,
+    "materialThreshold": 59,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.13750028610229492,
+    "mixedInstanceFraction": 0.05132436752319336,
+    "slabs": 3,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 59.040245056152344,
+    "forwardWarpJacobian": 0.8865802611042775,
+    "bendingAmplitudeVoxels": 3.788533991833803,
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938193-0",
+      "PHerc1447-v5-z035-y08-x09-s4938268-0",
+      "PHerc1447-v5-z034-y06-x07-s3734919-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "compressed": true,
+    "seed": 800900005,
+    "file": "legacy-1447-005.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "f3c498a98ec06fbbdb43c59f9ae0f81420a5a21eec842d39e6492ca26322ee49",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4922035-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "compressed": false,
+    "seed": 800900006,
+    "file": "legacy-1447-006.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "1dd0a1d276793a906b5537a84b81e0cf295a0c8fb0765bb7f250deb93192ad9d",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.5458640002829526,
+    "materialThreshold": 74,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.2822110652923584,
+    "mixedInstanceFraction": 0.0410151481628418,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 74.06716918945312,
+    "forwardWarpJacobian": 0.8683476856505518,
+    "bendingAmplitudeVoxels": 4.363895925380126,
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734752-0",
+      "PHerc1447-v5-z034-y06-x07-s3734771-0",
+      "PHerc1447-v5-z030-y06-x07-s980849-0",
+      "PHerc1447-v5-z032-y10-x07-s4140514-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07",
+      "PHerc1447-v5-z034-y06-x07",
+      "PHerc1447-v5-z030-y06-x07",
+      "PHerc1447-v5-z032-y10-x07"
+    ],
+    "compressed": true,
+    "seed": 800900007,
+    "file": "legacy-1447-007.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "705ce7fe1da3e2b09f729fe566064dd3e5750a1027cfe4891f3f4a5f2d7241bc",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s980784-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900008,
+    "file": "legacy-1447-008.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "f53786c83a0671404291b828ea60c9091dea5d48d4807531f9f63492a2857a4a",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.3892268403314013,
+    "materialThreshold": 67,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.22017030715942387,
+    "mixedInstanceFraction": 0.08054733276367188,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 67.06659698486328,
+    "forwardWarpJacobian": 0.9178177500505471,
+    "bendingAmplitudeVoxels": 1.57923345389977,
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3735207-0",
+      "PHerc1447-v5-z032-y10-x07-s4140238-0",
+      "PHerc1447-v5-z032-y10-x07-s4140657-0",
+      "PHerc1447-v5-z033-y10-x05-s4921518-0",
+      "PHerc1447-v5-z030-y06-x07-s981109-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07",
+      "PHerc1447-v5-z032-y10-x07",
+      "PHerc1447-v5-z032-y10-x07",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": true,
+    "seed": 800900009,
+    "file": "legacy-1447-009.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "a12c0d3f9c30fde83188ce8af3bea2f8fccfc4ea0354302155736a2090a39e32",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981163-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900010,
+    "file": "legacy-1447-010.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "8c78511a00066ff7786c08bc11f09c376d87ee5da85161c34487f9d59ef989a5",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.5648023912937298,
+    "materialThreshold": 57,
+    "coverage": 0.9996647834777832,
+    "voidFractionRemoved": 0.3467690944671631,
+    "mixedInstanceFraction": 0.03789472579956055,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 57.02126693725586,
+    "forwardWarpJacobian": 0.9255751790328743,
+    "bendingAmplitudeVoxels": 4.574987706218858,
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938122-0",
+      "PHerc1447-v5-z033-y10-x05-s4921649-0",
+      "PHerc1447-v5-z032-y10-x07-s4140581-0",
+      "PHerc1447-v5-z033-y10-x05-s4921698-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z032-y10-x07",
+      "PHerc1447-v5-z033-y10-x05"
+    ],
+    "compressed": true,
+    "seed": 800900011,
+    "file": "legacy-1447-011.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "829a634a4440727403ec1ff1141e410ea1e613b77bf8f2e31f8dabfb19454c57",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z031-y06-x06-s1764739-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z031-y06-x06"
+    ],
+    "compressed": false,
+    "seed": 800900012,
+    "file": "legacy-1447-012.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "ddbe8cc6a5a9ec4a4ab2a37311a09ede23486b426d2a104a199bfe612ccf5aa9",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.4031309198737363,
+    "materialThreshold": 55,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.24973497390747068,
+    "mixedInstanceFraction": 0.0614323616027832,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 55.00624084472656,
+    "forwardWarpJacobian": 0.9742455090770801,
+    "bendingAmplitudeVoxels": 1.840569596314379,
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938326-0",
+      "PHerc1447-v5-z035-y08-x09-s4938090-0",
+      "PHerc1447-v5-z033-y10-x05-s4921462-0",
+      "PHerc1447-v5-z032-y10-x07-s4140201-0",
+      "PHerc1447-v5-z035-y08-x09-s4938207-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z032-y10-x07",
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": true,
+    "seed": 800900013,
+    "file": "legacy-1447-013.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "953caaefa068293c9edd57dc23cf79f03e0bde33484b2653b51f498e0a67cd19",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938660-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": false,
+    "seed": 800900014,
+    "file": "legacy-1447-014.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "6e01f32c5695bdba376cb6c08291430e428aaecbebec9400c2db1333ca035857",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.45833536213580595,
+    "materialThreshold": 52,
+    "coverage": 0.993690013885498,
+    "voidFractionRemoved": 0.17815899848937988,
+    "mixedInstanceFraction": 0.04779386520385742,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 52.028465270996094,
+    "forwardWarpJacobian": 0.9827815816221115,
+    "bendingAmplitudeVoxels": 4.7701030201214225,
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734843-0",
+      "PHerc1447-v5-z031-y06-x06-s1764761-0",
+      "PHerc1447-v5-z033-y10-x05-s4921535-0",
+      "PHerc1447-v5-z030-y06-x07-s981320-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07",
+      "PHerc1447-v5-z031-y06-x06",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": true,
+    "seed": 800900015,
+    "file": "legacy-1447-015.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "f788a02efa31f403ef559581723a4a55a92aae0571ecec62378682c26cc5a657",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734994-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900016,
+    "file": "legacy-1447-016.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "8cb66ca878bfc1518777d4de2406b85e4f37d68f4d8e60854d9e856f96c629ba",
+    "augmented": true,
+    "cohort": "new-1447",
+    "factor": 0.44376727098984026,
+    "materialThreshold": 60,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.2321324348449707,
+    "mixedInstanceFraction": 0.056957244873046875,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 60.01708984375,
+    "forwardWarpJacobian": 0.9154813593075496,
+    "bendingAmplitudeVoxels": 3.781800491348953,
+    "donors": [
+      "PHerc1447-v5-z033-y10-x05-s4921502-0",
+      "PHerc1447-v5-z030-y06-x07-s980998-0",
+      "PHerc1447-v5-z035-y08-x09-s4938057-0",
+      "PHerc1447-v5-z033-y10-x05-s4922163-0",
+      "PHerc1447-v5-z035-y08-x09-s4938692-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z030-y06-x07",
+      "PHerc1447-v5-z035-y08-x09",
+      "PHerc1447-v5-z033-y10-x05",
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": true,
+    "seed": 800900017,
+    "file": "legacy-1447-017.npz",
+    "group": "legacy-compressed",
+    "legacy": true,
+    "severity": "legacy-compressed"
+  },
+  {
+    "sha256": "47ecb42f62138ff21433b690ba45ac56c9ce63bdebca0d361b833e1c027a59cc",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s981136-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900018,
+    "file": "legacy-1447-018.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "11ea22419d70fb96fba299877c707775a877be601601e8617199a50abda631fe",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4415353-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.33021485080579505,
+      "materialThreshold": 76,
+      "coverage": 0.9533977508544922,
+      "voidFractionRemoved": 0.4676271279652914,
+      "mixedInstanceFraction": 0.06292915344238281,
+      "slabs": 6,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 76.07626342773438
+    },
+    "seed": 800900019,
+    "file": "legacy-1447-019.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "a99968114d0bdaaaf81c57e3e1ecca0c7202b2d7e051af66c154009f35d85aa4",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z030-y06-x07-s1570029-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z030-y06-x07"
+    ],
+    "compressed": false,
+    "seed": 800900020,
+    "file": "legacy-1447-020.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "fdff3ce970c32663756e5f88ae344045c275292c9346a6970d997d9dc766fc7b",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938164-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.20861202374184382,
+      "materialThreshold": 73,
+      "coverage": 0.957369327545166,
+      "voidFractionRemoved": 0.4241391287909614,
+      "mixedInstanceFraction": 0.10283565521240234,
+      "slabs": 9,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 73.24874877929688
+    },
+    "seed": 800900021,
+    "file": "legacy-1447-021.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "23c39af8639b9fa24f1a867ae66fbef9cfcf38ada7aee33304bd5f49b3a49ba9",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z035-y08-x09-s4938058-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z035-y08-x09"
+    ],
+    "compressed": false,
+    "seed": 800900022,
+    "file": "legacy-1447-022.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  },
+  {
+    "sha256": "400353f23bd7301b3b4034bd25ca5491dda4d3d199059d462ce3e77be1ae8ee9",
+    "augmented": false,
+    "cohort": "new-1447",
+    "donors": [
+      "PHerc1447-v5-z034-y06-x07-s3734971-0"
+    ],
+    "sourceRegions": [
+      "PHerc1447-v5-z034-y06-x07"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.338826325279058,
+      "materialThreshold": 75,
+      "coverage": 0.9242839813232422,
+      "voidFractionRemoved": 0.3890235424041748,
+      "mixedInstanceFraction": 0.07046365737915039,
+      "slabs": 6,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 75.0273666381836
+    },
+    "seed": 800900023,
+    "file": "legacy-1447-023.npz",
+    "group": "legacy-real",
+    "legacy": true,
+    "severity": "legacy-real"
+  }
+]

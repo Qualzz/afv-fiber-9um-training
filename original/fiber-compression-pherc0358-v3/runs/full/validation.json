@@ -1,0 +1,1056 @@
+[
+  {
+    "file": "000.npz",
+    "sha256": "c3380b3bdf10a63cbcc434aef762dbb9e2a994d582d2068d99d1820d7fe2011f",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-HZ-007"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100000
+  },
+  {
+    "file": "001.npz",
+    "sha256": "ed09065cee4d4b77dc1c090509c5944b712be24d4d934ba4ad84a3d88cbdbb04",
+    "augmented": true,
+    "factor": 0.4576011102945924,
+    "materialThreshold": 65,
+    "coverage": 0.9999775886535645,
+    "voidFractionRemoved": 0.29242098331451416,
+    "mixedInstanceFraction": 0.009626388549804688,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 65.12464904785156,
+    "forwardWarpJacobian": 0.8257437007485406,
+    "bendingAmplitudeVoxels": 4.319599474532103,
+    "donors": [
+      "z3584_y2560_x1536-HZ-017",
+      "z5632_y1536_x3584-VT-020",
+      "z5632_y1536_x3584-HZ-006",
+      "z5632_y2560_x1536-HZ-001"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z5632_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100001
+  },
+  {
+    "file": "002.npz",
+    "sha256": "1bb86c45bc6e75b53690acb6850321db0dd41a4b35f19b2957ec6b540879e09f",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-001"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100002
+  },
+  {
+    "file": "003.npz",
+    "sha256": "bb7d4b285cdb6293609b6e6ffa93ff4fbcb6eecc32b1715ac4c6a49d943174fb",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-VT-010"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.45401890011141544,
+      "materialThreshold": 62,
+      "coverage": 0.9589991569519043,
+      "voidFractionRemoved": 0.32878923416137695,
+      "mixedInstanceFraction": 0.004547119140625,
+      "slabs": 4,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 62.02881622314453
+    },
+    "seed": 800100003
+  },
+  {
+    "file": "004.npz",
+    "sha256": "ce0c85e9f3efbe7e0ff112b8c0b87e03ac98240b79c18416b1b12d604e11d558",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-017"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100004
+  },
+  {
+    "file": "005.npz",
+    "sha256": "4b83c04d6c059cc925a5ed6168ae63f89b84bff21b7e03bb0e063fa2593bbd62",
+    "augmented": true,
+    "factor": 0.17838375654236097,
+    "materialThreshold": 62,
+    "coverage": 0.9802737236022949,
+    "voidFractionRemoved": 0.43627149408513854,
+    "mixedInstanceFraction": 0.01904916763305664,
+    "slabs": 11,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.07809066772461,
+    "forwardWarpJacobian": 0.826655222909134,
+    "bendingAmplitudeVoxels": 1.5490190400000494,
+    "donors": [
+      "z5632_y1536_x3584-VT-010",
+      "z5632_y1536_x3584-VT-024",
+      "z3584_y2560_x1536-HZ-005",
+      "z3584_y2560_x1536-VT-036",
+      "z3584_y2560_x1536-HZ-013",
+      "z3584_y2560_x1536-VT-038",
+      "z5632_y1536_x3584-HZ-006",
+      "z3584_y2560_x1536-VT-037",
+      "z4608_y3584_x2560-HZ-003",
+      "z5632_y1536_x3584-HZ-015",
+      "z3584_y2560_x1536-VT-026"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z4608_y3584_x2560",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100005
+  },
+  {
+    "file": "006.npz",
+    "sha256": "dde5816f509b3a6b821930604c53b9162d5c72e3ff81c8a4bd705612b1614afd",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-001"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100006
+  },
+  {
+    "file": "007.npz",
+    "sha256": "92adeb2749d49c11a590a02f6a1c90face960b4a0021f53336291dc413acd886",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-VT-004"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.48342372822970614,
+      "materialThreshold": 62,
+      "coverage": 0.9543256759643555,
+      "voidFractionRemoved": 0.4482916593551636,
+      "mixedInstanceFraction": 0.015312671661376953,
+      "slabs": 4,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 62.067161560058594
+    },
+    "seed": 800100007
+  },
+  {
+    "file": "008.npz",
+    "sha256": "95f428f43e159078bc1286eafba9528a70d7d0288da72ccc908cf56c3d0820f3",
+    "augmented": false,
+    "donors": [
+      "z5632_y2560_x1536-HZ-002"
+    ],
+    "sourceRegions": [
+      "z5632_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100008
+  },
+  {
+    "file": "009.npz",
+    "sha256": "b6989ee20b6f5952e63bcfd152b1a72c5f9c97e15c55a8cd26da83a171b79bbd",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-HZ-003"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.6206941906606821,
+      "materialThreshold": 66,
+      "coverage": 0.9345541000366211,
+      "voidFractionRemoved": 0.41976563135782874,
+      "mixedInstanceFraction": 0.01214599609375,
+      "slabs": 3,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 66.0681381225586
+    },
+    "seed": 800100009
+  },
+  {
+    "file": "010.npz",
+    "sha256": "b6989ee20b6f5952e63bcfd152b1a72c5f9c97e15c55a8cd26da83a171b79bbd",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-HZ-003"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100010
+  },
+  {
+    "file": "011.npz",
+    "sha256": "2fd33980811915c63c5198ebe2cd8ede9bd463ce6924f0c7dabafbbbfaae077c",
+    "augmented": true,
+    "factor": 0.2974347341717657,
+    "materialThreshold": 68,
+    "coverage": 0.9998397827148438,
+    "voidFractionRemoved": 0.3206941740853446,
+    "mixedInstanceFraction": 0.009833335876464844,
+    "slabs": 7,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 68.08919525146484,
+    "forwardWarpJacobian": 1.0483817151012578,
+    "bendingAmplitudeVoxels": 2.4628957473371416,
+    "donors": [
+      "z3584_y2560_x1536-VT-039",
+      "z5632_y1536_x3584-VT-006",
+      "z3584_y2560_x1536-VT-023",
+      "z3584_y2560_x1536-HZ-008",
+      "z4608_y3584_x2560-HZ-003",
+      "z5632_y1536_x3584-VT-003",
+      "z4608_y3584_x2560-HZ-002"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z4608_y3584_x2560",
+      "z5632_y1536_x3584",
+      "z4608_y3584_x2560"
+    ],
+    "compressed": true,
+    "seed": 800100011
+  },
+  {
+    "file": "012.npz",
+    "sha256": "698aa37d8e59dddf701785e6a4fd3b97fbe4e426aec32327cbf9ddd2caeca21e",
+    "augmented": false,
+    "donors": [
+      "z5632_y2560_x1536-HZ-002"
+    ],
+    "sourceRegions": [
+      "z5632_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100012
+  },
+  {
+    "file": "013.npz",
+    "sha256": "6748db8d126efda25d531dcd6935d53d4f29f754c2e990bafe9b64d8c3d6d24b",
+    "augmented": true,
+    "factor": 0.47921430306079904,
+    "materialThreshold": 62,
+    "coverage": 0.9864091873168945,
+    "voidFractionRemoved": 0.4283256530761719,
+    "mixedInstanceFraction": 0.015249252319335938,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 62.03449249267578,
+    "forwardWarpJacobian": 0.7700563827033917,
+    "bendingAmplitudeVoxels": 4.256798616398997,
+    "donors": [
+      "z3584_y2560_x1536-HZ-024",
+      "z3584_y2560_x1536-HZ-015",
+      "z5632_y1536_x3584-HZ-008",
+      "z3584_y2560_x1536-HZ-023"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100013
+  },
+  {
+    "file": "014.npz",
+    "sha256": "8878d34476db8aa1bb6e6bc5587cf90034f42fb15736717121fd814008e72c87",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-010"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100014
+  },
+  {
+    "file": "015.npz",
+    "sha256": "b4399b81f136c53fedf3323a867ae8b69d4246fb6134c8488da3bad60a0eb822",
+    "augmented": true,
+    "factor": 0.5730443687606777,
+    "materialThreshold": 52,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.1484607458114624,
+    "mixedInstanceFraction": 0.005034446716308594,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 52.03482437133789,
+    "forwardWarpJacobian": 0.8661064181919044,
+    "bendingAmplitudeVoxels": 2.9885156032469666,
+    "donors": [
+      "z3584_y2560_x1536-VT-039",
+      "z5632_y1536_x3584-HZ-011",
+      "z4608_y3584_x2560-HZ-001",
+      "z5632_y1536_x3584-VT-003"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z4608_y3584_x2560",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100015
+  },
+  {
+    "file": "016.npz",
+    "sha256": "96675c238f6a7530c3e9fcad45a67557cc8b7602b6794b4c38a04f44ab9bd015",
+    "augmented": false,
+    "donors": [
+      "z5632_y2560_x1536-VT-002"
+    ],
+    "sourceRegions": [
+      "z5632_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100016
+  },
+  {
+    "file": "017.npz",
+    "sha256": "bad8012be717a4b0b1938da690e3a2d3207b0c783dac5a6c1c435a2e66c5dc0d",
+    "augmented": true,
+    "factor": 0.41633724814119843,
+    "materialThreshold": 80,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.2792692184448242,
+    "mixedInstanceFraction": 0.009763240814208984,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 80.10566711425781,
+    "forwardWarpJacobian": 1.0470693370926214,
+    "bendingAmplitudeVoxels": 2.796070198565911,
+    "donors": [
+      "z5632_y1536_x3584-VT-011",
+      "z3584_y2560_x1536-VT-026",
+      "z5632_y1536_x3584-VT-006",
+      "z11776_y4608_x1536-VT-001",
+      "z11776_y4608_x1536-VT-001"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z11776_y4608_x1536",
+      "z11776_y4608_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100017
+  },
+  {
+    "file": "018.npz",
+    "sha256": "9fdf9bd8968a1873ba43db8f215445112fff1f7b2a4bca6491c9d9c0252b9fc6",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-VT-016"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100018
+  },
+  {
+    "file": "019.npz",
+    "sha256": "8ed530da98b3a9010d1e7d2f868055ffaa2401d31eac31a004e52a800bde290e",
+    "augmented": true,
+    "factor": 0.19948753420234863,
+    "materialThreshold": 60,
+    "coverage": 0.9998064041137695,
+    "voidFractionRemoved": 0.44142217636108394,
+    "mixedInstanceFraction": 0.01791095733642578,
+    "slabs": 10,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 60.09685516357422,
+    "forwardWarpJacobian": 0.8185221898012935,
+    "bendingAmplitudeVoxels": 2.0025516588536276,
+    "donors": [
+      "z3584_y2560_x1536-HZ-014",
+      "z5632_y1536_x3584-HZ-016",
+      "z3584_y2560_x1536-HZ-013",
+      "z3584_y2560_x1536-VT-011",
+      "z3584_y2560_x1536-VT-036",
+      "z3584_y2560_x1536-HZ-001",
+      "z3584_y2560_x1536-HZ-016",
+      "z5632_y1536_x3584-VT-009",
+      "z3584_y2560_x1536-VT-036",
+      "z3584_y2560_x1536-HZ-025"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100019
+  },
+  {
+    "file": "020.npz",
+    "sha256": "0bc8b99c4bef25a926a23752def744dcc3c0e7d74dbc962a5b1e68c376ed38e7",
+    "augmented": false,
+    "donors": [
+      "z4608_y3584_x2560-HZ-003"
+    ],
+    "sourceRegions": [
+      "z4608_y3584_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100020
+  },
+  {
+    "file": "021.npz",
+    "sha256": "126fdb09b21c5fde0787407f4df38f56992150b19f41d7a4546b3ed3a5e28579",
+    "augmented": true,
+    "factor": 0.3140056958160301,
+    "materialThreshold": 56,
+    "coverage": 0.9803524017333984,
+    "voidFractionRemoved": 0.42620301246643066,
+    "mixedInstanceFraction": 0.01661205291748047,
+    "slabs": 6,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 56.010231018066406,
+    "forwardWarpJacobian": 0.8432017107675289,
+    "bendingAmplitudeVoxels": 3.7663758425277254,
+    "donors": [
+      "z3584_y2560_x1536-HZ-015",
+      "z3584_y2560_x1536-HZ-018",
+      "z3584_y2560_x1536-VT-002",
+      "z3584_y2560_x1536-HZ-006",
+      "z3584_y2560_x1536-HZ-018",
+      "z5632_y1536_x3584-VT-002"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100021
+  },
+  {
+    "file": "022.npz",
+    "sha256": "d4747da38f8131d959aad23da6569c9ef80683cd2de0f47508facccf65f110cd",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-008"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100022
+  },
+  {
+    "file": "023.npz",
+    "sha256": "b66bed8b8e00e9333f26beb575a31369b521b342bc2a16fd572f60ff51f951ca",
+    "augmented": true,
+    "factor": 0.4477658974546407,
+    "materialThreshold": 65,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.38256998062133785,
+    "mixedInstanceFraction": 0.019655704498291016,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 65.00679016113281,
+    "forwardWarpJacobian": 0.7871337420140851,
+    "bendingAmplitudeVoxels": 2.5363718823777313,
+    "donors": [
+      "z4608_y3584_x2560-HZ-001",
+      "z5632_y1536_x3584-HZ-017",
+      "z3584_y2560_x1536-HZ-018",
+      "z3584_y2560_x1536-VT-008",
+      "z5632_y1536_x3584-VT-005"
+    ],
+    "sourceRegions": [
+      "z4608_y3584_x2560",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100023
+  },
+  {
+    "file": "024.npz",
+    "sha256": "e55ffee6604f7bc8800ef21d531e1a67919150cacf922fdb92626f06beb738cc",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-018"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100024
+  },
+  {
+    "file": "025.npz",
+    "sha256": "0a1c212ded1288b1741349a679e9a41e814c6854bdf3833b0cc93cec8f5671ef",
+    "augmented": true,
+    "factor": 0.227605593085093,
+    "materialThreshold": 51,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.15380620956420898,
+    "mixedInstanceFraction": 0.014177799224853516,
+    "slabs": 8,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 51.07203674316406,
+    "forwardWarpJacobian": 1.0051065957404544,
+    "bendingAmplitudeVoxels": 3.487767196630836,
+    "donors": [
+      "z5632_y1536_x3584-VT-022",
+      "z5632_y1536_x3584-VT-011",
+      "z5632_y1536_x3584-HZ-017",
+      "z5632_y1536_x3584-HZ-010",
+      "z4608_y3584_x2560-HZ-001",
+      "z3584_y2560_x1536-HZ-017",
+      "z3584_y2560_x1536-HZ-018",
+      "z3584_y2560_x1536-HZ-008"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z4608_y3584_x2560",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100025
+  },
+  {
+    "file": "026.npz",
+    "sha256": "05b53831759aa726ec83eb69ea0a3f20e78344a41f6c492b11862c58360fe1e2",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-018"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100026
+  },
+  {
+    "file": "027.npz",
+    "sha256": "659f11695df9bf13660b2b3a12dda3e180e4218641b88ed5e22f01a02d47183c",
+    "augmented": true,
+    "factor": 0.44142122563380926,
+    "materialThreshold": 54,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.31069364547729494,
+    "mixedInstanceFraction": 0.014899253845214844,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 54.025917053222656,
+    "forwardWarpJacobian": 0.8106786167748082,
+    "bendingAmplitudeVoxels": 2.0446867737370567,
+    "donors": [
+      "z5632_y1536_x3584-VT-001",
+      "z5632_y1536_x3584-HZ-004",
+      "z3584_y2560_x1536-VT-018",
+      "z3584_y2560_x1536-VT-026",
+      "z3584_y2560_x1536-VT-015"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100027
+  },
+  {
+    "file": "028.npz",
+    "sha256": "642c4dfc332c15b1ce930d752b11aa8c2917f52df429b7d2b9031cca574a2b3d",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-013"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100028
+  },
+  {
+    "file": "029.npz",
+    "sha256": "1917099a162f76de2da7714a1ffc28fa1f0827e6fdb5e72fc30a83fb02187a40",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-024"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.23758668562170923,
+      "materialThreshold": 78,
+      "coverage": 0.8506112098693848,
+      "voidFractionRemoved": 0.5469906330108643,
+      "mixedInstanceFraction": 0.024750232696533203,
+      "slabs": 8,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 78.17847442626953
+    },
+    "seed": 800100029
+  },
+  {
+    "file": "030.npz",
+    "sha256": "fbafc6d629f113538d4b897903ca02b6173770653cd299fe22103ffed282bae8",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-028"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100030
+  },
+  {
+    "file": "031.npz",
+    "sha256": "c1b10b09d11319b7421164d5e8e8086305238f594c279e0c2aa801278db61196",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-006"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "compressionRejected": {
+      "factor": 0.46954604288414636,
+      "materialThreshold": 70,
+      "coverage": 0.9515085220336914,
+      "voidFractionRemoved": 0.3515050411224365,
+      "mixedInstanceFraction": 0.008753299713134766,
+      "slabs": 4,
+      "compactionFieldSmoothingVoxels": 4,
+      "preImagingMinimumCoveredCT": 70.06697082519531
+    },
+    "seed": 800100031
+  },
+  {
+    "file": "032.npz",
+    "sha256": "e1dc570ed9ae6ed4a1a518c493407f75ffbaa074872a2164388160bd64b8135d",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-VT-035"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100032
+  },
+  {
+    "file": "033.npz",
+    "sha256": "e5f41f0e9091f249746d6e21415971274f2aa06adb3078bc9f5372f417fcb2cc",
+    "augmented": true,
+    "factor": 0.583413215212699,
+    "materialThreshold": 68,
+    "coverage": 0.9889430999755859,
+    "voidFractionRemoved": 0.44595909118652344,
+    "mixedInstanceFraction": 0.009632587432861328,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 68.03111267089844,
+    "forwardWarpJacobian": 0.9384939423368508,
+    "bendingAmplitudeVoxels": 2.9355588316770973,
+    "donors": [
+      "z3584_y2560_x1536-HZ-002",
+      "z3584_y2560_x1536-VT-005",
+      "z3584_y2560_x1536-HZ-022",
+      "z3584_y2560_x1536-HZ-013"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100033
+  },
+  {
+    "file": "034.npz",
+    "sha256": "5240ca4f82a573cc317d89e9be21f305041087d7ee3c50eafe33e9f25b9eff0f",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-HZ-013"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100034
+  },
+  {
+    "file": "035.npz",
+    "sha256": "242c3eb6362f2b1f02da8d7e12bf8801d4204a6baff43b950e9509fa8a2c6714",
+    "augmented": true,
+    "factor": 0.42392924144216637,
+    "materialThreshold": 63,
+    "coverage": 0.9761962890625,
+    "voidFractionRemoved": 0.4483766555786133,
+    "mixedInstanceFraction": 0.023840904235839844,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 63.026939392089844,
+    "forwardWarpJacobian": 0.9212763020508352,
+    "bendingAmplitudeVoxels": 3.232616737986556,
+    "donors": [
+      "z5632_y1536_x3584-VT-002",
+      "z3584_y2560_x1536-HZ-001",
+      "z3584_y2560_x1536-HZ-007",
+      "z3584_y2560_x1536-VT-006",
+      "z5632_y1536_x3584-HZ-005"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100035
+  },
+  {
+    "file": "036.npz",
+    "sha256": "fa9855869bb16d086fbe1ef51b8939b48e1806a2f7f2a0ab2d8828c47f7c0f70",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-HZ-007"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100036
+  },
+  {
+    "file": "037.npz",
+    "sha256": "9c58d7bab5e29a2058462d1e507c20b85e3ee1796214e32364631f52f00e84b2",
+    "augmented": true,
+    "factor": 0.46651164034567094,
+    "materialThreshold": 57,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.3153120279312134,
+    "mixedInstanceFraction": 0.021990299224853516,
+    "slabs": 4,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 57.07969665527344,
+    "forwardWarpJacobian": 0.8482967196626774,
+    "bendingAmplitudeVoxels": 4.097295951407657,
+    "donors": [
+      "z3584_y2560_x1536-VT-021",
+      "z5632_y1536_x3584-HZ-017",
+      "z3584_y2560_x1536-HZ-005",
+      "z5632_y1536_x3584-VT-012"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100037
+  },
+  {
+    "file": "038.npz",
+    "sha256": "e2451c969976ddf7d55a8c251d1f18b4099411286bf519fe91ef286f0d05e902",
+    "augmented": false,
+    "donors": [
+      "z11776_y4608_x1536-HZ-001"
+    ],
+    "sourceRegions": [
+      "z11776_y4608_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100038
+  },
+  {
+    "file": "039.npz",
+    "sha256": "b37c9f956227025f10d3709b0b18c8a76b7b1e692528c070f46fcf4dfff76589",
+    "augmented": true,
+    "factor": 0.2086180313841188,
+    "materialThreshold": 64,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.2617312007480197,
+    "mixedInstanceFraction": 0.015336990356445312,
+    "slabs": 9,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 64.17840576171875,
+    "forwardWarpJacobian": 1.007073100416775,
+    "bendingAmplitudeVoxels": 1.8516970930359342,
+    "donors": [
+      "z3584_y2560_x1536-VT-026",
+      "z3584_y2560_x1536-VT-017",
+      "z5632_y1536_x3584-HZ-017",
+      "z5632_y1536_x3584-HZ-006",
+      "z5632_y1536_x3584-VT-002",
+      "z11776_y4608_x1536-VT-003",
+      "z5632_y1536_x3584-VT-009",
+      "z5632_y1536_x3584-VT-003",
+      "z3584_y2560_x1536-VT-014"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z11776_y4608_x1536",
+      "z5632_y1536_x3584",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100039
+  },
+  {
+    "file": "040.npz",
+    "sha256": "14e4f5b438e0cedf1ab6e91439d6247816cbbe009a6b76ec172bb137d8bff47f",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-VT-018"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100040
+  },
+  {
+    "file": "041.npz",
+    "sha256": "17638fd7e3bb36e588ae18d0bb157abcd002c7cf58809bcf14af6361428ed52c",
+    "augmented": true,
+    "factor": 0.27483766905021256,
+    "materialThreshold": 70,
+    "coverage": 0.9960751533508301,
+    "voidFractionRemoved": 0.4590199334280831,
+    "mixedInstanceFraction": 0.021480560302734375,
+    "slabs": 7,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 70.08853149414062,
+    "forwardWarpJacobian": 0.9990509741755473,
+    "bendingAmplitudeVoxels": 4.388124274449712,
+    "donors": [
+      "z5632_y1536_x3584-VT-018",
+      "z3584_y2560_x1536-HZ-018",
+      "z3584_y2560_x1536-VT-013",
+      "z3584_y2560_x1536-VT-020",
+      "z3584_y2560_x1536-HZ-007",
+      "z3584_y2560_x1536-VT-022",
+      "z5632_y1536_x3584-HZ-008"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100041
+  },
+  {
+    "file": "042.npz",
+    "sha256": "dbdfdf178e0f119fd153dc714f0f4d5b30a1e0240f3cebffaadfed075b4df6c8",
+    "augmented": false,
+    "donors": [
+      "z4608_y3584_x2560-HZ-002"
+    ],
+    "sourceRegions": [
+      "z4608_y3584_x2560"
+    ],
+    "compressed": false,
+    "seed": 800100042
+  },
+  {
+    "file": "043.npz",
+    "sha256": "0fac42099b10a472b13de1b45805f809f4c3676dbcbbec891c237620f28ff5d4",
+    "augmented": true,
+    "factor": 0.3490200503327824,
+    "materialThreshold": 67,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.32950282096862793,
+    "mixedInstanceFraction": 0.01466226577758789,
+    "slabs": 6,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 67.08330535888672,
+    "forwardWarpJacobian": 0.828961842387924,
+    "bendingAmplitudeVoxels": 2.3626730444059416,
+    "donors": [
+      "z4608_y3584_x2560-HZ-003",
+      "z3584_y2560_x1536-VT-006",
+      "z3584_y2560_x1536-VT-018",
+      "z5632_y1536_x3584-VT-026",
+      "z3584_y2560_x1536-VT-013",
+      "z5632_y1536_x3584-VT-014"
+    ],
+    "sourceRegions": [
+      "z4608_y3584_x2560",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100043
+  },
+  {
+    "file": "044.npz",
+    "sha256": "961bd2a89502913fac80dbc8c8a2fbc872d9f8862ee603b7af428a8962d08c7e",
+    "augmented": false,
+    "donors": [
+      "z3584_y2560_x1536-VT-010"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536"
+    ],
+    "compressed": false,
+    "seed": 800100044
+  },
+  {
+    "file": "045.npz",
+    "sha256": "72e6614449dc3460f9d290f03921173cc6599440100e21da4144155f0d830fe1",
+    "augmented": true,
+    "factor": 0.4306892725620628,
+    "materialThreshold": 65,
+    "coverage": 0.9973583221435547,
+    "voidFractionRemoved": 0.43594284057617183,
+    "mixedInstanceFraction": 0.020294189453125,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 65.03363037109375,
+    "forwardWarpJacobian": 0.8645881568578596,
+    "bendingAmplitudeVoxels": 3.8056847222628574,
+    "donors": [
+      "z5632_y1536_x3584-VT-009",
+      "z3584_y2560_x1536-VT-020",
+      "z4608_y3584_x2560-VT-003",
+      "z3584_y2560_x1536-HZ-001",
+      "z3584_y2560_x1536-HZ-020"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584",
+      "z3584_y2560_x1536",
+      "z4608_y3584_x2560",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536"
+    ],
+    "compressed": true,
+    "seed": 800100045
+  },
+  {
+    "file": "046.npz",
+    "sha256": "7f9bacc41a089b96e491d42f76424e620b311101ec3c4d9788d9e60b1409a5fb",
+    "augmented": false,
+    "donors": [
+      "z5632_y1536_x3584-HZ-008"
+    ],
+    "sourceRegions": [
+      "z5632_y1536_x3584"
+    ],
+    "compressed": false,
+    "seed": 800100046
+  },
+  {
+    "file": "047.npz",
+    "sha256": "a6d470aff6c410f6530e599035d8ee91f04fbba679004ed315faa6e7c1748802",
+    "augmented": true,
+    "factor": 0.446399096751413,
+    "materialThreshold": 51,
+    "coverage": 1.0,
+    "voidFractionRemoved": 0.29755077362060545,
+    "mixedInstanceFraction": 0.023406982421875,
+    "slabs": 5,
+    "compactionFieldSmoothingVoxels": 4,
+    "preImagingMinimumCoveredCT": 51.01286697387695,
+    "forwardWarpJacobian": 0.9737938761192186,
+    "bendingAmplitudeVoxels": 3.510780007702588,
+    "donors": [
+      "z3584_y2560_x1536-VT-034",
+      "z3584_y2560_x1536-HZ-022",
+      "z3584_y2560_x1536-VT-021",
+      "z3584_y2560_x1536-HZ-020",
+      "z5632_y1536_x3584-VT-019"
+    ],
+    "sourceRegions": [
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z3584_y2560_x1536",
+      "z5632_y1536_x3584"
+    ],
+    "compressed": true,
+    "seed": 800100047
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "sourceCheckpointStep": 7624,
+  "phaseStep": 6750,
+  "configMatchesCheckpoint": true,
+  "exportedTensors": 1160,
+  "allExportedTensorsBitIdenticalToSourceEMA": true,
+  "publishedCheckpointSHA256": "6837f3fe8fca123e6ed0b91bb052ce5218ca6eb6889800e4d578b6c8aaf59767",
+  "publishedWeightBytesMatchLocalExport": true
+}

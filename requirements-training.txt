@@ -1,0 +1,7 @@
+# Observed training-host versions, not a complete historical environment lock.
+# Install a CUDA-enabled build of torch appropriate to your hardware.
+torch==2.1.2
+numpy==1.26.4
+scipy==1.11.4
+Pillow==10.0.1
+dynamic-network-architectures==0.4.4

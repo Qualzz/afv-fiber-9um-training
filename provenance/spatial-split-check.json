@@ -1,0 +1,14 @@
+{
+  "trainRegions": 24,
+  "validationRegions": 6,
+  "overlappingCorePairs": 0,
+  "minimumCoreBoxGapVoxels": 1915.728582028258,
+  "trainRegion": "PHerc1447-v5-z026-y08-x10",
+  "validationRegion": "PHerc1447-v5-z030-y06-x07",
+  "axisGapsVoxels": [
+    1024,
+    512,
+    1536
+  ],
+  "scope": "512-cube core-box spacing only. Not an independence proof; training ancestry and same-scroll correlation remain."
+}

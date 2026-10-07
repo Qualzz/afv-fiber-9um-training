@@ -1,0 +1,29 @@
+{
+  "model": "ours",
+  "checkpointSHA256": "6837f3fe8fca123e6ed0b91bb052ce5218ca6eb6889800e4d578b6c8aaf59767",
+  "seconds": 6.15256373900047,
+  "patches": 64,
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "patchSizeZYX": [
+    128,
+    128,
+    128
+  ],
+  "strideXY": 64,
+  "precision": "bf16",
+  "tta": false,
+  "normalization": {
+    "mean": 106.16543490600586,
+    "std": 33.075888137333045
+  },
+  "blend": "Gaussian softmax probability blending, no MIP",
+  "outputShapeZYX": [
+    256,
+    256,
+    256
+  ],
+  "voxelCounts": {
+    "1": 467375,
+    "2": 495389
+  }
+}

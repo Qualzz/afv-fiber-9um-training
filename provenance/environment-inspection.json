@@ -1,0 +1,34 @@
+{
+  "note": "Inspected at packaging time, not a historical environment lock. Historical run configs independently record torch 2.1.2. Training supervisor put vendored dependencies on PYTHONPATH.",
+  "python": "3.10.13 | packaged by conda-forge | (main, Dec 23 2023, 15:27:34) [MSC v.1937 64 bit (AMD64)]",
+  "globalDistributions": {
+    "torch": "2.1.2+cu121",
+    "numpy": "1.26.3",
+    "scipy": "1.11.4",
+    "Pillow": "10.0.1",
+    "scikit-image": null,
+    "dynamic-network-architectures": null,
+    "nnunetv2": null,
+    "batchgenerators": null,
+    "zarr": null,
+    "requests": "2.31.0"
+  },
+  "vendoredDependencies": {
+    "dependencyRootExists": true,
+    "versions": {
+      "dynamic-network-architectures": "0.4.4",
+      "scikit-image": null,
+      "nnunetv2": null,
+      "batchgenerators": null,
+      "psutil": "5.9.7",
+      "requests": "2.31.0",
+      "zarr": null
+    },
+    "packageDirs": [
+      "dynamic_network_architectures",
+      "dynamic_network_architectures-0.4.4.dist-info",
+      "numpy-1.26.4.dist-info",
+      "scipy-1.11.4.dist-info"
+    ]
+  }
+}

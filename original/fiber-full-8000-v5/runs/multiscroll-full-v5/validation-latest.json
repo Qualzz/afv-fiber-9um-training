@@ -1,0 +1,70 @@
+{
+  "real": {
+    "cases": 42,
+    "loss": 0.8229861607154211,
+    "semanticLoss": 0.527060486021496,
+    "foregroundDice": 0.7275880092666263,
+    "skeletonCoverage": 0.9580704100661154,
+    "skeletonVoxels": 53089,
+    "affinityFalsePositiveRate": 0.08986020635317192,
+    "affinityNegativePairs": 6704525,
+    "backgroundFalsePositiveRate": 0.009962316317650165
+  },
+  "compressed": {
+    "cases": 30,
+    "loss": 2.3869399388631183,
+    "semanticLoss": 1.5925195773442586,
+    "foregroundDice": 0.19486876868953307,
+    "skeletonCoverage": 0.6843228070175439,
+    "skeletonVoxels": 71250,
+    "affinityFalsePositiveRate": 0.04091177208409891,
+    "affinityNegativePairs": 1474930,
+    "backgroundFalsePositiveRate": 0.058914616443959934
+  },
+  "retention-0813/real": {
+    "cases": 27,
+    "loss": 0.9195980771824166,
+    "semanticLoss": 0.6057934451986242,
+    "foregroundDice": 0.65844534723847,
+    "skeletonCoverage": 0.9607467288940745,
+    "skeletonVoxels": 23998,
+    "affinityFalsePositiveRate": 0.10297313296870221,
+    "affinityNegativePairs": 2739938,
+    "backgroundFalsePositiveRate": 0.010860263536330262
+  },
+  "retention-0813/compressed": {
+    "cases": 21,
+    "loss": 2.5595290944689797,
+    "semanticLoss": 1.726389033453805,
+    "foregroundDice": 0.13292190494636694,
+    "skeletonCoverage": 0.6177540106951872,
+    "skeletonVoxels": 32725,
+    "affinityFalsePositiveRate": 0.045864195219168916,
+    "affinityNegativePairs": 614161,
+    "backgroundFalsePositiveRate": 0.057476764098074916
+  },
+  "new-1447/real": {
+    "cases": 15,
+    "loss": 0.6490847110748291,
+    "semanticLoss": 0.3853411595026652,
+    "foregroundDice": 0.8520448009173075,
+    "skeletonCoverage": 0.9558626379292565,
+    "skeletonVoxels": 29091,
+    "affinityFalsePositiveRate": 0.08079782332939094,
+    "affinityNegativePairs": 3964587,
+    "backgroundFalsePositiveRate": 0.008355606355581989
+  },
+  "new-1447/compressed": {
+    "cases": 9,
+    "loss": 1.9842319091161091,
+    "semanticLoss": 1.2801575130886502,
+    "foregroundDice": 0.3394114507569207,
+    "skeletonCoverage": 0.7408695652173913,
+    "skeletonVoxels": 38525,
+    "affinityFalsePositiveRate": 0.03737820483776716,
+    "affinityNegativePairs": 860769,
+    "backgroundFalsePositiveRate": 0.06204891009454465
+  },
+  "selectionScore": 1.3233202746936255,
+  "step": 750
+}

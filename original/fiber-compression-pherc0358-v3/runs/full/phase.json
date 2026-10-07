@@ -1,0 +1,16 @@
+{
+  "parentRun": "expanded-01",
+  "parentStep": 1200,
+  "parentStoppedStep": 1283,
+  "parentCheckpointSHA256": "6bcb9070d5c890fce66511e86f80b14e5fe7e4536b681e48c31faed109759903",
+  "parentValidationScore": 1.70765621151552,
+  "initializationFile": "D:\\fiber-compression-pherc0358-v3\\runs\\full\\initialize-from-expanded-01.pt",
+  "validationFrom": "initial",
+  "validationSHA256": "d1b8e19efc75e0b6798c2c3aa755affbfe26e55a311dc9f033a18ace08640026",
+  "snapshot": "full",
+  "maxSteps": 3000,
+  "optimizerPolicy": "New optimizer and schedule; all model heads initialized from best parent EMA weights",
+  "selection": "Parent best checkpoint on unchanged validation benchmark",
+  "collectionComplete": true,
+  "plannedCollectionRegions": 185
+}

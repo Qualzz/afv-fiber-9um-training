@@ -1,0 +1,72 @@
+{
+  "name": "multiscroll-centre-v6",
+  "phaseStartStep": 874,
+  "maxSteps": 12000,
+  "batchSize": 2,
+  "accumulation": 4,
+  "learningRate": 2e-05,
+  "warmupSteps": 50,
+  "workers": 8,
+  "codeSHA256": {
+    "settings.py": "e72ef996cb37bac495a911e91a4b27036cf246f9d88bf2c404d2b93699802781",
+    "geometry.py": "aec14d3b93765c89d07aa79cd11f387fdc7b0a7dc0044b142279393dc6159af4",
+    "data.py": "25d44ce3b6e3dde0fbb9ae13c91a1b73967d9bf90bf6b3f80b9576fcee2d989f",
+    "network.py": "91dc696d9e08709896e3a86be38d2c6af9da433ef03cd5c1c8ad92ca61f52a92",
+    "train.py": "7e12592c216ea1013059a82be23a0bb3deaa3fd1056017c948c8744cff09b08f",
+    "reliable_io.py": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e"
+  },
+  "sourceSnapshotSHA256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+  "validationSHA256": "553fc3e919f70aba852838a48c19288b4c8af80d2dadfc6f96b97fe4b3f9eb90",
+  "initializationSHA256": "847aa6c9b153d947a1c0939e7fb91b6f3021b5c38c5a4ed1590034dbfee5411e",
+  "initializationState": "v5 +874 model weights",
+  "optimizerReset": true,
+  "targetSigmaVoxels": 1.5,
+  "centreLossWeight": 2.0,
+  "precision": "bf16",
+  "device": "NVIDIA GeForce RTX 4090",
+  "compression": "single-region smooth monotone void-first compaction",
+  "nativeProposalFraction": 0.5,
+  "curriculum": "hard fraction of augmented samples ramps from 0 at phase step 100 to 0.4 at 750",
+  "compressedMixAfter750": {
+    "mild": 0.2,
+    "moderate": 0.4,
+    "hard": 0.4
+  },
+  "materialFactors": {
+    "mild": [
+      1,
+      1
+    ],
+    "moderate": [
+      0.85,
+      1
+    ],
+    "hard": [
+      0.55,
+      0.8
+    ]
+  },
+  "voidFactors": {
+    "mild": [
+      0.3,
+      0.6
+    ],
+    "moderate": [
+      0.08,
+      0.25
+    ],
+    "hard": [
+      0.02,
+      0.1
+    ]
+  },
+  "checkpointEvery": 25,
+  "validationEvery": 250,
+  "distillation": false,
+  "productionPromotion": false,
+  "limitations": [
+    "Automatic partial targets, not independent human ground truth",
+    "Geometric compaction, not calibrated material mechanics",
+    "Synthetic hard-case success does not establish performance on real compressed fibres"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "channel_names": {
+        "0": "T2"
+    },
+    "labels": {
+        "background": 0,
+        "vt-fiber": 1,
+        "hz-fiber": 2,
+        "intersection": 3
+    },
+    "numTraining": 18,
+    "file_ending": ".tif",
+    "overwrite_image_reader_writer": "Tiff3DIO"
+}

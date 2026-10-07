@@ -1,0 +1,20 @@
+{
+  "file": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/validation.json",
+  "previousLocalCopySHA256": "39a77fb392556087037edea57f2b829d0a94a58ff47da87745d521329cb46e4d",
+  "recoveredTrainingHostSHA256": "553fc3e919f70aba852838a48c19288b4c8af80d2dadfc6f96b97fe4b3f9eb90",
+  "matchesPreparedAndCheckpointConfig": true,
+  "parsedContentIdentical": true,
+  "explanation": "The only byte difference is 4228 LF endings versus CRLF endings, adding 4228 bytes. Replacing CRLF with LF in the recovered copy reproduces the previous local bytes exactly. Spaces, floating-point representations and all 136 parsed records are unchanged.",
+  "previousBytes": 115376,
+  "recoveredBytes": 119604,
+  "lineEndings": {
+    "local": "LF",
+    "trainingHost": "CRLF",
+    "lines": 4228
+  },
+  "normalizedBytesIdentical": true,
+  "recoveredFrom": {
+    "host": "original Windows training host",
+    "path": "D:/fiber-centre-compression-v6/runs/multiscroll-centre-v6/validation.json"
+  }
+}

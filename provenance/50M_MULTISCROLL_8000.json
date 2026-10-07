@@ -1,0 +1,13 @@
+{
+  "name": "50M_MULTISCROLL",
+  "step": 8000,
+  "weights": "EMA",
+  "sha256": "6a3ff424f67c5619a12b18fcb2598fbc36961fd851f9fb67e4d4d0c37d3e458b",
+  "bytes": 566252626,
+  "sourceRun": "multiscroll",
+  "snapshotSHA256": "aa3bc7d1854cd5aa60185de96c61d78e5cbf27a2f09fa98ce7cbe2e7bc726067",
+  "exportedAt": "2026-09-21T13:08:02.205019+00:00",
+  "resumeCheckpointSHA256": "1981f71340286b78abe4e3b3a139ee49c53591947aa7e38d782957d3a81faac5",
+  "resumeBytes": 2264645870,
+  "stopReason": "User requested stop; training had already early-stopped at 8000"
+}

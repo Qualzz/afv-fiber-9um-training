@@ -1,0 +1,347 @@
+[
+  {
+    "sourceUrl": "https://dl.ash2txt.org/community-uploads/forrest/volcomp/PHerc0175A/volumes/20250521115057-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "zarr_format": 3,
+      "node_type": "array",
+      "shape": [
+        12748,
+        9363,
+        9363
+      ],
+      "data_type": "uint8",
+      "chunk_grid": {
+        "name": "regular",
+        "configuration": {
+          "chunk_shape": [
+            1024,
+            1024,
+            1024
+          ]
+        }
+      },
+      "chunk_key_encoding": {
+        "name": "default",
+        "configuration": {
+          "separator": "/"
+        }
+      },
+      "fill_value": 0,
+      "codecs": [
+        {
+          "name": "sharding_indexed",
+          "configuration": {
+            "chunk_shape": [
+              128,
+              128,
+              128
+            ],
+            "codecs": [
+              {
+                "name": "volcomp",
+                "configuration": {
+                  "q": 8.0
+                }
+              }
+            ],
+            "index_codecs": [
+              {
+                "name": "bytes",
+                "configuration": {
+                  "endian": "little"
+                }
+              },
+              {
+                "name": "crc32c"
+              }
+            ],
+            "index_location": "end"
+          }
+        }
+      ],
+      "attributes": {},
+      "dimension_names": [
+        "z",
+        "y",
+        "x"
+      ]
+    },
+    "metadataSHA256": "288fec7f651995998e533a0c865e939eb268c626a8c2b0c4fce90c468e108532"
+  },
+  {
+    "sourceUrl": "https://dl.ash2txt.org/community-uploads/forrest/volcomp/PHerc1447/volumes/20250521151220-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "zarr_format": 3,
+      "node_type": "array",
+      "shape": [
+        24297,
+        8343,
+        8343
+      ],
+      "data_type": "uint8",
+      "chunk_grid": {
+        "name": "regular",
+        "configuration": {
+          "chunk_shape": [
+            1024,
+            1024,
+            1024
+          ]
+        }
+      },
+      "chunk_key_encoding": {
+        "name": "default",
+        "configuration": {
+          "separator": "/"
+        }
+      },
+      "fill_value": 0,
+      "codecs": [
+        {
+          "name": "sharding_indexed",
+          "configuration": {
+            "chunk_shape": [
+              128,
+              128,
+              128
+            ],
+            "codecs": [
+              {
+                "name": "volcomp",
+                "configuration": {
+                  "q": 8.0
+                }
+              }
+            ],
+            "index_codecs": [
+              {
+                "name": "bytes",
+                "configuration": {
+                  "endian": "little"
+                }
+              },
+              {
+                "name": "crc32c"
+              }
+            ],
+            "index_location": "end"
+          }
+        }
+      ],
+      "attributes": {},
+      "dimension_names": [
+        "z",
+        "y",
+        "x"
+      ]
+    },
+    "metadataSHA256": "6b63e7885425c43737920fdabee30709f3bba300c696297e8aab43332a9fa43b"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0125/volumes/20250821151825-9.362um-1.2m-113keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        20840,
+        8387,
+        8387
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "ae9b954b9e3c9155a39c716afab5b133eb87d546a4b6dc6ded77abae4c71c613"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0175A/volumes/20250521115057-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        12748,
+        9363,
+        9363
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2,
+      "dtype": "|u1"
+    },
+    "metadataSHA256": "c14c09cb640393b40994b77b18a295c836c96c1ef6fa594151927ad65d4d70cc"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0191/volumes/20250821151635-9.362um-1.2m-113keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        18977,
+        8387,
+        8387
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "0b44cc0ee481c25d50f6817dcab06a642fd1a2b87bd704459f0569e49ca40d34"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0211/volumes/20250821151803-9.362um-1.2m-113keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        19416,
+        7948,
+        7948
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "c754c949661243c8e60a4b3212d924882908f480c8249d8f9557eb83c84856c4"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0257/volumes/20250821151750-9.362um-1.2m-113keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        18872,
+        8388,
+        8388
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "58987697004c710910f06fb24166436c0b6b384fb40a9eca6d9e7cc640cd5dce"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0268/volumes/20251110183117-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        14833,
+        12145,
+        12145
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "b792d52773157be52423d952dbb54af27b9862dfed13649bde3d0bbd44c6fd8e"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0306B/volumes/20250521133212-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        15898,
+        8849,
+        8849
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2,
+      "dtype": "|u1"
+    },
+    "metadataSHA256": "a82e0cb3e1b4b8aca6bbf3595537aa5c3e8fa1f5c15989695a3581644fc247b6"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/volumes/20250521135224-8.640um-1.2m-116keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        24298,
+        9867,
+        9867
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2,
+      "dtype": "|u1"
+    },
+    "metadataSHA256": "0dc78ab465bc614b960cfb86b235e6405ed8e54efc450eb7d1e7d213f5409d18"
+  },
+  {
+    "sourceUrl": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0813/volumes/20250821151723-9.362um-1.2m-113keV-masked.zarr/0",
+    "metadata": {
+      "shape": [
+        16993,
+        7947,
+        7947
+      ],
+      "chunks": [
+        128,
+        128,
+        128
+      ],
+      "dtype": "|u1",
+      "fill_value": 0,
+      "order": "C",
+      "filters": null,
+      "dimension_separator": "/",
+      "compressor": null,
+      "zarr_format": 2
+    },
+    "metadataSHA256": "48b8e2918205648fca4d1daf2ff6c2a4c0d1409f642c49342a2e59cc22621ff4"
+  }
+]

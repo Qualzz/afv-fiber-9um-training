@@ -1,0 +1,4898 @@
+[
+  {
+    "file": "paired-00-real.npz",
+    "semanticLoss": 3.890035390853882,
+    "centreLoss": 0.4145430624485016,
+    "loss": 6.202828884124756,
+    "foregroundDice": 0.000727802037845706,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 4466,
+    "affinityFalsePositivePairs": 396,
+    "backgroundCount": 1243424,
+    "backgroundFP": 1371,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 2437,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 2436
+      },
+      {
+        "threshold": 0.75,
+        "positive": 495,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 495
+      },
+      {
+        "threshold": 0.9,
+        "positive": 25,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 25
+      }
+    ]
+  },
+  {
+    "file": "paired-00-mild.npz",
+    "semanticLoss": 3.8684215545654297,
+    "centreLoss": 0.41126272082328796,
+    "loss": 6.168184757232666,
+    "foregroundDice": 0.0009174311926605505,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 4466,
+    "affinityFalsePositivePairs": 397,
+    "backgroundCount": 1228744,
+    "backgroundFP": 1087,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1800,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1799
+      },
+      {
+        "threshold": 0.75,
+        "positive": 287,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 287
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "paired-00-moderate.npz",
+    "semanticLoss": 3.9012246131896973,
+    "centreLoss": 0.5014107823371887,
+    "loss": 6.367776393890381,
+    "foregroundDice": 0.0018484288354898336,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 3433,
+    "affinityFalsePositivePairs": 196,
+    "backgroundCount": 1209465,
+    "backgroundFP": 540,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1556,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1556
+      },
+      {
+        "threshold": 0.75,
+        "positive": 109,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 109
+      },
+      {
+        "threshold": 0.9,
+        "positive": 0,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-00-hard.npz",
+    "semanticLoss": 1.8784042596817017,
+    "centreLoss": 0.3627237379550934,
+    "loss": 3.235494375228882,
+    "foregroundDice": 0.3689683860232945,
+    "coreCount": 19,
+    "semanticCovered": 19,
+    "affinityNegativePairs": 4942,
+    "affinityFalsePositivePairs": 143,
+    "backgroundCount": 1210633,
+    "backgroundFP": 1456,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 5024,
+        "near": 217,
+        "covered": 19,
+        "backgroundFP": 4760
+      },
+      {
+        "threshold": 0.75,
+        "positive": 971,
+        "near": 156,
+        "covered": 19,
+        "backgroundFP": 806
+      },
+      {
+        "threshold": 0.9,
+        "positive": 179,
+        "near": 68,
+        "covered": 19,
+        "backgroundFP": 110
+      }
+    ]
+  },
+  {
+    "file": "paired-01-real.npz",
+    "semanticLoss": 1.0656989812850952,
+    "centreLoss": 0.3042345643043518,
+    "loss": 2.142716407775879,
+    "foregroundDice": 0.8232153306026916,
+    "coreCount": 1273,
+    "semanticCovered": 1129,
+    "affinityNegativePairs": 220331,
+    "affinityFalsePositivePairs": 14892,
+    "backgroundCount": 1274338,
+    "backgroundFP": 1594,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14289,
+        "near": 10134,
+        "covered": 1246,
+        "backgroundFP": 1613
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5449,
+        "near": 4863,
+        "covered": 1130,
+        "backgroundFP": 237
+      },
+      {
+        "threshold": 0.9,
+        "positive": 687,
+        "near": 676,
+        "covered": 539,
+        "backgroundFP": 9
+      }
+    ]
+  },
+  {
+    "file": "paired-01-mild.npz",
+    "semanticLoss": 1.021519422531128,
+    "centreLoss": 0.3002346456050873,
+    "loss": 2.0622305870056152,
+    "foregroundDice": 0.8239768413901074,
+    "coreCount": 1288,
+    "semanticCovered": 1139,
+    "affinityNegativePairs": 212462,
+    "affinityFalsePositivePairs": 13695,
+    "backgroundCount": 1267228,
+    "backgroundFP": 1635,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14231,
+        "near": 10018,
+        "covered": 1267,
+        "backgroundFP": 1749
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5235,
+        "near": 4672,
+        "covered": 1150,
+        "backgroundFP": 251
+      },
+      {
+        "threshold": 0.9,
+        "positive": 591,
+        "near": 582,
+        "covered": 504,
+        "backgroundFP": 6
+      }
+    ]
+  },
+  {
+    "file": "paired-01-moderate.npz",
+    "semanticLoss": 0.9539278149604797,
+    "centreLoss": 0.29173964262008667,
+    "loss": 1.960842251777649,
+    "foregroundDice": 0.8279457222193116,
+    "coreCount": 1447,
+    "semanticCovered": 1236,
+    "affinityNegativePairs": 161892,
+    "affinityFalsePositivePairs": 7870,
+    "backgroundCount": 1244562,
+    "backgroundFP": 987,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14208,
+        "near": 10545,
+        "covered": 1398,
+        "backgroundFP": 1306
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5508,
+        "near": 5104,
+        "covered": 1253,
+        "backgroundFP": 76
+      },
+      {
+        "threshold": 0.9,
+        "positive": 632,
+        "near": 628,
+        "covered": 604,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "paired-01-hard.npz",
+    "semanticLoss": 1.6735937595367432,
+    "centreLoss": 0.3517814874649048,
+    "loss": 3.185778856277466,
+    "foregroundDice": 0.6540005489604063,
+    "coreCount": 2188,
+    "semanticCovered": 1436,
+    "affinityNegativePairs": 182290,
+    "affinityFalsePositivePairs": 8712,
+    "backgroundCount": 1225621,
+    "backgroundFP": 5963,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20377,
+        "near": 10764,
+        "covered": 1818,
+        "backgroundFP": 6652
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7737,
+        "near": 5741,
+        "covered": 1529,
+        "backgroundFP": 1209
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1193,
+        "near": 1107,
+        "covered": 869,
+        "backgroundFP": 52
+      }
+    ]
+  },
+  {
+    "file": "paired-02-real.npz",
+    "semanticLoss": 1.1576048135757446,
+    "centreLoss": 0.27426204085350037,
+    "loss": 2.400484561920166,
+    "foregroundDice": 0.7338001672240803,
+    "coreCount": 128,
+    "semanticCovered": 128,
+    "affinityNegativePairs": 20206,
+    "affinityFalsePositivePairs": 2005,
+    "backgroundCount": 1267092,
+    "backgroundFP": 2279,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3303,
+        "near": 1230,
+        "covered": 128,
+        "backgroundFP": 1660
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1104,
+        "near": 783,
+        "covered": 128,
+        "backgroundFP": 221
+      },
+      {
+        "threshold": 0.9,
+        "positive": 302,
+        "near": 283,
+        "covered": 125,
+        "backgroundFP": 12
+      }
+    ]
+  },
+  {
+    "file": "paired-02-mild.npz",
+    "semanticLoss": 1.2078557014465332,
+    "centreLoss": 0.2745662033557892,
+    "loss": 2.468825340270996,
+    "foregroundDice": 0.7442386388111135,
+    "coreCount": 129,
+    "semanticCovered": 129,
+    "affinityNegativePairs": 20158,
+    "affinityFalsePositivePairs": 1981,
+    "backgroundCount": 1266731,
+    "backgroundFP": 2052,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3118,
+        "near": 1221,
+        "covered": 129,
+        "backgroundFP": 1473
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1085,
+        "near": 770,
+        "covered": 129,
+        "backgroundFP": 197
+      },
+      {
+        "threshold": 0.9,
+        "positive": 280,
+        "near": 263,
+        "covered": 124,
+        "backgroundFP": 11
+      }
+    ]
+  },
+  {
+    "file": "paired-02-moderate.npz",
+    "semanticLoss": 1.057840347290039,
+    "centreLoss": 0.24719682335853577,
+    "loss": 1.9374489784240723,
+    "foregroundDice": 0.7388,
+    "coreCount": 131,
+    "semanticCovered": 131,
+    "affinityNegativePairs": 14337,
+    "affinityFalsePositivePairs": 1014,
+    "backgroundCount": 1230396,
+    "backgroundFP": 1792,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3427,
+        "near": 1186,
+        "covered": 131,
+        "backgroundFP": 1799
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1166,
+        "near": 756,
+        "covered": 131,
+        "backgroundFP": 281
+      },
+      {
+        "threshold": 0.9,
+        "positive": 280,
+        "near": 246,
+        "covered": 97,
+        "backgroundFP": 14
+      }
+    ]
+  },
+  {
+    "file": "paired-02-hard.npz",
+    "semanticLoss": 1.8646323680877686,
+    "centreLoss": 0.269308477640152,
+    "loss": 3.078305959701538,
+    "foregroundDice": 0.4072286012526096,
+    "coreCount": 229,
+    "semanticCovered": 143,
+    "affinityNegativePairs": 16838,
+    "affinityFalsePositivePairs": 1179,
+    "backgroundCount": 1197330,
+    "backgroundFP": 2914,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 5423,
+        "near": 1236,
+        "covered": 218,
+        "backgroundFP": 3747
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1626,
+        "near": 685,
+        "covered": 190,
+        "backgroundFP": 811
+      },
+      {
+        "threshold": 0.9,
+        "positive": 260,
+        "near": 170,
+        "covered": 127,
+        "backgroundFP": 55
+      }
+    ]
+  },
+  {
+    "file": "paired-03-real.npz",
+    "semanticLoss": 0.4773934781551361,
+    "centreLoss": 0.2906004786491394,
+    "loss": 1.2802931070327759,
+    "foregroundDice": 0.9170808430324001,
+    "coreCount": 1026,
+    "semanticCovered": 1015,
+    "affinityNegativePairs": 183204,
+    "affinityFalsePositivePairs": 10623,
+    "backgroundCount": 1274915,
+    "backgroundFP": 1862,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14519,
+        "near": 10109,
+        "covered": 1017,
+        "backgroundFP": 1233
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5859,
+        "near": 5295,
+        "covered": 1005,
+        "backgroundFP": 165
+      },
+      {
+        "threshold": 0.9,
+        "positive": 594,
+        "near": 582,
+        "covered": 519,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-03-mild.npz",
+    "semanticLoss": 0.4477362036705017,
+    "centreLoss": 0.28914767503738403,
+    "loss": 1.2271406650543213,
+    "foregroundDice": 0.9186053963981285,
+    "coreCount": 1035,
+    "semanticCovered": 1027,
+    "affinityNegativePairs": 167209,
+    "affinityFalsePositivePairs": 9557,
+    "backgroundCount": 1270922,
+    "backgroundFP": 2228,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14645,
+        "near": 10246,
+        "covered": 1025,
+        "backgroundFP": 1314
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5884,
+        "near": 5298,
+        "covered": 1017,
+        "backgroundFP": 232
+      },
+      {
+        "threshold": 0.9,
+        "positive": 542,
+        "near": 518,
+        "covered": 489,
+        "backgroundFP": 13
+      }
+    ]
+  },
+  {
+    "file": "paired-03-moderate.npz",
+    "semanticLoss": 0.38057658076286316,
+    "centreLoss": 0.27535948157310486,
+    "loss": 1.091738224029541,
+    "foregroundDice": 0.9276204815078137,
+    "coreCount": 1147,
+    "semanticCovered": 1129,
+    "affinityNegativePairs": 131711,
+    "affinityFalsePositivePairs": 7149,
+    "backgroundCount": 1249621,
+    "backgroundFP": 2320,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 16003,
+        "near": 10953,
+        "covered": 1135,
+        "backgroundFP": 1786
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6283,
+        "near": 5630,
+        "covered": 1108,
+        "backgroundFP": 233
+      },
+      {
+        "threshold": 0.9,
+        "positive": 531,
+        "near": 508,
+        "covered": 534,
+        "backgroundFP": 21
+      }
+    ]
+  },
+  {
+    "file": "paired-03-hard.npz",
+    "semanticLoss": 0.7593064308166504,
+    "centreLoss": 0.2722959816455841,
+    "loss": 1.6445107460021973,
+    "foregroundDice": 0.8033788591118985,
+    "coreCount": 1582,
+    "semanticCovered": 1477,
+    "affinityNegativePairs": 150105,
+    "affinityFalsePositivePairs": 13569,
+    "backgroundCount": 1243059,
+    "backgroundFP": 9298,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 19471,
+        "near": 12717,
+        "covered": 1532,
+        "backgroundFP": 3181
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8204,
+        "near": 6895,
+        "covered": 1469,
+        "backgroundFP": 624
+      },
+      {
+        "threshold": 0.9,
+        "positive": 970,
+        "near": 922,
+        "covered": 815,
+        "backgroundFP": 24
+      }
+    ]
+  },
+  {
+    "file": "paired-04-real.npz",
+    "semanticLoss": 0.4623885750770569,
+    "centreLoss": 0.26976239681243896,
+    "loss": 1.2316166162490845,
+    "foregroundDice": 0.8088741293114817,
+    "coreCount": 1135,
+    "semanticCovered": 1135,
+    "affinityNegativePairs": 169245,
+    "affinityFalsePositivePairs": 17328,
+    "backgroundCount": 1261422,
+    "backgroundFP": 13798,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 16794,
+        "near": 10507,
+        "covered": 1131,
+        "backgroundFP": 2294
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5711,
+        "near": 4921,
+        "covered": 1087,
+        "backgroundFP": 266
+      },
+      {
+        "threshold": 0.9,
+        "positive": 222,
+        "near": 210,
+        "covered": 266,
+        "backgroundFP": 10
+      }
+    ]
+  },
+  {
+    "file": "paired-04-mild.npz",
+    "semanticLoss": 0.47195854783058167,
+    "centreLoss": 0.26654985547065735,
+    "loss": 1.2701213359832764,
+    "foregroundDice": 0.8176297137910512,
+    "coreCount": 1168,
+    "semanticCovered": 1166,
+    "affinityNegativePairs": 129344,
+    "affinityFalsePositivePairs": 10121,
+    "backgroundCount": 1243578,
+    "backgroundFP": 11335,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 16765,
+        "near": 10512,
+        "covered": 1162,
+        "backgroundFP": 2487
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5713,
+        "near": 4926,
+        "covered": 1105,
+        "backgroundFP": 303
+      },
+      {
+        "threshold": 0.9,
+        "positive": 216,
+        "near": 202,
+        "covered": 247,
+        "backgroundFP": 14
+      }
+    ]
+  },
+  {
+    "file": "paired-04-moderate.npz",
+    "semanticLoss": 0.6260676383972168,
+    "centreLoss": 0.26830509305000305,
+    "loss": 1.6326634883880615,
+    "foregroundDice": 0.8076424352057887,
+    "coreCount": 1301,
+    "semanticCovered": 1256,
+    "affinityNegativePairs": 111033,
+    "affinityFalsePositivePairs": 6697,
+    "backgroundCount": 1223044,
+    "backgroundFP": 8674,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 16003,
+        "near": 10256,
+        "covered": 1270,
+        "backgroundFP": 2567
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5947,
+        "near": 5011,
+        "covered": 1190,
+        "backgroundFP": 522
+      },
+      {
+        "threshold": 0.9,
+        "positive": 370,
+        "near": 329,
+        "covered": 346,
+        "backgroundFP": 39
+      }
+    ]
+  },
+  {
+    "file": "paired-04-hard.npz",
+    "semanticLoss": 1.3738399744033813,
+    "centreLoss": 0.32460638880729675,
+    "loss": 3.3644602298736572,
+    "foregroundDice": 0.568558269247021,
+    "coreCount": 1391,
+    "semanticCovered": 1096,
+    "affinityNegativePairs": 87130,
+    "affinityFalsePositivePairs": 5242,
+    "backgroundCount": 1221848,
+    "backgroundFP": 14027,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 15752,
+        "near": 7024,
+        "covered": 1159,
+        "backgroundFP": 6766
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5930,
+        "near": 3930,
+        "covered": 1026,
+        "backgroundFP": 1468
+      },
+      {
+        "threshold": 0.9,
+        "positive": 825,
+        "near": 658,
+        "covered": 481,
+        "backgroundFP": 120
+      }
+    ]
+  },
+  {
+    "file": "paired-05-real.npz",
+    "semanticLoss": 0.5411235094070435,
+    "centreLoss": 0.2821388840675354,
+    "loss": 1.400404930114746,
+    "foregroundDice": 0.9020044543429844,
+    "coreCount": 1428,
+    "semanticCovered": 1376,
+    "affinityNegativePairs": 242034,
+    "affinityFalsePositivePairs": 15347,
+    "backgroundCount": 1279249,
+    "backgroundFP": 3165,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17628,
+        "near": 12538,
+        "covered": 1417,
+        "backgroundFP": 1102
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5955,
+        "near": 5426,
+        "covered": 1312,
+        "backgroundFP": 130
+      },
+      {
+        "threshold": 0.9,
+        "positive": 357,
+        "near": 354,
+        "covered": 377,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-05-mild.npz",
+    "semanticLoss": 0.5345919132232666,
+    "centreLoss": 0.28288304805755615,
+    "loss": 1.3928675651550293,
+    "foregroundDice": 0.896093978827566,
+    "coreCount": 1479,
+    "semanticCovered": 1419,
+    "affinityNegativePairs": 200352,
+    "affinityFalsePositivePairs": 10032,
+    "backgroundCount": 1265853,
+    "backgroundFP": 3198,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17411,
+        "near": 12518,
+        "covered": 1464,
+        "backgroundFP": 950
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5750,
+        "near": 5315,
+        "covered": 1372,
+        "backgroundFP": 80
+      },
+      {
+        "threshold": 0.9,
+        "positive": 307,
+        "near": 306,
+        "covered": 344,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-05-moderate.npz",
+    "semanticLoss": 0.5202980041503906,
+    "centreLoss": 0.2792591154575348,
+    "loss": 1.358373999595642,
+    "foregroundDice": 0.8860998990918264,
+    "coreCount": 1623,
+    "semanticCovered": 1541,
+    "affinityNegativePairs": 163480,
+    "affinityFalsePositivePairs": 7022,
+    "backgroundCount": 1251873,
+    "backgroundFP": 4001,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17919,
+        "near": 13215,
+        "covered": 1585,
+        "backgroundFP": 785
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6215,
+        "near": 5729,
+        "covered": 1449,
+        "backgroundFP": 112
+      },
+      {
+        "threshold": 0.9,
+        "positive": 432,
+        "near": 415,
+        "covered": 407,
+        "backgroundFP": 17
+      }
+    ]
+  },
+  {
+    "file": "paired-05-hard.npz",
+    "semanticLoss": 0.9087823033332825,
+    "centreLoss": 0.29800042510032654,
+    "loss": 2.023956298828125,
+    "foregroundDice": 0.7537504310840326,
+    "coreCount": 1776,
+    "semanticCovered": 1440,
+    "affinityNegativePairs": 161319,
+    "affinityFalsePositivePairs": 10296,
+    "backgroundCount": 1256321,
+    "backgroundFP": 7742,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 15758,
+        "near": 10854,
+        "covered": 1589,
+        "backgroundFP": 1825
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5648,
+        "near": 4881,
+        "covered": 1286,
+        "backgroundFP": 250
+      },
+      {
+        "threshold": 0.9,
+        "positive": 699,
+        "near": 674,
+        "covered": 489,
+        "backgroundFP": 14
+      }
+    ]
+  },
+  {
+    "file": "paired-06-real.npz",
+    "semanticLoss": 0.6492754220962524,
+    "centreLoss": 0.26272061467170715,
+    "loss": 1.4769868850708008,
+    "foregroundDice": 0.8699254926537149,
+    "coreCount": 504,
+    "semanticCovered": 499,
+    "affinityNegativePairs": 72815,
+    "affinityFalsePositivePairs": 4762,
+    "backgroundCount": 1270784,
+    "backgroundFP": 3972,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 8531,
+        "near": 5152,
+        "covered": 504,
+        "backgroundFP": 1310
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3732,
+        "near": 3206,
+        "covered": 502,
+        "backgroundFP": 146
+      },
+      {
+        "threshold": 0.9,
+        "positive": 806,
+        "near": 801,
+        "covered": 422,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "paired-06-mild.npz",
+    "semanticLoss": 0.6363922357559204,
+    "centreLoss": 0.2664235830307007,
+    "loss": 1.4235620498657227,
+    "foregroundDice": 0.8806862288464524,
+    "coreCount": 496,
+    "semanticCovered": 492,
+    "affinityNegativePairs": 55785,
+    "affinityFalsePositivePairs": 2968,
+    "backgroundCount": 1253690,
+    "backgroundFP": 3546,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 7983,
+        "near": 5098,
+        "covered": 496,
+        "backgroundFP": 959
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3625,
+        "near": 3188,
+        "covered": 493,
+        "backgroundFP": 84
+      },
+      {
+        "threshold": 0.9,
+        "positive": 752,
+        "near": 745,
+        "covered": 414,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "paired-06-moderate.npz",
+    "semanticLoss": 0.6710262894630432,
+    "centreLoss": 0.2537899613380432,
+    "loss": 1.5506393909454346,
+    "foregroundDice": 0.8498952821869489,
+    "coreCount": 507,
+    "semanticCovered": 507,
+    "affinityNegativePairs": 58334,
+    "affinityFalsePositivePairs": 3029,
+    "backgroundCount": 1236983,
+    "backgroundFP": 4673,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 7578,
+        "near": 5145,
+        "covered": 507,
+        "backgroundFP": 751
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3532,
+        "near": 3182,
+        "covered": 503,
+        "backgroundFP": 81
+      },
+      {
+        "threshold": 0.9,
+        "positive": 771,
+        "near": 765,
+        "covered": 423,
+        "backgroundFP": 3
+      }
+    ]
+  },
+  {
+    "file": "paired-06-hard.npz",
+    "semanticLoss": 0.669863760471344,
+    "centreLoss": 0.24304567277431488,
+    "loss": 1.4054874181747437,
+    "foregroundDice": 0.728092719814165,
+    "coreCount": 833,
+    "semanticCovered": 774,
+    "affinityNegativePairs": 65083,
+    "affinityFalsePositivePairs": 5237,
+    "backgroundCount": 1219676,
+    "backgroundFP": 9186,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 10629,
+        "near": 6705,
+        "covered": 817,
+        "backgroundFP": 2369
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4803,
+        "near": 4148,
+        "covered": 776,
+        "backgroundFP": 271
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1265,
+        "near": 1213,
+        "covered": 638,
+        "backgroundFP": 26
+      }
+    ]
+  },
+  {
+    "file": "paired-07-real.npz",
+    "semanticLoss": 0.17809629440307617,
+    "centreLoss": 0.25278952717781067,
+    "loss": 0.8233754634857178,
+    "foregroundDice": 0.9626842065623981,
+    "coreCount": 2683,
+    "semanticCovered": 2646,
+    "affinityNegativePairs": 388712,
+    "affinityFalsePositivePairs": 22745,
+    "backgroundCount": 1256967,
+    "backgroundFP": 3403,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35816,
+        "near": 26783,
+        "covered": 2665,
+        "backgroundFP": 607
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13676,
+        "near": 12998,
+        "covered": 2622,
+        "backgroundFP": 84
+      },
+      {
+        "threshold": 0.9,
+        "positive": 607,
+        "near": 604,
+        "covered": 777,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "paired-07-mild.npz",
+    "semanticLoss": 0.20248538255691528,
+    "centreLoss": 0.2515813410282135,
+    "loss": 0.827562153339386,
+    "foregroundDice": 0.9663747944370025,
+    "coreCount": 2825,
+    "semanticCovered": 2794,
+    "affinityNegativePairs": 299107,
+    "affinityFalsePositivePairs": 11642,
+    "backgroundCount": 1228095,
+    "backgroundFP": 2393,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 36087,
+        "near": 27524,
+        "covered": 2809,
+        "backgroundFP": 570
+      },
+      {
+        "threshold": 0.75,
+        "positive": 14034,
+        "near": 13352,
+        "covered": 2769,
+        "backgroundFP": 91
+      },
+      {
+        "threshold": 0.9,
+        "positive": 612,
+        "near": 610,
+        "covered": 753,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-07-moderate.npz",
+    "semanticLoss": 0.2809423804283142,
+    "centreLoss": 0.24910549819469452,
+    "loss": 0.928652822971344,
+    "foregroundDice": 0.9521045080602689,
+    "coreCount": 2957,
+    "semanticCovered": 2887,
+    "affinityNegativePairs": 268513,
+    "affinityFalsePositivePairs": 10822,
+    "backgroundCount": 1217002,
+    "backgroundFP": 3379,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35176,
+        "near": 27072,
+        "covered": 2920,
+        "backgroundFP": 581
+      },
+      {
+        "threshold": 0.75,
+        "positive": 14268,
+        "near": 13545,
+        "covered": 2841,
+        "backgroundFP": 58
+      },
+      {
+        "threshold": 0.9,
+        "positive": 815,
+        "near": 809,
+        "covered": 918,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-07-hard.npz",
+    "semanticLoss": 0.5697328448295593,
+    "centreLoss": 0.2567622661590576,
+    "loss": 1.3794713020324707,
+    "foregroundDice": 0.8632534537038368,
+    "coreCount": 3515,
+    "semanticCovered": 3349,
+    "affinityNegativePairs": 247264,
+    "affinityFalsePositivePairs": 13780,
+    "backgroundCount": 1215289,
+    "backgroundFP": 12099,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 38147,
+        "near": 26198,
+        "covered": 3407,
+        "backgroundFP": 4676
+      },
+      {
+        "threshold": 0.75,
+        "positive": 17841,
+        "near": 15174,
+        "covered": 3228,
+        "backgroundFP": 1302
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3491,
+        "near": 3245,
+        "covered": 1944,
+        "backgroundFP": 191
+      }
+    ]
+  },
+  {
+    "file": "paired-08-real.npz",
+    "semanticLoss": 0.7645569443702698,
+    "centreLoss": 0.2497389018535614,
+    "loss": 1.5446124076843262,
+    "foregroundDice": 0.7075511249825314,
+    "coreCount": 318,
+    "semanticCovered": 294,
+    "affinityNegativePairs": 36941,
+    "affinityFalsePositivePairs": 4263,
+    "backgroundCount": 1223145,
+    "backgroundFP": 5706,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 5677,
+        "near": 2738,
+        "covered": 314,
+        "backgroundFP": 2145
+      },
+      {
+        "threshold": 0.75,
+        "positive": 2144,
+        "near": 1430,
+        "covered": 302,
+        "backgroundFP": 640
+      },
+      {
+        "threshold": 0.9,
+        "positive": 359,
+        "near": 181,
+        "covered": 153,
+        "backgroundFP": 178
+      }
+    ]
+  },
+  {
+    "file": "paired-08-mild.npz",
+    "semanticLoss": 0.7332223057746887,
+    "centreLoss": 0.2481699138879776,
+    "loss": 1.4988601207733154,
+    "foregroundDice": 0.7159729768035149,
+    "coreCount": 327,
+    "semanticCovered": 302,
+    "affinityNegativePairs": 34512,
+    "affinityFalsePositivePairs": 3671,
+    "backgroundCount": 1210692,
+    "backgroundFP": 5533,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 5626,
+        "near": 2772,
+        "covered": 323,
+        "backgroundFP": 2115
+      },
+      {
+        "threshold": 0.75,
+        "positive": 2141,
+        "near": 1379,
+        "covered": 311,
+        "backgroundFP": 678
+      },
+      {
+        "threshold": 0.9,
+        "positive": 274,
+        "near": 162,
+        "covered": 134,
+        "backgroundFP": 112
+      }
+    ]
+  },
+  {
+    "file": "paired-08-moderate.npz",
+    "semanticLoss": 0.7049627304077148,
+    "centreLoss": 0.2268582284450531,
+    "loss": 1.3932832479476929,
+    "foregroundDice": 0.7361403943941461,
+    "coreCount": 344,
+    "semanticCovered": 333,
+    "affinityNegativePairs": 23608,
+    "affinityFalsePositivePairs": 1951,
+    "backgroundCount": 1188372,
+    "backgroundFP": 3903,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 4890,
+        "near": 2680,
+        "covered": 338,
+        "backgroundFP": 1410
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1772,
+        "near": 1420,
+        "covered": 333,
+        "backgroundFP": 217
+      },
+      {
+        "threshold": 0.9,
+        "positive": 198,
+        "near": 179,
+        "covered": 166,
+        "backgroundFP": 18
+      }
+    ]
+  },
+  {
+    "file": "paired-08-hard.npz",
+    "semanticLoss": 1.3124380111694336,
+    "centreLoss": 0.2720829248428345,
+    "loss": 2.313615083694458,
+    "foregroundDice": 0.5331526409730944,
+    "coreCount": 434,
+    "semanticCovered": 322,
+    "affinityNegativePairs": 27677,
+    "affinityFalsePositivePairs": 1937,
+    "backgroundCount": 1201633,
+    "backgroundFP": 5073,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 8472,
+        "near": 2501,
+        "covered": 395,
+        "backgroundFP": 5024
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3047,
+        "near": 1680,
+        "covered": 338,
+        "backgroundFP": 959
+      },
+      {
+        "threshold": 0.9,
+        "positive": 770,
+        "near": 578,
+        "covered": 279,
+        "backgroundFP": 111
+      }
+    ]
+  },
+  {
+    "file": "paired-09-real.npz",
+    "semanticLoss": 0.5411235094070435,
+    "centreLoss": 0.2821388840675354,
+    "loss": 1.400404930114746,
+    "foregroundDice": 0.9020044543429844,
+    "coreCount": 1428,
+    "semanticCovered": 1376,
+    "affinityNegativePairs": 242034,
+    "affinityFalsePositivePairs": 15347,
+    "backgroundCount": 1279249,
+    "backgroundFP": 3165,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17628,
+        "near": 12538,
+        "covered": 1417,
+        "backgroundFP": 1102
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5955,
+        "near": 5426,
+        "covered": 1312,
+        "backgroundFP": 130
+      },
+      {
+        "threshold": 0.9,
+        "positive": 357,
+        "near": 354,
+        "covered": 377,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-09-mild.npz",
+    "semanticLoss": 0.5345919132232666,
+    "centreLoss": 0.28288304805755615,
+    "loss": 1.3928675651550293,
+    "foregroundDice": 0.896093978827566,
+    "coreCount": 1479,
+    "semanticCovered": 1419,
+    "affinityNegativePairs": 200352,
+    "affinityFalsePositivePairs": 10032,
+    "backgroundCount": 1265853,
+    "backgroundFP": 3198,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17411,
+        "near": 12518,
+        "covered": 1464,
+        "backgroundFP": 950
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5750,
+        "near": 5315,
+        "covered": 1372,
+        "backgroundFP": 80
+      },
+      {
+        "threshold": 0.9,
+        "positive": 307,
+        "near": 306,
+        "covered": 344,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-09-moderate.npz",
+    "semanticLoss": 0.5202980041503906,
+    "centreLoss": 0.2792591154575348,
+    "loss": 1.358373999595642,
+    "foregroundDice": 0.8860998990918264,
+    "coreCount": 1623,
+    "semanticCovered": 1541,
+    "affinityNegativePairs": 163480,
+    "affinityFalsePositivePairs": 7022,
+    "backgroundCount": 1251873,
+    "backgroundFP": 4001,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17919,
+        "near": 13215,
+        "covered": 1585,
+        "backgroundFP": 785
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6215,
+        "near": 5729,
+        "covered": 1449,
+        "backgroundFP": 112
+      },
+      {
+        "threshold": 0.9,
+        "positive": 432,
+        "near": 415,
+        "covered": 407,
+        "backgroundFP": 17
+      }
+    ]
+  },
+  {
+    "file": "paired-09-hard.npz",
+    "semanticLoss": 0.9087823033332825,
+    "centreLoss": 0.29800042510032654,
+    "loss": 2.023956298828125,
+    "foregroundDice": 0.7537504310840326,
+    "coreCount": 1776,
+    "semanticCovered": 1440,
+    "affinityNegativePairs": 161319,
+    "affinityFalsePositivePairs": 10296,
+    "backgroundCount": 1256321,
+    "backgroundFP": 7742,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 15758,
+        "near": 10854,
+        "covered": 1589,
+        "backgroundFP": 1825
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5648,
+        "near": 4881,
+        "covered": 1286,
+        "backgroundFP": 250
+      },
+      {
+        "threshold": 0.9,
+        "positive": 699,
+        "near": 674,
+        "covered": 489,
+        "backgroundFP": 14
+      }
+    ]
+  },
+  {
+    "file": "paired-10-real.npz",
+    "semanticLoss": 3.1366333961486816,
+    "centreLoss": 0.3375464379787445,
+    "loss": 5.253969669342041,
+    "foregroundDice": 0.0019157088122605363,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 2461,
+    "affinityFalsePositivePairs": 213,
+    "backgroundCount": 1275661,
+    "backgroundFP": 500,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1009,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1009
+      },
+      {
+        "threshold": 0.75,
+        "positive": 126,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 126
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 3
+      }
+    ]
+  },
+  {
+    "file": "paired-10-mild.npz",
+    "semanticLoss": 3.144648313522339,
+    "centreLoss": 0.3328537344932556,
+    "loss": 4.875607013702393,
+    "foregroundDice": 0.001893939393939394,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 2782,
+    "affinityFalsePositivePairs": 127,
+    "backgroundCount": 1256976,
+    "backgroundFP": 448,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1004,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1004
+      },
+      {
+        "threshold": 0.75,
+        "positive": 125,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 125
+      },
+      {
+        "threshold": 0.9,
+        "positive": 7,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 7
+      }
+    ]
+  },
+  {
+    "file": "paired-10-moderate.npz",
+    "semanticLoss": 2.0766382217407227,
+    "centreLoss": 0.283069372177124,
+    "loss": 3.2838687896728516,
+    "foregroundDice": 0.3237129485179407,
+    "coreCount": 25,
+    "semanticCovered": 17,
+    "affinityNegativePairs": 5769,
+    "affinityFalsePositivePairs": 300,
+    "backgroundCount": 1236223,
+    "backgroundFP": 521,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1090,
+        "near": 200,
+        "covered": 25,
+        "backgroundFP": 800
+      },
+      {
+        "threshold": 0.75,
+        "positive": 207,
+        "near": 120,
+        "covered": 18,
+        "backgroundFP": 65
+      },
+      {
+        "threshold": 0.9,
+        "positive": 46,
+        "near": 45,
+        "covered": 18,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-10-hard.npz",
+    "semanticLoss": 1.6752309799194336,
+    "centreLoss": 0.30087578296661377,
+    "loss": 2.898869752883911,
+    "foregroundDice": 0.3852097130242826,
+    "coreCount": 94,
+    "semanticCovered": 61,
+    "affinityNegativePairs": 8924,
+    "affinityFalsePositivePairs": 482,
+    "backgroundCount": 1214679,
+    "backgroundFP": 1891,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3168,
+        "near": 507,
+        "covered": 83,
+        "backgroundFP": 2513
+      },
+      {
+        "threshold": 0.75,
+        "positive": 634,
+        "near": 263,
+        "covered": 61,
+        "backgroundFP": 314
+      },
+      {
+        "threshold": 0.9,
+        "positive": 123,
+        "near": 81,
+        "covered": 42,
+        "backgroundFP": 24
+      }
+    ]
+  },
+  {
+    "file": "paired-11-real.npz",
+    "semanticLoss": 0.17809629440307617,
+    "centreLoss": 0.25278952717781067,
+    "loss": 0.8233754634857178,
+    "foregroundDice": 0.9626842065623981,
+    "coreCount": 2683,
+    "semanticCovered": 2646,
+    "affinityNegativePairs": 388712,
+    "affinityFalsePositivePairs": 22745,
+    "backgroundCount": 1256967,
+    "backgroundFP": 3403,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35816,
+        "near": 26783,
+        "covered": 2665,
+        "backgroundFP": 607
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13676,
+        "near": 12998,
+        "covered": 2622,
+        "backgroundFP": 84
+      },
+      {
+        "threshold": 0.9,
+        "positive": 607,
+        "near": 604,
+        "covered": 777,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "paired-11-mild.npz",
+    "semanticLoss": 0.20248538255691528,
+    "centreLoss": 0.2515813410282135,
+    "loss": 0.827562153339386,
+    "foregroundDice": 0.9663747944370025,
+    "coreCount": 2825,
+    "semanticCovered": 2794,
+    "affinityNegativePairs": 299107,
+    "affinityFalsePositivePairs": 11642,
+    "backgroundCount": 1228095,
+    "backgroundFP": 2393,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 36087,
+        "near": 27524,
+        "covered": 2809,
+        "backgroundFP": 570
+      },
+      {
+        "threshold": 0.75,
+        "positive": 14034,
+        "near": 13352,
+        "covered": 2769,
+        "backgroundFP": 91
+      },
+      {
+        "threshold": 0.9,
+        "positive": 612,
+        "near": 610,
+        "covered": 753,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-11-moderate.npz",
+    "semanticLoss": 0.2809423804283142,
+    "centreLoss": 0.24910549819469452,
+    "loss": 0.928652822971344,
+    "foregroundDice": 0.9521045080602689,
+    "coreCount": 2957,
+    "semanticCovered": 2887,
+    "affinityNegativePairs": 268513,
+    "affinityFalsePositivePairs": 10822,
+    "backgroundCount": 1217002,
+    "backgroundFP": 3379,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35176,
+        "near": 27072,
+        "covered": 2920,
+        "backgroundFP": 581
+      },
+      {
+        "threshold": 0.75,
+        "positive": 14268,
+        "near": 13545,
+        "covered": 2841,
+        "backgroundFP": 58
+      },
+      {
+        "threshold": 0.9,
+        "positive": 815,
+        "near": 809,
+        "covered": 918,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-11-hard.npz",
+    "semanticLoss": 0.5697328448295593,
+    "centreLoss": 0.2567622661590576,
+    "loss": 1.3794713020324707,
+    "foregroundDice": 0.8632534537038368,
+    "coreCount": 3515,
+    "semanticCovered": 3349,
+    "affinityNegativePairs": 247264,
+    "affinityFalsePositivePairs": 13780,
+    "backgroundCount": 1215289,
+    "backgroundFP": 12099,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 38147,
+        "near": 26198,
+        "covered": 3407,
+        "backgroundFP": 4676
+      },
+      {
+        "threshold": 0.75,
+        "positive": 17841,
+        "near": 15174,
+        "covered": 3228,
+        "backgroundFP": 1302
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3491,
+        "near": 3245,
+        "covered": 1944,
+        "backgroundFP": 191
+      }
+    ]
+  },
+  {
+    "file": "paired-12-real.npz",
+    "semanticLoss": 1.0049420595169067,
+    "centreLoss": 0.0063505652360618114,
+    "loss": 1.3764623403549194,
+    "foregroundDice": 0.00039231071008238524,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 0,
+    "affinityFalsePositivePairs": 0,
+    "backgroundCount": 1387362,
+    "backgroundFP": 2548,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3434,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 3434
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1283,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1283
+      },
+      {
+        "threshold": 0.9,
+        "positive": 319,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 319
+      }
+    ]
+  },
+  {
+    "file": "paired-12-mild.npz",
+    "semanticLoss": 1.00648033618927,
+    "centreLoss": 0.006228563375771046,
+    "loss": 1.380028247833252,
+    "foregroundDice": 0.00031665611146295124,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 0,
+    "affinityFalsePositivePairs": 0,
+    "backgroundCount": 1383886,
+    "backgroundFP": 3157,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3539,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 3539
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1323,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1323
+      },
+      {
+        "threshold": 0.9,
+        "positive": 351,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 351
+      }
+    ]
+  },
+  {
+    "file": "paired-12-moderate.npz",
+    "semanticLoss": 1.475287914276123,
+    "centreLoss": 0.4116514027118683,
+    "loss": 2.94248104095459,
+    "foregroundDice": 0.00025713551041398817,
+    "coreCount": 0,
+    "semanticCovered": 0,
+    "affinityNegativePairs": 2577,
+    "affinityFalsePositivePairs": 259,
+    "backgroundCount": 1375656,
+    "backgroundFP": 3888,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 4359,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 4359
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1402,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 1402
+      },
+      {
+        "threshold": 0.9,
+        "positive": 276,
+        "near": 0,
+        "covered": 0,
+        "backgroundFP": 276
+      }
+    ]
+  },
+  {
+    "file": "paired-12-hard.npz",
+    "semanticLoss": 1.5894100666046143,
+    "centreLoss": 0.3039400279521942,
+    "loss": 2.781312942504883,
+    "foregroundDice": 0.3556836902800659,
+    "coreCount": 117,
+    "semanticCovered": 109,
+    "affinityNegativePairs": 8291,
+    "affinityFalsePositivePairs": 497,
+    "backgroundCount": 1351442,
+    "backgroundFP": 3064,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 5146,
+        "near": 854,
+        "covered": 113,
+        "backgroundFP": 4055
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1763,
+        "near": 565,
+        "covered": 110,
+        "backgroundFP": 1110
+      },
+      {
+        "threshold": 0.9,
+        "positive": 334,
+        "near": 168,
+        "covered": 66,
+        "backgroundFP": 158
+      }
+    ]
+  },
+  {
+    "file": "paired-13-real.npz",
+    "semanticLoss": 1.0656989812850952,
+    "centreLoss": 0.3042345643043518,
+    "loss": 2.142716407775879,
+    "foregroundDice": 0.8232153306026916,
+    "coreCount": 1273,
+    "semanticCovered": 1129,
+    "affinityNegativePairs": 220331,
+    "affinityFalsePositivePairs": 14892,
+    "backgroundCount": 1274338,
+    "backgroundFP": 1594,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14289,
+        "near": 10134,
+        "covered": 1246,
+        "backgroundFP": 1613
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5449,
+        "near": 4863,
+        "covered": 1130,
+        "backgroundFP": 237
+      },
+      {
+        "threshold": 0.9,
+        "positive": 687,
+        "near": 676,
+        "covered": 539,
+        "backgroundFP": 9
+      }
+    ]
+  },
+  {
+    "file": "paired-13-mild.npz",
+    "semanticLoss": 1.021519422531128,
+    "centreLoss": 0.3002346456050873,
+    "loss": 2.0622305870056152,
+    "foregroundDice": 0.8239768413901074,
+    "coreCount": 1288,
+    "semanticCovered": 1139,
+    "affinityNegativePairs": 212462,
+    "affinityFalsePositivePairs": 13695,
+    "backgroundCount": 1267228,
+    "backgroundFP": 1635,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14231,
+        "near": 10018,
+        "covered": 1267,
+        "backgroundFP": 1749
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5235,
+        "near": 4672,
+        "covered": 1150,
+        "backgroundFP": 251
+      },
+      {
+        "threshold": 0.9,
+        "positive": 591,
+        "near": 582,
+        "covered": 504,
+        "backgroundFP": 6
+      }
+    ]
+  },
+  {
+    "file": "paired-13-moderate.npz",
+    "semanticLoss": 0.9539278149604797,
+    "centreLoss": 0.29173964262008667,
+    "loss": 1.960842251777649,
+    "foregroundDice": 0.8279457222193116,
+    "coreCount": 1447,
+    "semanticCovered": 1236,
+    "affinityNegativePairs": 161892,
+    "affinityFalsePositivePairs": 7870,
+    "backgroundCount": 1244562,
+    "backgroundFP": 987,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14208,
+        "near": 10545,
+        "covered": 1398,
+        "backgroundFP": 1306
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5508,
+        "near": 5104,
+        "covered": 1253,
+        "backgroundFP": 76
+      },
+      {
+        "threshold": 0.9,
+        "positive": 632,
+        "near": 628,
+        "covered": 604,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "paired-13-hard.npz",
+    "semanticLoss": 1.6735937595367432,
+    "centreLoss": 0.3517814874649048,
+    "loss": 3.185778856277466,
+    "foregroundDice": 0.6540005489604063,
+    "coreCount": 2188,
+    "semanticCovered": 1436,
+    "affinityNegativePairs": 182290,
+    "affinityFalsePositivePairs": 8712,
+    "backgroundCount": 1225621,
+    "backgroundFP": 5963,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20377,
+        "near": 10764,
+        "covered": 1818,
+        "backgroundFP": 6652
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7737,
+        "near": 5741,
+        "covered": 1529,
+        "backgroundFP": 1209
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1193,
+        "near": 1107,
+        "covered": 869,
+        "backgroundFP": 52
+      }
+    ]
+  },
+  {
+    "file": "paired-14-real.npz",
+    "semanticLoss": 0.3049377501010895,
+    "centreLoss": 0.24927936494350433,
+    "loss": 0.9492076635360718,
+    "foregroundDice": 0.8955150056814384,
+    "coreCount": 960,
+    "semanticCovered": 960,
+    "affinityNegativePairs": 121609,
+    "affinityFalsePositivePairs": 7471,
+    "backgroundCount": 1280030,
+    "backgroundFP": 6535,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14228,
+        "near": 9702,
+        "covered": 960,
+        "backgroundFP": 1187
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5573,
+        "near": 5100,
+        "covered": 952,
+        "backgroundFP": 123
+      },
+      {
+        "threshold": 0.9,
+        "positive": 712,
+        "near": 709,
+        "covered": 537,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-14-mild.npz",
+    "semanticLoss": 0.28937071561813354,
+    "centreLoss": 0.24947120249271393,
+    "loss": 0.9292570948600769,
+    "foregroundDice": 0.9003823339237019,
+    "coreCount": 957,
+    "semanticCovered": 957,
+    "affinityNegativePairs": 107281,
+    "affinityFalsePositivePairs": 5951,
+    "backgroundCount": 1273034,
+    "backgroundFP": 6058,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14038,
+        "near": 9614,
+        "covered": 957,
+        "backgroundFP": 1153
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5416,
+        "near": 4974,
+        "covered": 947,
+        "backgroundFP": 106
+      },
+      {
+        "threshold": 0.9,
+        "positive": 614,
+        "near": 611,
+        "covered": 462,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-14-moderate.npz",
+    "semanticLoss": 0.28765279054641724,
+    "centreLoss": 0.23562896251678467,
+    "loss": 0.9003744125366211,
+    "foregroundDice": 0.8903747989651073,
+    "coreCount": 997,
+    "semanticCovered": 997,
+    "affinityNegativePairs": 75268,
+    "affinityFalsePositivePairs": 3343,
+    "backgroundCount": 1253316,
+    "backgroundFP": 5695,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 13552,
+        "near": 9478,
+        "covered": 997,
+        "backgroundFP": 1383
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5415,
+        "near": 4956,
+        "covered": 983,
+        "backgroundFP": 220
+      },
+      {
+        "threshold": 0.9,
+        "positive": 600,
+        "near": 599,
+        "covered": 491,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "paired-14-hard.npz",
+    "semanticLoss": 0.4821803867816925,
+    "centreLoss": 0.2163887321949005,
+    "loss": 1.1747219562530518,
+    "foregroundDice": 0.7548132908935642,
+    "coreCount": 1091,
+    "semanticCovered": 1091,
+    "affinityNegativePairs": 68730,
+    "affinityFalsePositivePairs": 5035,
+    "backgroundCount": 1255520,
+    "backgroundFP": 12112,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 15675,
+        "near": 9173,
+        "covered": 1091,
+        "backgroundFP": 4269
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6771,
+        "near": 5473,
+        "covered": 1069,
+        "backgroundFP": 958
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1270,
+        "near": 1201,
+        "covered": 730,
+        "backgroundFP": 64
+      }
+    ]
+  },
+  {
+    "file": "paired-15-real.npz",
+    "semanticLoss": 0.4394252300262451,
+    "centreLoss": 0.28744974732398987,
+    "loss": 1.245187520980835,
+    "foregroundDice": 0.9038732817095864,
+    "coreCount": 1844,
+    "semanticCovered": 1772,
+    "affinityNegativePairs": 294528,
+    "affinityFalsePositivePairs": 18882,
+    "backgroundCount": 1267052,
+    "backgroundFP": 5438,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 23957,
+        "near": 16458,
+        "covered": 1789,
+        "backgroundFP": 2409
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8065,
+        "near": 7359,
+        "covered": 1713,
+        "backgroundFP": 221
+      },
+      {
+        "threshold": 0.9,
+        "positive": 501,
+        "near": 489,
+        "covered": 536,
+        "backgroundFP": 11
+      }
+    ]
+  },
+  {
+    "file": "paired-15-mild.npz",
+    "semanticLoss": 0.4453481137752533,
+    "centreLoss": 0.28649166226387024,
+    "loss": 1.2580599784851074,
+    "foregroundDice": 0.9054535972574794,
+    "coreCount": 1838,
+    "semanticCovered": 1763,
+    "affinityNegativePairs": 277576,
+    "affinityFalsePositivePairs": 17110,
+    "backgroundCount": 1262135,
+    "backgroundFP": 5022,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 23683,
+        "near": 16427,
+        "covered": 1781,
+        "backgroundFP": 2299
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7916,
+        "near": 7212,
+        "covered": 1686,
+        "backgroundFP": 222
+      },
+      {
+        "threshold": 0.9,
+        "positive": 405,
+        "near": 402,
+        "covered": 485,
+        "backgroundFP": 3
+      }
+    ]
+  },
+  {
+    "file": "paired-15-moderate.npz",
+    "semanticLoss": 0.4992578625679016,
+    "centreLoss": 0.2774934768676758,
+    "loss": 1.378769874572754,
+    "foregroundDice": 0.8940976312001047,
+    "coreCount": 2198,
+    "semanticCovered": 2072,
+    "affinityNegativePairs": 202945,
+    "affinityFalsePositivePairs": 9942,
+    "backgroundCount": 1241163,
+    "backgroundFP": 5526,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25086,
+        "near": 18189,
+        "covered": 2092,
+        "backgroundFP": 2057
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9259,
+        "near": 8494,
+        "covered": 2029,
+        "backgroundFP": 166
+      },
+      {
+        "threshold": 0.9,
+        "positive": 543,
+        "near": 542,
+        "covered": 646,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "paired-15-hard.npz",
+    "semanticLoss": 1.0990384817123413,
+    "centreLoss": 0.30309295654296875,
+    "loss": 2.431708812713623,
+    "foregroundDice": 0.7214119592743811,
+    "coreCount": 2780,
+    "semanticCovered": 2305,
+    "affinityNegativePairs": 217865,
+    "affinityFalsePositivePairs": 15117,
+    "backgroundCount": 1239224,
+    "backgroundFP": 13486,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25079,
+        "near": 16999,
+        "covered": 2486,
+        "backgroundFP": 4248
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10208,
+        "near": 8667,
+        "covered": 2254,
+        "backgroundFP": 752
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1197,
+        "near": 1150,
+        "covered": 982,
+        "backgroundFP": 25
+      }
+    ]
+  },
+  {
+    "file": "legacy-000.npz",
+    "semanticLoss": 0.5549733638763428,
+    "centreLoss": 0.2662177085876465,
+    "loss": 1.2991598844528198,
+    "foregroundDice": 0.8338324652777778,
+    "coreCount": 530,
+    "semanticCovered": 507,
+    "affinityNegativePairs": 95252,
+    "affinityFalsePositivePairs": 8815,
+    "backgroundCount": 1263958,
+    "backgroundFP": 5534,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 9320,
+        "near": 6281,
+        "covered": 506,
+        "backgroundFP": 1244
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3400,
+        "near": 3055,
+        "covered": 494,
+        "backgroundFP": 175
+      },
+      {
+        "threshold": 0.9,
+        "positive": 219,
+        "near": 218,
+        "covered": 189,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-001.npz",
+    "semanticLoss": 0.39150673151016235,
+    "centreLoss": 0.23691816627979279,
+    "loss": 1.0748451948165894,
+    "foregroundDice": 0.813741519839914,
+    "coreCount": 1159,
+    "semanticCovered": 1148,
+    "affinityNegativePairs": 158130,
+    "affinityFalsePositivePairs": 15385,
+    "backgroundCount": 1262924,
+    "backgroundFP": 13905,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17382,
+        "near": 12475,
+        "covered": 1153,
+        "backgroundFP": 2129
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7005,
+        "near": 6465,
+        "covered": 1128,
+        "backgroundFP": 262
+      },
+      {
+        "threshold": 0.9,
+        "positive": 746,
+        "near": 737,
+        "covered": 590,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "legacy-002.npz",
+    "semanticLoss": 0.6130733489990234,
+    "centreLoss": 0.2718372941017151,
+    "loss": 1.4844486713409424,
+    "foregroundDice": 0.877022482323968,
+    "coreCount": 418,
+    "semanticCovered": 418,
+    "affinityNegativePairs": 81853,
+    "affinityFalsePositivePairs": 6352,
+    "backgroundCount": 1299282,
+    "backgroundFP": 2768,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 10085,
+        "near": 5322,
+        "covered": 418,
+        "backgroundFP": 2781
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4076,
+        "near": 3183,
+        "covered": 412,
+        "backgroundFP": 547
+      },
+      {
+        "threshold": 0.9,
+        "positive": 980,
+        "near": 933,
+        "covered": 284,
+        "backgroundFP": 31
+      }
+    ]
+  },
+  {
+    "file": "legacy-003.npz",
+    "semanticLoss": 2.5518696308135986,
+    "centreLoss": 0.3488648533821106,
+    "loss": 4.326563358306885,
+    "foregroundDice": 0.3014191542646593,
+    "coreCount": 1214,
+    "semanticCovered": 741,
+    "affinityNegativePairs": 29324,
+    "affinityFalsePositivePairs": 724,
+    "backgroundCount": 1039260,
+    "backgroundFP": 20325,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 36192,
+        "near": 4029,
+        "covered": 1046,
+        "backgroundFP": 31006
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10971,
+        "near": 2505,
+        "covered": 843,
+        "backgroundFP": 7934
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2151,
+        "near": 1114,
+        "covered": 510,
+        "backgroundFP": 917
+      }
+    ]
+  },
+  {
+    "file": "legacy-004.npz",
+    "semanticLoss": 0.4518348276615143,
+    "centreLoss": 0.25327786803245544,
+    "loss": 1.1929595470428467,
+    "foregroundDice": 0.829024735157665,
+    "coreCount": 1074,
+    "semanticCovered": 1034,
+    "affinityNegativePairs": 156106,
+    "affinityFalsePositivePairs": 14786,
+    "backgroundCount": 1266056,
+    "backgroundFP": 10975,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17098,
+        "near": 11452,
+        "covered": 1055,
+        "backgroundFP": 2517
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6694,
+        "near": 5724,
+        "covered": 1013,
+        "backgroundFP": 568
+      },
+      {
+        "threshold": 0.9,
+        "positive": 495,
+        "near": 475,
+        "covered": 430,
+        "backgroundFP": 19
+      }
+    ]
+  },
+  {
+    "file": "legacy-005.npz",
+    "semanticLoss": 2.5755650997161865,
+    "centreLoss": 0.4531911313533783,
+    "loss": 5.036050796508789,
+    "foregroundDice": 0.024663540588271117,
+    "coreCount": 385,
+    "semanticCovered": 124,
+    "affinityNegativePairs": 7349,
+    "affinityFalsePositivePairs": 1258,
+    "backgroundCount": 887826,
+    "backgroundFP": 46871,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 48920,
+        "near": 388,
+        "covered": 226,
+        "backgroundFP": 48344
+      },
+      {
+        "threshold": 0.75,
+        "positive": 12399,
+        "near": 150,
+        "covered": 127,
+        "backgroundFP": 12173
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1468,
+        "near": 43,
+        "covered": 48,
+        "backgroundFP": 1409
+      }
+    ]
+  },
+  {
+    "file": "legacy-006.npz",
+    "semanticLoss": 0.45828551054000854,
+    "centreLoss": 0.2697918713092804,
+    "loss": 1.2582019567489624,
+    "foregroundDice": 0.8394718438842452,
+    "coreCount": 726,
+    "semanticCovered": 715,
+    "affinityNegativePairs": 152562,
+    "affinityFalsePositivePairs": 13515,
+    "backgroundCount": 1264503,
+    "backgroundFP": 7980,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 13059,
+        "near": 8501,
+        "covered": 726,
+        "backgroundFP": 1608
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4667,
+        "near": 4216,
+        "covered": 704,
+        "backgroundFP": 162
+      },
+      {
+        "threshold": 0.9,
+        "positive": 255,
+        "near": 252,
+        "covered": 242,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-007.npz",
+    "semanticLoss": 1.6526250839233398,
+    "centreLoss": 0.36506187915802,
+    "loss": 3.010376453399658,
+    "foregroundDice": 0.3526511742083299,
+    "coreCount": 2059,
+    "semanticCovered": 1329,
+    "affinityNegativePairs": 45782,
+    "affinityFalsePositivePairs": 1025,
+    "backgroundCount": 1015047,
+    "backgroundFP": 26186,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 39559,
+        "near": 6122,
+        "covered": 1679,
+        "backgroundFP": 31742
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13177,
+        "near": 4044,
+        "covered": 1354,
+        "backgroundFP": 8335
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3147,
+        "near": 1851,
+        "covered": 906,
+        "backgroundFP": 1080
+      }
+    ]
+  },
+  {
+    "file": "legacy-008.npz",
+    "semanticLoss": 0.6026952266693115,
+    "centreLoss": 0.29549935460090637,
+    "loss": 1.426432728767395,
+    "foregroundDice": 0.8604574895466098,
+    "coreCount": 403,
+    "semanticCovered": 372,
+    "affinityNegativePairs": 59540,
+    "affinityFalsePositivePairs": 2579,
+    "backgroundCount": 1264998,
+    "backgroundFP": 2100,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 9445,
+        "near": 4713,
+        "covered": 387,
+        "backgroundFP": 2653
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3718,
+        "near": 2874,
+        "covered": 383,
+        "backgroundFP": 369
+      },
+      {
+        "threshold": 0.9,
+        "positive": 692,
+        "near": 650,
+        "covered": 268,
+        "backgroundFP": 21
+      }
+    ]
+  },
+  {
+    "file": "legacy-009.npz",
+    "semanticLoss": 1.8510150909423828,
+    "centreLoss": 0.3673100471496582,
+    "loss": 3.5863702297210693,
+    "foregroundDice": 0.7918000711490573,
+    "coreCount": 144,
+    "semanticCovered": 144,
+    "affinityNegativePairs": 19816,
+    "affinityFalsePositivePairs": 1767,
+    "backgroundCount": 1124762,
+    "backgroundFP": 1517,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 2785,
+        "near": 1586,
+        "covered": 144,
+        "backgroundFP": 421
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1063,
+        "near": 860,
+        "covered": 144,
+        "backgroundFP": 58
+      },
+      {
+        "threshold": 0.9,
+        "positive": 109,
+        "near": 106,
+        "covered": 48,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-010.npz",
+    "semanticLoss": 0.7347416281700134,
+    "centreLoss": 0.2462427318096161,
+    "loss": 1.450197458267212,
+    "foregroundDice": 0.7549775784753363,
+    "coreCount": 73,
+    "semanticCovered": 73,
+    "affinityNegativePairs": 6073,
+    "affinityFalsePositivePairs": 599,
+    "backgroundCount": 1073145,
+    "backgroundFP": 1217,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 1377,
+        "near": 811,
+        "covered": 73,
+        "backgroundFP": 347
+      },
+      {
+        "threshold": 0.75,
+        "positive": 498,
+        "near": 432,
+        "covered": 73,
+        "backgroundFP": 35
+      },
+      {
+        "threshold": 0.9,
+        "positive": 85,
+        "near": 83,
+        "covered": 45,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-011.npz",
+    "semanticLoss": 2.7904701232910156,
+    "centreLoss": 0.4702758193016052,
+    "loss": 4.888955593109131,
+    "foregroundDice": 0.11176277132207849,
+    "coreCount": 720,
+    "semanticCovered": 179,
+    "affinityNegativePairs": 16139,
+    "affinityFalsePositivePairs": 748,
+    "backgroundCount": 945685,
+    "backgroundFP": 12630,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 21620,
+        "near": 913,
+        "covered": 452,
+        "backgroundFP": 20344
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5071,
+        "near": 442,
+        "covered": 260,
+        "backgroundFP": 4504
+      },
+      {
+        "threshold": 0.9,
+        "positive": 690,
+        "near": 139,
+        "covered": 112,
+        "backgroundFP": 524
+      }
+    ]
+  },
+  {
+    "file": "legacy-012.npz",
+    "semanticLoss": 0.8748039603233337,
+    "centreLoss": 0.24592992663383484,
+    "loss": 1.6796815395355225,
+    "foregroundDice": 0.6249125262421273,
+    "coreCount": 115,
+    "semanticCovered": 115,
+    "affinityNegativePairs": 13243,
+    "affinityFalsePositivePairs": 1239,
+    "backgroundCount": 1284982,
+    "backgroundFP": 3449,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 2296,
+        "near": 1163,
+        "covered": 115,
+        "backgroundFP": 815
+      },
+      {
+        "threshold": 0.75,
+        "positive": 466,
+        "near": 385,
+        "covered": 95,
+        "backgroundFP": 55
+      },
+      {
+        "threshold": 0.9,
+        "positive": 10,
+        "near": 10,
+        "covered": 17,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-013.npz",
+    "semanticLoss": 1.9722341299057007,
+    "centreLoss": 0.37989652156829834,
+    "loss": 3.6221189498901367,
+    "foregroundDice": 0.31317561466422433,
+    "coreCount": 1692,
+    "semanticCovered": 888,
+    "affinityNegativePairs": 43134,
+    "affinityFalsePositivePairs": 1207,
+    "backgroundCount": 899475,
+    "backgroundFP": 20336,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 30252,
+        "near": 4145,
+        "covered": 1251,
+        "backgroundFP": 24508
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10488,
+        "near": 2686,
+        "covered": 962,
+        "backgroundFP": 6979
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2312,
+        "near": 1027,
+        "covered": 607,
+        "backgroundFP": 1074
+      }
+    ]
+  },
+  {
+    "file": "legacy-014.npz",
+    "semanticLoss": 0.411454975605011,
+    "centreLoss": 0.2814500331878662,
+    "loss": 1.1711909770965576,
+    "foregroundDice": 0.8842262639165082,
+    "coreCount": 818,
+    "semanticCovered": 809,
+    "affinityNegativePairs": 121742,
+    "affinityFalsePositivePairs": 8486,
+    "backgroundCount": 1238548,
+    "backgroundFP": 5691,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14007,
+        "near": 9189,
+        "covered": 813,
+        "backgroundFP": 1627
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5537,
+        "near": 4656,
+        "covered": 776,
+        "backgroundFP": 413
+      },
+      {
+        "threshold": 0.9,
+        "positive": 738,
+        "near": 701,
+        "covered": 386,
+        "backgroundFP": 37
+      }
+    ]
+  },
+  {
+    "file": "legacy-015.npz",
+    "semanticLoss": 1.4385637044906616,
+    "centreLoss": 0.3288215398788452,
+    "loss": 2.6021876335144043,
+    "foregroundDice": 0.5392168055714123,
+    "coreCount": 2102,
+    "semanticCovered": 1460,
+    "affinityNegativePairs": 60321,
+    "affinityFalsePositivePairs": 1329,
+    "backgroundCount": 1027198,
+    "backgroundFP": 12971,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 30124,
+        "near": 7611,
+        "covered": 1758,
+        "backgroundFP": 19475
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11870,
+        "near": 5239,
+        "covered": 1509,
+        "backgroundFP": 5084
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3863,
+        "near": 2516,
+        "covered": 1102,
+        "backgroundFP": 914
+      }
+    ]
+  },
+  {
+    "file": "legacy-016.npz",
+    "semanticLoss": 0.5854752063751221,
+    "centreLoss": 0.25560662150382996,
+    "loss": 1.4444637298583984,
+    "foregroundDice": 0.8332483101645198,
+    "coreCount": 201,
+    "semanticCovered": 196,
+    "affinityNegativePairs": 29795,
+    "affinityFalsePositivePairs": 2563,
+    "backgroundCount": 1256936,
+    "backgroundFP": 1513,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 4666,
+        "near": 2477,
+        "covered": 197,
+        "backgroundFP": 1326
+      },
+      {
+        "threshold": 0.75,
+        "positive": 1905,
+        "near": 1555,
+        "covered": 178,
+        "backgroundFP": 159
+      },
+      {
+        "threshold": 0.9,
+        "positive": 514,
+        "near": 489,
+        "covered": 152,
+        "backgroundFP": 11
+      }
+    ]
+  },
+  {
+    "file": "legacy-017.npz",
+    "semanticLoss": 0.49163538217544556,
+    "centreLoss": 0.25089791417121887,
+    "loss": 1.177717685699463,
+    "foregroundDice": 0.8361373273150048,
+    "coreCount": 462,
+    "semanticCovered": 438,
+    "affinityNegativePairs": 62911,
+    "affinityFalsePositivePairs": 4531,
+    "backgroundCount": 1249064,
+    "backgroundFP": 4228,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 7905,
+        "near": 5117,
+        "covered": 453,
+        "backgroundFP": 1188
+      },
+      {
+        "threshold": 0.75,
+        "positive": 2899,
+        "near": 2512,
+        "covered": 432,
+        "backgroundFP": 208
+      },
+      {
+        "threshold": 0.9,
+        "positive": 233,
+        "near": 228,
+        "covered": 157,
+        "backgroundFP": 5
+      }
+    ]
+  },
+  {
+    "file": "legacy-018.npz",
+    "semanticLoss": 0.4135703146457672,
+    "centreLoss": 0.2339540421962738,
+    "loss": 1.152761697769165,
+    "foregroundDice": 0.8592153747710775,
+    "coreCount": 1298,
+    "semanticCovered": 1272,
+    "affinityNegativePairs": 190084,
+    "affinityFalsePositivePairs": 19945,
+    "backgroundCount": 1256829,
+    "backgroundFP": 11234,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 18750,
+        "near": 14236,
+        "covered": 1286,
+        "backgroundFP": 1518
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7821,
+        "near": 7208,
+        "covered": 1256,
+        "backgroundFP": 300
+      },
+      {
+        "threshold": 0.9,
+        "positive": 622,
+        "near": 572,
+        "covered": 512,
+        "backgroundFP": 47
+      }
+    ]
+  },
+  {
+    "file": "legacy-019.npz",
+    "semanticLoss": 2.6669018268585205,
+    "centreLoss": 0.4581524431705475,
+    "loss": 5.259118556976318,
+    "foregroundDice": 0.039344086788951536,
+    "coreCount": 619,
+    "semanticCovered": 200,
+    "affinityNegativePairs": 12728,
+    "affinityFalsePositivePairs": 1959,
+    "backgroundCount": 866177,
+    "backgroundFP": 51259,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 48806,
+        "near": 621,
+        "covered": 370,
+        "backgroundFP": 47873
+      },
+      {
+        "threshold": 0.75,
+        "positive": 12140,
+        "near": 261,
+        "covered": 202,
+        "backgroundFP": 11781
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1747,
+        "near": 79,
+        "covered": 65,
+        "backgroundFP": 1658
+      }
+    ]
+  },
+  {
+    "file": "legacy-020.npz",
+    "semanticLoss": 0.5275074243545532,
+    "centreLoss": 0.2637443244457245,
+    "loss": 1.3168689012527466,
+    "foregroundDice": 0.7747586700035752,
+    "coreCount": 636,
+    "semanticCovered": 636,
+    "affinityNegativePairs": 113795,
+    "affinityFalsePositivePairs": 11801,
+    "backgroundCount": 1274762,
+    "backgroundFP": 9644,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 10715,
+        "near": 6675,
+        "covered": 636,
+        "backgroundFP": 2387
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3955,
+        "near": 3267,
+        "covered": 623,
+        "backgroundFP": 440
+      },
+      {
+        "threshold": 0.9,
+        "positive": 350,
+        "near": 330,
+        "covered": 255,
+        "backgroundFP": 15
+      }
+    ]
+  },
+  {
+    "file": "legacy-021.npz",
+    "semanticLoss": 2.2228684425354004,
+    "centreLoss": 0.41988903284072876,
+    "loss": 3.7851572036743164,
+    "foregroundDice": 0.13143939393939394,
+    "coreCount": 1505,
+    "semanticCovered": 644,
+    "affinityNegativePairs": 29897,
+    "affinityFalsePositivePairs": 1652,
+    "backgroundCount": 982139,
+    "backgroundFP": 38919,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 49384,
+        "near": 2448,
+        "covered": 1057,
+        "backgroundFP": 46101
+      },
+      {
+        "threshold": 0.75,
+        "positive": 12477,
+        "near": 1211,
+        "covered": 682,
+        "backgroundFP": 10950
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2049,
+        "near": 376,
+        "covered": 293,
+        "backgroundFP": 1613
+      }
+    ]
+  },
+  {
+    "file": "legacy-022.npz",
+    "semanticLoss": 0.8285152912139893,
+    "centreLoss": 0.28189221024513245,
+    "loss": 1.6977758407592773,
+    "foregroundDice": 0.8316666666666667,
+    "coreCount": 112,
+    "semanticCovered": 112,
+    "affinityNegativePairs": 15529,
+    "affinityFalsePositivePairs": 843,
+    "backgroundCount": 1180153,
+    "backgroundFP": 1464,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3683,
+        "near": 1342,
+        "covered": 112,
+        "backgroundFP": 1743
+      },
+      {
+        "threshold": 0.75,
+        "positive": 937,
+        "near": 721,
+        "covered": 112,
+        "backgroundFP": 132
+      },
+      {
+        "threshold": 0.9,
+        "positive": 90,
+        "near": 82,
+        "covered": 52,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "legacy-023.npz",
+    "semanticLoss": 2.0808095932006836,
+    "centreLoss": 0.4044242799282074,
+    "loss": 3.8207101821899414,
+    "foregroundDice": 0.17479572278825783,
+    "coreCount": 995,
+    "semanticCovered": 463,
+    "affinityNegativePairs": 26634,
+    "affinityFalsePositivePairs": 664,
+    "backgroundCount": 913243,
+    "backgroundFP": 28843,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 39789,
+        "near": 2333,
+        "covered": 688,
+        "backgroundFP": 36521
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11616,
+        "near": 1436,
+        "covered": 501,
+        "backgroundFP": 9691
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2188,
+        "near": 580,
+        "covered": 281,
+        "backgroundFP": 1449
+      }
+    ]
+  },
+  {
+    "file": "legacy-024.npz",
+    "semanticLoss": 0.29647499322891235,
+    "centreLoss": 0.2434644103050232,
+    "loss": 0.9372850656509399,
+    "foregroundDice": 0.8763239968513038,
+    "coreCount": 1301,
+    "semanticCovered": 1291,
+    "affinityNegativePairs": 198445,
+    "affinityFalsePositivePairs": 19740,
+    "backgroundCount": 1271674,
+    "backgroundFP": 11216,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20371,
+        "near": 14457,
+        "covered": 1291,
+        "backgroundFP": 1992
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7691,
+        "near": 7102,
+        "covered": 1261,
+        "backgroundFP": 254
+      },
+      {
+        "threshold": 0.9,
+        "positive": 467,
+        "near": 460,
+        "covered": 450,
+        "backgroundFP": 7
+      }
+    ]
+  },
+  {
+    "file": "legacy-025.npz",
+    "semanticLoss": 2.9043760299682617,
+    "centreLoss": 0.45065414905548096,
+    "loss": 5.2100019454956055,
+    "foregroundDice": 0.07163987138263665,
+    "coreCount": 646,
+    "semanticCovered": 173,
+    "affinityNegativePairs": 12674,
+    "affinityFalsePositivePairs": 1467,
+    "backgroundCount": 1022839,
+    "backgroundFP": 18925,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 31450,
+        "near": 732,
+        "covered": 382,
+        "backgroundFP": 30405
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7981,
+        "near": 311,
+        "covered": 220,
+        "backgroundFP": 7540
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1220,
+        "near": 80,
+        "covered": 85,
+        "backgroundFP": 1104
+      }
+    ]
+  },
+  {
+    "file": "legacy-026.npz",
+    "semanticLoss": 0.37604206800460815,
+    "centreLoss": 0.22337892651557922,
+    "loss": 1.0189086198806763,
+    "foregroundDice": 0.8478233411923206,
+    "coreCount": 622,
+    "semanticCovered": 619,
+    "affinityNegativePairs": 89575,
+    "affinityFalsePositivePairs": 7591,
+    "backgroundCount": 1284473,
+    "backgroundFP": 6793,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 10436,
+        "near": 7087,
+        "covered": 622,
+        "backgroundFP": 2032
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4624,
+        "near": 4125,
+        "covered": 612,
+        "backgroundFP": 357
+      },
+      {
+        "threshold": 0.9,
+        "positive": 947,
+        "near": 908,
+        "covered": 507,
+        "backgroundFP": 39
+      }
+    ]
+  },
+  {
+    "file": "legacy-027.npz",
+    "semanticLoss": 1.72404146194458,
+    "centreLoss": 0.37833452224731445,
+    "loss": 3.31276798248291,
+    "foregroundDice": 0.23393082201372356,
+    "coreCount": 1236,
+    "semanticCovered": 722,
+    "affinityNegativePairs": 30373,
+    "affinityFalsePositivePairs": 811,
+    "backgroundCount": 971456,
+    "backgroundFP": 29183,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 38548,
+        "near": 3433,
+        "covered": 968,
+        "backgroundFP": 33681
+      },
+      {
+        "threshold": 0.75,
+        "positive": 12014,
+        "near": 2303,
+        "covered": 796,
+        "backgroundFP": 8948
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2734,
+        "near": 1116,
+        "covered": 509,
+        "backgroundFP": 1352
+      }
+    ]
+  },
+  {
+    "file": "legacy-028.npz",
+    "semanticLoss": 1.0829699039459229,
+    "centreLoss": 0.2778158485889435,
+    "loss": 2.01274037361145,
+    "foregroundDice": 0.6802764262040759,
+    "coreCount": 163,
+    "semanticCovered": 154,
+    "affinityNegativePairs": 21609,
+    "affinityFalsePositivePairs": 1255,
+    "backgroundCount": 1285306,
+    "backgroundFP": 2268,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 3675,
+        "near": 1545,
+        "covered": 157,
+        "backgroundFP": 1516
+      },
+      {
+        "threshold": 0.75,
+        "positive": 810,
+        "near": 565,
+        "covered": 119,
+        "backgroundFP": 152
+      },
+      {
+        "threshold": 0.9,
+        "positive": 25,
+        "near": 22,
+        "covered": 36,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "legacy-029.npz",
+    "semanticLoss": 2.4461629390716553,
+    "centreLoss": 0.47947564721107483,
+    "loss": 4.416356563568115,
+    "foregroundDice": 0.06681774601237689,
+    "coreCount": 960,
+    "semanticCovered": 356,
+    "affinityNegativePairs": 18160,
+    "affinityFalsePositivePairs": 1605,
+    "backgroundCount": 927220,
+    "backgroundFP": 50077,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 55371,
+        "near": 1223,
+        "covered": 648,
+        "backgroundFP": 53563
+      },
+      {
+        "threshold": 0.75,
+        "positive": 14821,
+        "near": 493,
+        "covered": 390,
+        "backgroundFP": 14101
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2177,
+        "near": 59,
+        "covered": 108,
+        "backgroundFP": 2085
+      }
+    ]
+  },
+  {
+    "file": "legacy-030.npz",
+    "semanticLoss": 0.8571995496749878,
+    "centreLoss": 0.2917092442512512,
+    "loss": 1.9125651121139526,
+    "foregroundDice": 0.7680233295296057,
+    "coreCount": 482,
+    "semanticCovered": 482,
+    "affinityNegativePairs": 97924,
+    "affinityFalsePositivePairs": 9014,
+    "backgroundCount": 1275730,
+    "backgroundFP": 8204,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 9407,
+        "near": 5565,
+        "covered": 479,
+        "backgroundFP": 1833
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3412,
+        "near": 2828,
+        "covered": 457,
+        "backgroundFP": 320
+      },
+      {
+        "threshold": 0.9,
+        "positive": 278,
+        "near": 273,
+        "covered": 175,
+        "backgroundFP": 5
+      }
+    ]
+  },
+  {
+    "file": "legacy-031.npz",
+    "semanticLoss": 2.2703089714050293,
+    "centreLoss": 0.413912296295166,
+    "loss": 3.952327013015747,
+    "foregroundDice": 0.21831909745503308,
+    "coreCount": 1370,
+    "semanticCovered": 631,
+    "affinityNegativePairs": 35764,
+    "affinityFalsePositivePairs": 737,
+    "backgroundCount": 1050324,
+    "backgroundFP": 21045,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 31839,
+        "near": 2949,
+        "covered": 942,
+        "backgroundFP": 28028
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8068,
+        "near": 1657,
+        "covered": 714,
+        "backgroundFP": 6059
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1541,
+        "near": 642,
+        "covered": 389,
+        "backgroundFP": 828
+      }
+    ]
+  },
+  {
+    "file": "legacy-032.npz",
+    "semanticLoss": 0.45131880044937134,
+    "centreLoss": 0.2726437747478485,
+    "loss": 1.2400715351104736,
+    "foregroundDice": 0.8581113734587079,
+    "coreCount": 860,
+    "semanticCovered": 860,
+    "affinityNegativePairs": 155059,
+    "affinityFalsePositivePairs": 12965,
+    "backgroundCount": 1266825,
+    "backgroundFP": 8705,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14986,
+        "near": 9441,
+        "covered": 858,
+        "backgroundFP": 1941
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5416,
+        "near": 4591,
+        "covered": 816,
+        "backgroundFP": 247
+      },
+      {
+        "threshold": 0.9,
+        "positive": 381,
+        "near": 374,
+        "covered": 302,
+        "backgroundFP": 5
+      }
+    ]
+  },
+  {
+    "file": "legacy-033.npz",
+    "semanticLoss": 2.1496219635009766,
+    "centreLoss": 0.4176575839519501,
+    "loss": 3.8893938064575195,
+    "foregroundDice": 0.34163002883751714,
+    "coreCount": 2570,
+    "semanticCovered": 1167,
+    "affinityNegativePairs": 65254,
+    "affinityFalsePositivePairs": 2258,
+    "backgroundCount": 1045860,
+    "backgroundFP": 17208,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 31128,
+        "near": 5500,
+        "covered": 1705,
+        "backgroundFP": 24081
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9000,
+        "near": 3224,
+        "covered": 1277,
+        "backgroundFP": 5184
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1814,
+        "near": 1110,
+        "covered": 721,
+        "backgroundFP": 562
+      }
+    ]
+  },
+  {
+    "file": "legacy-034.npz",
+    "semanticLoss": 0.32500919699668884,
+    "centreLoss": 0.2357030212879181,
+    "loss": 0.9345178604125977,
+    "foregroundDice": 0.8662255001010305,
+    "coreCount": 1296,
+    "semanticCovered": 1296,
+    "affinityNegativePairs": 217229,
+    "affinityFalsePositivePairs": 22960,
+    "backgroundCount": 1271829,
+    "backgroundFP": 12739,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20526,
+        "near": 14963,
+        "covered": 1296,
+        "backgroundFP": 2305
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8164,
+        "near": 7492,
+        "covered": 1295,
+        "backgroundFP": 386
+      },
+      {
+        "threshold": 0.9,
+        "positive": 650,
+        "near": 633,
+        "covered": 570,
+        "backgroundFP": 16
+      }
+    ]
+  },
+  {
+    "file": "legacy-035.npz",
+    "semanticLoss": 2.4250080585479736,
+    "centreLoss": 0.4309321343898773,
+    "loss": 4.335925102233887,
+    "foregroundDice": 0.10963036868110984,
+    "coreCount": 964,
+    "semanticCovered": 344,
+    "affinityNegativePairs": 19578,
+    "affinityFalsePositivePairs": 515,
+    "backgroundCount": 1005371,
+    "backgroundFP": 32628,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 40567,
+        "near": 1610,
+        "covered": 618,
+        "backgroundFP": 38365
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8958,
+        "near": 590,
+        "covered": 295,
+        "backgroundFP": 8165
+      },
+      {
+        "threshold": 0.9,
+        "positive": 955,
+        "near": 127,
+        "covered": 104,
+        "backgroundFP": 793
+      }
+    ]
+  },
+  {
+    "file": "legacy-036.npz",
+    "semanticLoss": 0.522011399269104,
+    "centreLoss": 0.25098907947540283,
+    "loss": 1.3563294410705566,
+    "foregroundDice": 0.7948979765490717,
+    "coreCount": 707,
+    "semanticCovered": 685,
+    "affinityNegativePairs": 100007,
+    "affinityFalsePositivePairs": 11375,
+    "backgroundCount": 1283298,
+    "backgroundFP": 10184,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 12284,
+        "near": 7507,
+        "covered": 700,
+        "backgroundFP": 1624
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3712,
+        "near": 3115,
+        "covered": 622,
+        "backgroundFP": 232
+      },
+      {
+        "threshold": 0.9,
+        "positive": 313,
+        "near": 261,
+        "covered": 167,
+        "backgroundFP": 49
+      }
+    ]
+  },
+  {
+    "file": "legacy-037.npz",
+    "semanticLoss": 1.5251356363296509,
+    "centreLoss": 0.3232508897781372,
+    "loss": 2.8673012256622314,
+    "foregroundDice": 0.29671833829517846,
+    "coreCount": 979,
+    "semanticCovered": 675,
+    "affinityNegativePairs": 24926,
+    "affinityFalsePositivePairs": 596,
+    "backgroundCount": 977857,
+    "backgroundFP": 17674,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 29616,
+        "near": 3306,
+        "covered": 891,
+        "backgroundFP": 25283
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8764,
+        "near": 2108,
+        "covered": 760,
+        "backgroundFP": 6113
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1771,
+        "near": 843,
+        "covered": 478,
+        "backgroundFP": 761
+      }
+    ]
+  },
+  {
+    "file": "legacy-038.npz",
+    "semanticLoss": 0.6840358376502991,
+    "centreLoss": 0.23652055859565735,
+    "loss": 1.4361238479614258,
+    "foregroundDice": 0.9039378238341969,
+    "coreCount": 381,
+    "semanticCovered": 361,
+    "affinityNegativePairs": 54759,
+    "affinityFalsePositivePairs": 3189,
+    "backgroundCount": 1301566,
+    "backgroundFP": 1725,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 6354,
+        "near": 4493,
+        "covered": 380,
+        "backgroundFP": 857
+      },
+      {
+        "threshold": 0.75,
+        "positive": 2651,
+        "near": 2473,
+        "covered": 371,
+        "backgroundFP": 79
+      },
+      {
+        "threshold": 0.9,
+        "positive": 369,
+        "near": 366,
+        "covered": 258,
+        "backgroundFP": 3
+      }
+    ]
+  },
+  {
+    "file": "legacy-039.npz",
+    "semanticLoss": 3.0236282348632812,
+    "centreLoss": 0.4639074504375458,
+    "loss": 4.529298305511475,
+    "foregroundDice": 0.0433417485202707,
+    "coreCount": 706,
+    "semanticCovered": 197,
+    "affinityNegativePairs": 14887,
+    "affinityFalsePositivePairs": 1832,
+    "backgroundCount": 994377,
+    "backgroundFP": 42231,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 39847,
+        "near": 691,
+        "covered": 386,
+        "backgroundFP": 38894
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9433,
+        "near": 290,
+        "covered": 233,
+        "backgroundFP": 9054
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1211,
+        "near": 52,
+        "covered": 49,
+        "backgroundFP": 1147
+      }
+    ]
+  },
+  {
+    "file": "legacy-040.npz",
+    "semanticLoss": 0.4374341666698456,
+    "centreLoss": 0.25123131275177,
+    "loss": 1.135553002357483,
+    "foregroundDice": 0.8411820888813978,
+    "coreCount": 1106,
+    "semanticCovered": 1082,
+    "affinityNegativePairs": 175399,
+    "affinityFalsePositivePairs": 16082,
+    "backgroundCount": 1280149,
+    "backgroundFP": 11071,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 18071,
+        "near": 12370,
+        "covered": 1106,
+        "backgroundFP": 2386
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6883,
+        "near": 6277,
+        "covered": 1051,
+        "backgroundFP": 315
+      },
+      {
+        "threshold": 0.9,
+        "positive": 575,
+        "near": 568,
+        "covered": 447,
+        "backgroundFP": 7
+      }
+    ]
+  },
+  {
+    "file": "legacy-041.npz",
+    "semanticLoss": 2.674764633178711,
+    "centreLoss": 0.45433828234672546,
+    "loss": 4.445684432983398,
+    "foregroundDice": 0.06547908829387032,
+    "coreCount": 973,
+    "semanticCovered": 300,
+    "affinityNegativePairs": 18054,
+    "affinityFalsePositivePairs": 1316,
+    "backgroundCount": 1011882,
+    "backgroundFP": 38457,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 42086,
+        "near": 1093,
+        "covered": 580,
+        "backgroundFP": 40603
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10762,
+        "near": 452,
+        "covered": 307,
+        "backgroundFP": 10176
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1683,
+        "near": 138,
+        "covered": 107,
+        "backgroundFP": 1527
+      }
+    ]
+  },
+  {
+    "file": "legacy-042.npz",
+    "semanticLoss": 0.48879796266555786,
+    "centreLoss": 0.25784894824028015,
+    "loss": 1.2493664026260376,
+    "foregroundDice": 0.8833536029188203,
+    "coreCount": 905,
+    "semanticCovered": 904,
+    "affinityNegativePairs": 132246,
+    "affinityFalsePositivePairs": 13955,
+    "backgroundCount": 1268537,
+    "backgroundFP": 5854,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14073,
+        "near": 10044,
+        "covered": 904,
+        "backgroundFP": 1203
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5385,
+        "near": 5072,
+        "covered": 894,
+        "backgroundFP": 36
+      },
+      {
+        "threshold": 0.9,
+        "positive": 466,
+        "near": 463,
+        "covered": 406,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-043.npz",
+    "semanticLoss": 3.2836334705352783,
+    "centreLoss": 0.5245624780654907,
+    "loss": 5.602887153625488,
+    "foregroundDice": 0.03503667187687868,
+    "coreCount": 514,
+    "semanticCovered": 95,
+    "affinityNegativePairs": 13173,
+    "affinityFalsePositivePairs": 266,
+    "backgroundCount": 958532,
+    "backgroundFP": 37431,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 50054,
+        "near": 460,
+        "covered": 205,
+        "backgroundFP": 49308
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13981,
+        "near": 229,
+        "covered": 126,
+        "backgroundFP": 13606
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2387,
+        "near": 92,
+        "covered": 55,
+        "backgroundFP": 2241
+      }
+    ]
+  },
+  {
+    "file": "legacy-044.npz",
+    "semanticLoss": 0.5150834321975708,
+    "centreLoss": 0.2584656774997711,
+    "loss": 1.249269723892212,
+    "foregroundDice": 0.8669948074426655,
+    "coreCount": 684,
+    "semanticCovered": 665,
+    "affinityNegativePairs": 115400,
+    "affinityFalsePositivePairs": 12628,
+    "backgroundCount": 1303560,
+    "backgroundFP": 6407,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 11241,
+        "near": 7908,
+        "covered": 665,
+        "backgroundFP": 1402
+      },
+      {
+        "threshold": 0.75,
+        "positive": 3706,
+        "near": 3518,
+        "covered": 642,
+        "backgroundFP": 53
+      },
+      {
+        "threshold": 0.9,
+        "positive": 291,
+        "near": 291,
+        "covered": 221,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-045.npz",
+    "semanticLoss": 2.4127066135406494,
+    "centreLoss": 0.45029568672180176,
+    "loss": 4.136704921722412,
+    "foregroundDice": 0.2232761520349815,
+    "coreCount": 1809,
+    "semanticCovered": 830,
+    "affinityNegativePairs": 45243,
+    "affinityFalsePositivePairs": 1534,
+    "backgroundCount": 975027,
+    "backgroundFP": 27229,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 38823,
+        "near": 3443,
+        "covered": 1226,
+        "backgroundFP": 34187
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11616,
+        "near": 1909,
+        "covered": 902,
+        "backgroundFP": 9192
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2379,
+        "near": 722,
+        "covered": 495,
+        "backgroundFP": 1504
+      }
+    ]
+  },
+  {
+    "file": "legacy-046.npz",
+    "semanticLoss": 0.4630688428878784,
+    "centreLoss": 0.2343803197145462,
+    "loss": 1.115675687789917,
+    "foregroundDice": 0.8479093023681752,
+    "coreCount": 667,
+    "semanticCovered": 664,
+    "affinityNegativePairs": 105855,
+    "affinityFalsePositivePairs": 11310,
+    "backgroundCount": 1265959,
+    "backgroundFP": 7351,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 11372,
+        "near": 7808,
+        "covered": 667,
+        "backgroundFP": 1369
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4976,
+        "near": 4429,
+        "covered": 659,
+        "backgroundFP": 204
+      },
+      {
+        "threshold": 0.9,
+        "positive": 909,
+        "near": 900,
+        "covered": 485,
+        "backgroundFP": 5
+      }
+    ]
+  },
+  {
+    "file": "legacy-047.npz",
+    "semanticLoss": 1.910344123840332,
+    "centreLoss": 0.3815648853778839,
+    "loss": 3.4861440658569336,
+    "foregroundDice": 0.29271858177093,
+    "coreCount": 2102,
+    "semanticCovered": 1089,
+    "affinityNegativePairs": 44767,
+    "affinityFalsePositivePairs": 915,
+    "backgroundCount": 1081806,
+    "backgroundFP": 23762,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35654,
+        "near": 4451,
+        "covered": 1485,
+        "backgroundFP": 29802
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9828,
+        "near": 2538,
+        "covered": 1088,
+        "backgroundFP": 6742
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1475,
+        "near": 793,
+        "covered": 585,
+        "backgroundFP": 599
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-000.npz",
+    "semanticLoss": 0.3837513327598572,
+    "centreLoss": 0.28235533833503723,
+    "loss": 1.1651551723480225,
+    "foregroundDice": 0.9431985711966229,
+    "coreCount": 1642,
+    "semanticCovered": 1615,
+    "affinityNegativePairs": 349809,
+    "affinityFalsePositivePairs": 25397,
+    "backgroundCount": 1268179,
+    "backgroundFP": 2309,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25001,
+        "near": 19069,
+        "covered": 1624,
+        "backgroundFP": 401
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8189,
+        "near": 7724,
+        "covered": 1558,
+        "backgroundFP": 68
+      },
+      {
+        "threshold": 0.9,
+        "positive": 105,
+        "near": 105,
+        "covered": 156,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-001.npz",
+    "semanticLoss": 2.742652416229248,
+    "centreLoss": 0.4669629633426666,
+    "loss": 4.858625411987305,
+    "foregroundDice": 0.15597639149468417,
+    "coreCount": 2665,
+    "semanticCovered": 745,
+    "affinityNegativePairs": 72156,
+    "affinityFalsePositivePairs": 5121,
+    "backgroundCount": 1009390,
+    "backgroundFP": 30213,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 43981,
+        "near": 3077,
+        "covered": 1586,
+        "backgroundFP": 39601
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11041,
+        "near": 1404,
+        "covered": 894,
+        "backgroundFP": 9199
+      },
+      {
+        "threshold": 0.9,
+        "positive": 1724,
+        "near": 325,
+        "covered": 338,
+        "backgroundFP": 1300
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-002.npz",
+    "semanticLoss": 0.29567182064056396,
+    "centreLoss": 0.26377713680267334,
+    "loss": 0.9986571073532104,
+    "foregroundDice": 0.936832229580574,
+    "coreCount": 922,
+    "semanticCovered": 886,
+    "affinityNegativePairs": 192666,
+    "affinityFalsePositivePairs": 17148,
+    "backgroundCount": 1262486,
+    "backgroundFP": 3223,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 16326,
+        "near": 11311,
+        "covered": 898,
+        "backgroundFP": 1044
+      },
+      {
+        "threshold": 0.75,
+        "positive": 6139,
+        "near": 5617,
+        "covered": 868,
+        "backgroundFP": 114
+      },
+      {
+        "threshold": 0.9,
+        "positive": 421,
+        "near": 415,
+        "covered": 334,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-003.npz",
+    "semanticLoss": 1.8849562406539917,
+    "centreLoss": 0.3526122570037842,
+    "loss": 3.354496717453003,
+    "foregroundDice": 0.38359967339321127,
+    "coreCount": 2185,
+    "semanticCovered": 1181,
+    "affinityNegativePairs": 63636,
+    "affinityFalsePositivePairs": 2129,
+    "backgroundCount": 974338,
+    "backgroundFP": 16798,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 34808,
+        "near": 6711,
+        "covered": 1678,
+        "backgroundFP": 25842
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11831,
+        "near": 4138,
+        "covered": 1348,
+        "backgroundFP": 6604
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2814,
+        "near": 1633,
+        "covered": 798,
+        "backgroundFP": 843
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-004.npz",
+    "semanticLoss": 0.6939437389373779,
+    "centreLoss": 0.3089228868484497,
+    "loss": 1.7045207023620605,
+    "foregroundDice": 0.8891557995881949,
+    "coreCount": 1520,
+    "semanticCovered": 1403,
+    "affinityNegativePairs": 300513,
+    "affinityFalsePositivePairs": 24171,
+    "backgroundCount": 1249124,
+    "backgroundFP": 1908,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 23155,
+        "near": 16779,
+        "covered": 1479,
+        "backgroundFP": 1121
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8337,
+        "near": 7750,
+        "covered": 1334,
+        "backgroundFP": 129
+      },
+      {
+        "threshold": 0.9,
+        "positive": 630,
+        "near": 626,
+        "covered": 469,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-005.npz",
+    "semanticLoss": 1.1105411052703857,
+    "centreLoss": 0.28108933568000793,
+    "loss": 2.137364387512207,
+    "foregroundDice": 0.6393144037732259,
+    "coreCount": 4093,
+    "semanticCovered": 3154,
+    "affinityNegativePairs": 113003,
+    "affinityFalsePositivePairs": 2634,
+    "backgroundCount": 1082672,
+    "backgroundFP": 14898,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 37589,
+        "near": 16466,
+        "covered": 3792,
+        "backgroundFP": 16574
+      },
+      {
+        "threshold": 0.75,
+        "positive": 15303,
+        "near": 10002,
+        "covered": 3243,
+        "backgroundFP": 3580
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3903,
+        "near": 3177,
+        "covered": 1939,
+        "backgroundFP": 439
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-006.npz",
+    "semanticLoss": 0.380348801612854,
+    "centreLoss": 0.2594687342643738,
+    "loss": 1.1157498359680176,
+    "foregroundDice": 0.9315614886731391,
+    "coreCount": 1579,
+    "semanticCovered": 1509,
+    "affinityNegativePairs": 316592,
+    "affinityFalsePositivePairs": 28564,
+    "backgroundCount": 1262003,
+    "backgroundFP": 3590,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25211,
+        "near": 18018,
+        "covered": 1551,
+        "backgroundFP": 1356
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9385,
+        "near": 8449,
+        "covered": 1447,
+        "backgroundFP": 236
+      },
+      {
+        "threshold": 0.9,
+        "positive": 639,
+        "near": 638,
+        "covered": 536,
+        "backgroundFP": 1
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-007.npz",
+    "semanticLoss": 2.084343671798706,
+    "centreLoss": 0.4086635410785675,
+    "loss": 3.7083752155303955,
+    "foregroundDice": 0.3512607245888127,
+    "coreCount": 2582,
+    "semanticCovered": 1073,
+    "affinityNegativePairs": 92548,
+    "affinityFalsePositivePairs": 2959,
+    "backgroundCount": 1074732,
+    "backgroundFP": 18958,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 41631,
+        "near": 6752,
+        "covered": 1830,
+        "backgroundFP": 31788
+      },
+      {
+        "threshold": 0.75,
+        "positive": 11762,
+        "near": 3744,
+        "covered": 1221,
+        "backgroundFP": 6535
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2491,
+        "near": 1383,
+        "covered": 681,
+        "backgroundFP": 651
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-008.npz",
+    "semanticLoss": 0.3359767198562622,
+    "centreLoss": 0.26305192708969116,
+    "loss": 1.046072006225586,
+    "foregroundDice": 0.9263008078366516,
+    "coreCount": 1382,
+    "semanticCovered": 1377,
+    "affinityNegativePairs": 281764,
+    "affinityFalsePositivePairs": 23975,
+    "backgroundCount": 1277376,
+    "backgroundFP": 4104,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 23860,
+        "near": 17081,
+        "covered": 1382,
+        "backgroundFP": 2245
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8976,
+        "near": 8145,
+        "covered": 1359,
+        "backgroundFP": 432
+      },
+      {
+        "threshold": 0.9,
+        "positive": 624,
+        "near": 604,
+        "covered": 523,
+        "backgroundFP": 17
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-009.npz",
+    "semanticLoss": 1.8342785835266113,
+    "centreLoss": 0.3888106644153595,
+    "loss": 3.2964956760406494,
+    "foregroundDice": 0.44178616981964264,
+    "coreCount": 5037,
+    "semanticCovered": 2726,
+    "affinityNegativePairs": 108711,
+    "affinityFalsePositivePairs": 2318,
+    "backgroundCount": 1018244,
+    "backgroundFP": 28546,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 45991,
+        "near": 12185,
+        "covered": 3604,
+        "backgroundFP": 29723
+      },
+      {
+        "threshold": 0.75,
+        "positive": 15656,
+        "near": 7016,
+        "covered": 2736,
+        "backgroundFP": 6950
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3541,
+        "near": 2501,
+        "covered": 1399,
+        "backgroundFP": 755
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-010.npz",
+    "semanticLoss": 0.4935321509838104,
+    "centreLoss": 0.2606494128704071,
+    "loss": 1.280606985092163,
+    "foregroundDice": 0.8913758010836977,
+    "coreCount": 1966,
+    "semanticCovered": 1905,
+    "affinityNegativePairs": 345913,
+    "affinityFalsePositivePairs": 24035,
+    "backgroundCount": 1247029,
+    "backgroundFP": 3398,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 28042,
+        "near": 20851,
+        "covered": 1959,
+        "backgroundFP": 2090
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10088,
+        "near": 9264,
+        "covered": 1849,
+        "backgroundFP": 299
+      },
+      {
+        "threshold": 0.9,
+        "positive": 689,
+        "near": 678,
+        "covered": 615,
+        "backgroundFP": 11
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-011.npz",
+    "semanticLoss": 1.6826996803283691,
+    "centreLoss": 0.3535941243171692,
+    "loss": 3.049891948699951,
+    "foregroundDice": 0.5042740385366692,
+    "coreCount": 3573,
+    "semanticCovered": 1957,
+    "affinityNegativePairs": 110911,
+    "affinityFalsePositivePairs": 4145,
+    "backgroundCount": 1085201,
+    "backgroundFP": 13052,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 35498,
+        "near": 10830,
+        "covered": 2850,
+        "backgroundFP": 20395
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13179,
+        "near": 6338,
+        "covered": 2211,
+        "backgroundFP": 4826
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2718,
+        "near": 1851,
+        "covered": 1198,
+        "backgroundFP": 520
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-012.npz",
+    "semanticLoss": 0.36632126569747925,
+    "centreLoss": 0.2534659504890442,
+    "loss": 1.0620043277740479,
+    "foregroundDice": 0.9004256091657253,
+    "coreCount": 1061,
+    "semanticCovered": 1058,
+    "affinityNegativePairs": 226661,
+    "affinityFalsePositivePairs": 19446,
+    "backgroundCount": 1280513,
+    "backgroundFP": 7223,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20441,
+        "near": 13481,
+        "covered": 1061,
+        "backgroundFP": 3021
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7688,
+        "near": 6906,
+        "covered": 1041,
+        "backgroundFP": 377
+      },
+      {
+        "threshold": 0.9,
+        "positive": 634,
+        "near": 617,
+        "covered": 460,
+        "backgroundFP": 9
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-013.npz",
+    "semanticLoss": 1.8119089603424072,
+    "centreLoss": 0.36255109310150146,
+    "loss": 3.265019178390503,
+    "foregroundDice": 0.45462013853880767,
+    "coreCount": 3462,
+    "semanticCovered": 1855,
+    "affinityNegativePairs": 103484,
+    "affinityFalsePositivePairs": 4078,
+    "backgroundCount": 1094392,
+    "backgroundFP": 15267,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 33764,
+        "near": 8764,
+        "covered": 2554,
+        "backgroundFP": 22205
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10683,
+        "near": 5177,
+        "covered": 1871,
+        "backgroundFP": 4432
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2411,
+        "near": 1735,
+        "covered": 1079,
+        "backgroundFP": 439
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-014.npz",
+    "semanticLoss": 0.5157113075256348,
+    "centreLoss": 0.2929765284061432,
+    "loss": 1.3517547845840454,
+    "foregroundDice": 0.8985049167168373,
+    "coreCount": 1091,
+    "semanticCovered": 1013,
+    "affinityNegativePairs": 203469,
+    "affinityFalsePositivePairs": 14858,
+    "backgroundCount": 1251051,
+    "backgroundFP": 5206,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 17795,
+        "near": 11180,
+        "covered": 1041,
+        "backgroundFP": 2061
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5665,
+        "near": 4849,
+        "covered": 956,
+        "backgroundFP": 288
+      },
+      {
+        "threshold": 0.9,
+        "positive": 306,
+        "near": 297,
+        "covered": 263,
+        "backgroundFP": 9
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-015.npz",
+    "semanticLoss": 1.9821608066558838,
+    "centreLoss": 0.3784013092517853,
+    "loss": 4.361048698425293,
+    "foregroundDice": 0.48466127347719107,
+    "coreCount": 3090,
+    "semanticCovered": 1539,
+    "affinityNegativePairs": 93919,
+    "affinityFalsePositivePairs": 1935,
+    "backgroundCount": 1085079,
+    "backgroundFP": 12690,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 30228,
+        "near": 9216,
+        "covered": 2268,
+        "backgroundFP": 17111
+      },
+      {
+        "threshold": 0.75,
+        "positive": 10943,
+        "near": 5269,
+        "covered": 1743,
+        "backgroundFP": 4154
+      },
+      {
+        "threshold": 0.9,
+        "positive": 2133,
+        "near": 1491,
+        "covered": 911,
+        "backgroundFP": 461
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-016.npz",
+    "semanticLoss": 0.5929998159408569,
+    "centreLoss": 0.2933756709098816,
+    "loss": 1.4642868041992188,
+    "foregroundDice": 0.9131516088239426,
+    "coreCount": 737,
+    "semanticCovered": 697,
+    "affinityNegativePairs": 156787,
+    "affinityFalsePositivePairs": 10603,
+    "backgroundCount": 1258246,
+    "backgroundFP": 1540,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 12902,
+        "near": 8695,
+        "covered": 713,
+        "backgroundFP": 620
+      },
+      {
+        "threshold": 0.75,
+        "positive": 4766,
+        "near": 4270,
+        "covered": 697,
+        "backgroundFP": 39
+      },
+      {
+        "threshold": 0.9,
+        "positive": 260,
+        "near": 256,
+        "covered": 210,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-017.npz",
+    "semanticLoss": 1.839085340499878,
+    "centreLoss": 0.36123424768447876,
+    "loss": 3.1862735748291016,
+    "foregroundDice": 0.45213204355181535,
+    "coreCount": 3934,
+    "semanticCovered": 2139,
+    "affinityNegativePairs": 102401,
+    "affinityFalsePositivePairs": 2623,
+    "backgroundCount": 1059054,
+    "backgroundFP": 21980,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 37247,
+        "near": 10833,
+        "covered": 2868,
+        "backgroundFP": 22906
+      },
+      {
+        "threshold": 0.75,
+        "positive": 13952,
+        "near": 6495,
+        "covered": 2215,
+        "backgroundFP": 5976
+      },
+      {
+        "threshold": 0.9,
+        "positive": 3293,
+        "near": 2234,
+        "covered": 1338,
+        "backgroundFP": 713
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-018.npz",
+    "semanticLoss": 0.43183714151382446,
+    "centreLoss": 0.25058016180992126,
+    "loss": 1.179722547531128,
+    "foregroundDice": 0.9085051977136746,
+    "coreCount": 1580,
+    "semanticCovered": 1515,
+    "affinityNegativePairs": 303101,
+    "affinityFalsePositivePairs": 22179,
+    "backgroundCount": 1247912,
+    "backgroundFP": 2948,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 23500,
+        "near": 18175,
+        "covered": 1546,
+        "backgroundFP": 1154
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9195,
+        "near": 8720,
+        "covered": 1489,
+        "backgroundFP": 117
+      },
+      {
+        "threshold": 0.9,
+        "positive": 755,
+        "near": 746,
+        "covered": 593,
+        "backgroundFP": 2
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-019.npz",
+    "semanticLoss": 0.2844111919403076,
+    "centreLoss": 0.2615850269794464,
+    "loss": 0.9894384741783142,
+    "foregroundDice": 0.944339109215077,
+    "coreCount": 1299,
+    "semanticCovered": 1299,
+    "affinityNegativePairs": 228589,
+    "affinityFalsePositivePairs": 20214,
+    "backgroundCount": 1276798,
+    "backgroundFP": 4204,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 20412,
+        "near": 14423,
+        "covered": 1299,
+        "backgroundFP": 1170
+      },
+      {
+        "threshold": 0.75,
+        "positive": 7296,
+        "near": 6729,
+        "covered": 1261,
+        "backgroundFP": 112
+      },
+      {
+        "threshold": 0.9,
+        "positive": 616,
+        "near": 609,
+        "covered": 364,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-020.npz",
+    "semanticLoss": 0.7076848745346069,
+    "centreLoss": 0.2655443549156189,
+    "loss": 1.582839012145996,
+    "foregroundDice": 0.8487447524256999,
+    "coreCount": 1040,
+    "semanticCovered": 942,
+    "affinityNegativePairs": 207946,
+    "affinityFalsePositivePairs": 17302,
+    "backgroundCount": 1243762,
+    "backgroundFP": 2104,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 14410,
+        "near": 10921,
+        "covered": 992,
+        "backgroundFP": 1023
+      },
+      {
+        "threshold": 0.75,
+        "positive": 5752,
+        "near": 5501,
+        "covered": 930,
+        "backgroundFP": 57
+      },
+      {
+        "threshold": 0.9,
+        "positive": 614,
+        "near": 611,
+        "covered": 458,
+        "backgroundFP": 0
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-021.npz",
+    "semanticLoss": 0.3904590606689453,
+    "centreLoss": 0.2684006989002228,
+    "loss": 1.1417558193206787,
+    "foregroundDice": 0.905329967429304,
+    "coreCount": 1521,
+    "semanticCovered": 1511,
+    "affinityNegativePairs": 280964,
+    "affinityFalsePositivePairs": 25294,
+    "backgroundCount": 1271221,
+    "backgroundFP": 6794,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25231,
+        "near": 16971,
+        "covered": 1516,
+        "backgroundFP": 3009
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9061,
+        "near": 7872,
+        "covered": 1461,
+        "backgroundFP": 630
+      },
+      {
+        "threshold": 0.9,
+        "positive": 608,
+        "near": 550,
+        "covered": 461,
+        "backgroundFP": 52
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-022.npz",
+    "semanticLoss": 0.4697502553462982,
+    "centreLoss": 0.2736651599407196,
+    "loss": 1.2669103145599365,
+    "foregroundDice": 0.8950487521245192,
+    "coreCount": 1450,
+    "semanticCovered": 1389,
+    "affinityNegativePairs": 275141,
+    "affinityFalsePositivePairs": 19651,
+    "backgroundCount": 1262835,
+    "backgroundFP": 7409,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25446,
+        "near": 16239,
+        "covered": 1435,
+        "backgroundFP": 2670
+      },
+      {
+        "threshold": 0.75,
+        "positive": 8787,
+        "near": 7574,
+        "covered": 1400,
+        "backgroundFP": 513
+      },
+      {
+        "threshold": 0.9,
+        "positive": 459,
+        "near": 429,
+        "covered": 387,
+        "backgroundFP": 30
+      }
+    ]
+  },
+  {
+    "file": "legacy-1447-023.npz",
+    "semanticLoss": 0.45687076449394226,
+    "centreLoss": 0.29598507285118103,
+    "loss": 1.298915147781372,
+    "foregroundDice": 0.9192631041289913,
+    "coreCount": 1472,
+    "semanticCovered": 1418,
+    "affinityNegativePairs": 294672,
+    "affinityFalsePositivePairs": 20968,
+    "backgroundCount": 1235328,
+    "backgroundFP": 2068,
+    "curve": [
+      {
+        "threshold": 0.5,
+        "positive": 25956,
+        "near": 17887,
+        "covered": 1446,
+        "backgroundFP": 606
+      },
+      {
+        "threshold": 0.75,
+        "positive": 9673,
+        "near": 8693,
+        "covered": 1380,
+        "backgroundFP": 57
+      },
+      {
+        "threshold": 0.9,
+        "positive": 753,
+        "near": 751,
+        "covered": 528,
+        "backgroundFP": 0
+      }
+    ]
+  }
+]

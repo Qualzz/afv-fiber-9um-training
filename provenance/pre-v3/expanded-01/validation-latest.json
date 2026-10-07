@@ -1,0 +1,24 @@
+{
+  "real": {
+    "cases": 29,
+    "loss": 1.5164490321586872,
+    "semanticLoss": 0.7306093265270365,
+    "foregroundDice": 0.5643023411775457,
+    "skeletonCoverage": 0.9561526415560867,
+    "skeletonVoxels": 12133,
+    "affinityFalsePositiveRate": 0.08934886831976224,
+    "affinityNegativePairs": 1248365
+  },
+  "compressed": {
+    "cases": 19,
+    "loss": 3.069730758666992,
+    "semanticLoss": 1.9540937699769672,
+    "foregroundDice": 0.05579582640999242,
+    "skeletonCoverage": 0.5711942032948254,
+    "skeletonVoxels": 14629,
+    "affinityFalsePositiveRate": 0.029023444763907367,
+    "affinityNegativePairs": 209727
+  },
+  "selectionScore": 1.70765621151552,
+  "step": 1200
+}

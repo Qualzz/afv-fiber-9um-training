@@ -1,0 +1,20 @@
+{
+  "modelId": "PHerc0268",
+  "shapeZYX": [
+    512,
+    512,
+    512
+  ],
+  "originXYZ": [
+    7680,
+    9728,
+    8704
+  ],
+  "voxelMicrons": 8.64,
+  "level": 0,
+  "source": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0268/volumes/20251110183117-8.640um-1.2m-116keV-masked.zarr/0",
+  "sha256": "19aa2880b146108b5348ddef67aed537028c2d5d8ec5dacfa993972f781d56c8",
+  "resampling": null,
+  "dtype": "uint8",
+  "split": "train"
+}

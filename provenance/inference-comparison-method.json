@@ -1,0 +1,18 @@
+{
+  "receipt": "original/hf-export/verification.json",
+  "comparison": "Portable V6 EMA through the author's viewer compression-checkpoint path versus identical exported backbone through its official nnU-Net checkpoint path",
+  "trainingCheckpointPath": "BF16 inference with GPU accumulation",
+  "exportPath": "FP16 inference with CPU accumulation, patch size from export plans",
+  "cases": "PHerc0813 256^3 and PHerc0175A 250^3 real CT cubes",
+  "probabilityEncoding": "Quantized uint8 0..255 per channel",
+  "differenceDefinition": "Any nonzero quantized difference in any channel, not 4.9% classification error",
+  "differentArgmaxPercentage": [
+    0.0304,
+    0.0283
+  ],
+  "limitations": "Author-supplied historical inference comparison; input cubes and setup-dependent viewer implementation are not bundled. Not a ground-truth accuracy evaluation.",
+  "sourceProvenance": {
+    "PHerc0813": "Original CT is identified in training-region metadata, but no source URL/hash for this exact historical inference cube survives in the comparison receipt. Exact cube provenance remains unverified.",
+    "PHerc0175A": "Unknown for this exact historical comparison cube: the receipt gives native pitch, not source URL/codec/hash. Do not infer original CT from native pitch. PHerc0175A training partly used q8 regions (24 regions; other PHerc0175A regions used the original source); this does not establish this comparison cube source."
+  }
+}

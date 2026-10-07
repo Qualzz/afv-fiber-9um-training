@@ -1,0 +1,37 @@
+{
+  "repo": "Qualzz20/afv_fiber_9um",
+  "revision": "365e7800ac47153f1f61a727b98c0f370605d5fc",
+  "private": false,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "size": 1519,
+      "lfsSHA256": null,
+      "gitBlobId": "a6344aac8c09253b3b630fb776ae94478aa0275b"
+    },
+    {
+      "path": "README.md",
+      "size": 1035,
+      "lfsSHA256": null,
+      "gitBlobId": "71fd0963224c1777a348349b2523bc3e8db70849"
+    },
+    {
+      "path": "checkpoint_final.pth",
+      "size": 566150934,
+      "lfsSHA256": "6837f3fe8fca123e6ed0b91bb052ce5218ca6eb6889800e4d578b6c8aaf59767",
+      "gitBlobId": "8bebb990185bb3f4202eee125d74fec388214d56"
+    },
+    {
+      "path": "dataset.json",
+      "size": 269,
+      "lfsSHA256": null,
+      "gitBlobId": "428b8abc6d8a2bfae0a8bc417155c704b9721dce"
+    },
+    {
+      "path": "plans.json",
+      "size": 11153,
+      "lfsSHA256": null,
+      "gitBlobId": "dc144dcd3e4c749f91b3b74341fc404e36387525"
+    }
+  ]
+}

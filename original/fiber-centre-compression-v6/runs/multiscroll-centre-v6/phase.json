@@ -1,0 +1,7 @@
+{
+  "parentRun": "multiscroll-full-v5",
+  "parentStep": 874,
+  "baseModelStep": 8000,
+  "optimizerReset": true,
+  "reason": "Centre objective and compaction distribution changed"
+}

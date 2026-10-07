@@ -1,0 +1,10 @@
+{
+  "checkpointSHA256": "144a33b154c440ab4990bf05953e454a6cd8167cd28a8a846746a64cfd605498",
+  "sourceSHA256": "f0e8caf18cf4c4f5c576d0247fe450294c210bf0171f39517a1fe08f77dae4e9",
+  "source": "/media/qual/ServerData/projets/AI/kaggle/exports/fiber-centre-compression-v6/runs/multiscroll-centre-v6/last.pt",
+  "step": 7624,
+  "weights": "ema",
+  "allTensorsBitExact": true,
+  "bytes": 566251098,
+  "createdAt": 1790272553.8320587
+}

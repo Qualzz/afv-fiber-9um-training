@@ -1,0 +1,21 @@
+{
+  "sourceVerification": {
+    "checks": 1364,
+    "preservedFilesVerified": 67,
+    "runTrackedCoreFileChecks": 27,
+    "regionMetadataRecords": 393,
+    "validationCases": 136,
+    "failures": [],
+    "scope": "Consistency against archived receipts and recorded HF blobs, not external attestation of training or accuracy"
+  },
+  "geometryVerification": {
+    "voidGapBefore": 55.0,
+    "voidGapAfter": 17.21875,
+    "materialThicknessBefore": 8.0,
+    "materialThicknessAfter": 8.0,
+    "maxObliqueRoundTripError": 0.012623786926269531
+  },
+  "trainingOrInferenceLaunched": false,
+  "CTReadForTheseChecks": false,
+  "verificationScope": "Source receipts and original synthetic geometry checks only; this does not retrain the model or independently verify pseudo-label accuracy."
+}

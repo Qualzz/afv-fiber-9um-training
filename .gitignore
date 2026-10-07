@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+dependencies/
+*.pt
+*.pth
+*.u8
+*.npy
+*.npz
+tiles/
+scratch/
+validation/*.npz

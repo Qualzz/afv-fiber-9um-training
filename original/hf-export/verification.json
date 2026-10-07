@@ -1,0 +1,93 @@
+{
+ "weights": {
+  "tensors": 1160,
+  "bitIdenticalToTrainingEMA": true,
+  "weightsOnlyLoad": true,
+  "strictLoadFromPlans": true,
+  "trainerName": "nnUNetTrainer",
+  "mirroringAxes": [
+   0,
+   1,
+   2
+  ]
+ },
+ "splineThresholdPct": 60,
+ "cubes": [
+  {
+   "scroll": "PHerc0813",
+   "voxelMicrons": 9.362,
+   "shapeZYX": [
+    256,
+    256,
+    256
+   ],
+   "zeroVoxelsPct": 0.0,
+   "probabilities": {
+    "maxDifference255": 19,
+    "meanDifference255": 0.03914,
+    "voxelsWithAnyDifferencePct": 4.8583,
+    "voxelsWithDifferentArgmaxPct": 0.0304
+   },
+   "splines": {
+    "training": {
+     "vertical": {
+      "count": 386,
+      "totalMm": 179.896
+     },
+     "horizontal": {
+      "count": 328,
+      "totalMm": 134.953
+     }
+    },
+    "export": {
+     "vertical": {
+      "count": 390,
+      "totalMm": 179.398
+     },
+     "horizontal": {
+      "count": 333,
+      "totalMm": 134.275
+     }
+    }
+   }
+  },
+  {
+   "scroll": "PHerc0175A",
+   "voxelMicrons": 8.64,
+   "shapeZYX": [
+    250,
+    250,
+    250
+   ],
+   "zeroVoxelsPct": 0.0,
+   "probabilities": {
+    "maxDifference255": 17,
+    "meanDifference255": 0.03673,
+    "voxelsWithAnyDifferencePct": 4.7353,
+    "voxelsWithDifferentArgmaxPct": 0.0283
+   },
+   "splines": {
+    "training": {
+     "vertical": {
+      "count": 316,
+      "totalMm": 159.008
+     },
+     "horizontal": {
+      "count": 300,
+      "totalMm": 141.366
+     }
+    },
+    "export": {
+     "vertical": {
+      "count": 319,
+      "totalMm": 159.359
+     },
+     "horizontal": {
+      "count": 296,
+      "totalMm": 141.267
+     }
+    }
+   }
+  }
+ ]
+}

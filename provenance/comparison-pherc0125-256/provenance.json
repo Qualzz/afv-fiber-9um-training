@@ -1,0 +1,266 @@
+{
+  "centerXYZ": [
+    4032,
+    4060,
+    10913
+  ],
+  "view": "3D",
+  "outputShapeZYX": [
+    256,
+    256,
+    256
+  ],
+  "sourceUrl": "https://vesuvius-challenge-open-data.s3.amazonaws.com/PHerc0125/volumes/20250821151825-9.362um-1.2m-113keV-masked.zarr/0",
+  "sourceMetadata": {
+    "shape": [
+      20840,
+      8387,
+      8387
+    ],
+    "chunks": [
+      128,
+      128,
+      128
+    ],
+    "dtype": "|u1",
+    "fill_value": 0,
+    "order": "C",
+    "filters": null,
+    "dimension_separator": "/",
+    "compressor": null,
+    "zarr_format": 2
+  },
+  "inputOriginXYZ": [
+    3872,
+    3900,
+    10753
+  ],
+  "inputShapeZYX": [
+    320,
+    320,
+    320
+  ],
+  "inputSHA256": "d61cec8b16a99d1f70d16183580a0762934ca6109420a153a54b2382eae71ed3",
+  "voxelMicrons": 9.362,
+  "chunks": [
+    {
+      "keyZYX": [
+        84,
+        30,
+        30
+      ],
+      "sha256": "07c949b3aac4f1c63920436e8cd5cf3ca6c1a15eb80a47fbac16a874dd1c57be"
+    },
+    {
+      "keyZYX": [
+        84,
+        30,
+        31
+      ],
+      "sha256": "d5b585fd300352dd6488a9d3c373719f535ae0d28f1326c1983d8d0a00c82c2b"
+    },
+    {
+      "keyZYX": [
+        84,
+        30,
+        32
+      ],
+      "sha256": "754655ca765ab04bbf3c7fd284884c3c44decb557b4e1c30f475c11f082a136d"
+    },
+    {
+      "keyZYX": [
+        84,
+        31,
+        30
+      ],
+      "sha256": "f22773af31d15232be9ef22260ab81cac60122017639b9096fe709efa076551f"
+    },
+    {
+      "keyZYX": [
+        84,
+        31,
+        31
+      ],
+      "sha256": "fa5bb1176ef630bd3e6ee0f0971b2ed17c777da87b8ed81ffd8d58c3e4ea53e8"
+    },
+    {
+      "keyZYX": [
+        84,
+        31,
+        32
+      ],
+      "sha256": "6af259fafd4b5b9594944885150cebc288fb3466bb4f09f8c23597667fe1d8c4"
+    },
+    {
+      "keyZYX": [
+        84,
+        32,
+        30
+      ],
+      "sha256": "dec8a1ae51cc159d97d964c091c463797584c2020fec99f4f9a54fb097391aae"
+    },
+    {
+      "keyZYX": [
+        84,
+        32,
+        31
+      ],
+      "sha256": "4ecbd51fddc61b80e84afef3be06094e97123dc63d4329ec1ae48004d2031100"
+    },
+    {
+      "keyZYX": [
+        84,
+        32,
+        32
+      ],
+      "sha256": "a1ffee7563688abb897962334f5b5776ab5fc4b2591c2b0974799a61bc45db69"
+    },
+    {
+      "keyZYX": [
+        85,
+        30,
+        30
+      ],
+      "sha256": "3e5ccc7372ee830e81946d3d9bb354234fa25e86a8b592c59800e1a0a83063ad"
+    },
+    {
+      "keyZYX": [
+        85,
+        30,
+        31
+      ],
+      "sha256": "bd05b1abe49fafc030d9104bf69e62dab484c1fd7588d834c1dfd867b8c65fbf"
+    },
+    {
+      "keyZYX": [
+        85,
+        30,
+        32
+      ],
+      "sha256": "e17473d44709d10d924130ef5f15b9b200d4fcf857a4e6e075e9c9e6379c1c72"
+    },
+    {
+      "keyZYX": [
+        85,
+        31,
+        30
+      ],
+      "sha256": "6a15cc4ab7f1b325dc598b6ba3238f30a7d8cbf96bb8439954a0184d85944178"
+    },
+    {
+      "keyZYX": [
+        85,
+        31,
+        31
+      ],
+      "sha256": "4ea76f58925eb2ffe9c86a4123bd251f3c2c323b3ab2b633274b9a636d399224"
+    },
+    {
+      "keyZYX": [
+        85,
+        31,
+        32
+      ],
+      "sha256": "8d7788c2665ff815198881cdc208714a491251aac07c1bbcc8ac3c30a8d06d2e"
+    },
+    {
+      "keyZYX": [
+        85,
+        32,
+        30
+      ],
+      "sha256": "d54bd074b4e1ec8ed150d70aab2f89611b2a6e47843e93b12d2e924d9a5cb3a4"
+    },
+    {
+      "keyZYX": [
+        85,
+        32,
+        31
+      ],
+      "sha256": "d4781621b94f2fc26cec6852779349c0a5470601ea32dca51b34592221fb8fa2"
+    },
+    {
+      "keyZYX": [
+        85,
+        32,
+        32
+      ],
+      "sha256": "12970420c8f94eace80325de5ae65b738f6479fcfd3d9721448b20741877c095"
+    },
+    {
+      "keyZYX": [
+        86,
+        30,
+        30
+      ],
+      "sha256": "c57d8ac265f6533c3717bf093426ba7a9d2e74f6271d6b0f16ab6db43baeef65"
+    },
+    {
+      "keyZYX": [
+        86,
+        30,
+        31
+      ],
+      "sha256": "a93fb434b14ab802862e4e08df5c4527936fbfe2970cad6c075cbfe38589f6fa"
+    },
+    {
+      "keyZYX": [
+        86,
+        30,
+        32
+      ],
+      "sha256": "33ad6ef7214194d091a758cb6fa50f12f096bd8f64b2f3247edecdca29d31f05"
+    },
+    {
+      "keyZYX": [
+        86,
+        31,
+        30
+      ],
+      "sha256": "66a2455d84983d8a95ab1e3f2357abb02f0fbc5e51d0367f441428975e93ecb5"
+    },
+    {
+      "keyZYX": [
+        86,
+        31,
+        31
+      ],
+      "sha256": "13877814672bcedebdb16627997bd773f21c78eda325f110a22cd3ea3ce0a69d"
+    },
+    {
+      "keyZYX": [
+        86,
+        31,
+        32
+      ],
+      "sha256": "fe7df3486deb32af4825f6ca434a11ab3bec0b5c7e22c71687b1d79aca55190e"
+    },
+    {
+      "keyZYX": [
+        86,
+        32,
+        30
+      ],
+      "sha256": "7a1cd113d48b836eecc7e621336a03f6981a1948468eeb8017f56e2221476ae0"
+    },
+    {
+      "keyZYX": [
+        86,
+        32,
+        31
+      ],
+      "sha256": "868b2e49d74dfbb52f3c30fe0d9b1f640f0c619a80fbfd7dd8d03a7267ce8928"
+    },
+    {
+      "keyZYX": [
+        86,
+        32,
+        32
+      ],
+      "sha256": "af5045e31af2019531716548eef5a6cc6c550a9214007e128f6de7ec5210a235"
+    }
+  ],
+  "note": "Qualitative matched comparison, not ground-truth accuracy measurement. PHerc0125 belongs to fine-tuning corpus; shown window not claimed held-out.",
+  "CTStorage": "Bounded /dev/shm scratch, removed after paired inference; no disk CT cache",
+  "inkDetection": false
+}

@@ -1,0 +1,39 @@
+{
+  "name": "multiscroll",
+  "maxSteps": 12000,
+  "batchSize": 2,
+  "accumulation": 4,
+  "seed": 3582026,
+  "learningRate": 5e-05,
+  "warmupSteps": 100,
+  "validationEvery": 100,
+  "workers": 6,
+  "snapshotSHA256": "aa3bc7d1854cd5aa60185de96c61d78e5cbf27a2f09fa98ce7cbe2e7bc726067",
+  "device": "NVIDIA GeForce RTX 4090",
+  "torch": "2.1.2",
+  "precision": "bf16",
+  "augmentationEnabled": true,
+  "materialThresholdU8Range": [
+    50,
+    80
+  ],
+  "sourceLabelStatus": "Long teacher pseudo-labels; not human ground truth",
+  "model": "ResidualEncoderUNet + centre + six affinities",
+  "selection": "real semantic loss + 0.5 compressed semantic loss",
+  "earlyStoppingPatience": 10,
+  "earlyStoppingMinSteps": 1000,
+  "codeSHA256": {
+    "network.py": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+    "data.py": "dcf7b71d84f0bd812b9a39ce07924c55bf0bfd188dd73b30d9ef0038611e4f82",
+    "material.py": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+    "train.py": "aa98c544ab9dd050c94abeae9e9bad47eed9fdfa19c3bc437201ec3b6a2a7887"
+  },
+  "teacherSHA256": "7195cdaa831700d72c1fb3da98c8ce71d8ea87659d026a9f26c358b759f4ba59",
+  "sampling": "uniform scroll, uniform family, arclength within group; compaction donors from same scroll",
+  "initializationSHA256": "7195cdaa831700d72c1fb3da98c8ce71d8ea87659d026a9f26c358b759f4ba59",
+  "limitations": [
+    "Geometric material compaction, not calibrated mechanical simulation.",
+    "Validation uses a held-out scroll labelled by 358_finetuned_final; this measures teacher agreement, not independently verified fibre accuracy.",
+    "Intersection-dominated targets are ignored; intersection performance is not established."
+  ]
+}

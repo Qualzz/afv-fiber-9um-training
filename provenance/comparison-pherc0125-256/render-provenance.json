@@ -1,0 +1,27 @@
+{
+  "voxelCubeZYX": [
+    256,
+    256,
+    256
+  ],
+  "imagePixels": [
+    2560,
+    1440
+  ],
+  "rendering": "Categorical voxel volume, nearest interpolation, no MIP, H/V classes only",
+  "cameraPosition": [
+    512,
+    -487.5,
+    437.5
+  ],
+  "focalPoint": [
+    127.5,
+    127.5,
+    127.5
+  ],
+  "sampleDistanceVoxels": 0.65,
+  "colors": {
+    "vertical": "blue",
+    "horizontal": "orange"
+  }
+}

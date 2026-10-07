@@ -1,0 +1,544 @@
+{
+  "real": {
+    "loss": 2.219861388206482,
+    "semanticLoss": 0.8187857922166586,
+    "centreLoss": 0.5070827541640028,
+    "foregroundDice": 0.6734324347369427,
+    "cases": 16,
+    "skeletonVoxels": 16683,
+    "skeletonCoverage": 0.9769825570940478,
+    "affinityFalsePositiveRate": 0.07622901877529357,
+    "backgroundFalsePositiveRate": 0.00642229688354037,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9926871665767548,
+        "precision": 0.3588525279782571,
+        "voxelsPerReferencePoint": 30.920517892465384,
+        "backgroundFPR": 0.005098224302529036
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9824971527902655,
+        "precision": 0.4724274327095507,
+        "voxelsPerReferencePoint": 20.957921237187556,
+        "backgroundFPR": 0.0018385533670119201
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9576215308997182,
+        "precision": 0.5841493022568455,
+        "voxelsPerReferencePoint": 14.196187736018702,
+        "backgroundFPR": 0.0007155411141618678
+      }
+    ],
+    "centreCoverage": 0.9926871665767548,
+    "centrePrecision": 0.3588525279782571
+  },
+  "retention-0813/real": {
+    "loss": 2.710377022624016,
+    "semanticLoss": 1.2022401317954063,
+    "centreLoss": 0.4897204141598195,
+    "foregroundDice": 0.43300717959418594,
+    "cases": 8,
+    "skeletonVoxels": 3045,
+    "skeletonCoverage": 0.9875205254515599,
+    "affinityFalsePositiveRate": 0.09868074988953647,
+    "backgroundFalsePositiveRate": 0.008691810691042735,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 1.0,
+        "precision": 0.23051394083758775,
+        "voxelsPerReferencePoint": 49.081444991789816,
+        "backgroundFPR": 0.006868307323399537
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.99376026272578,
+        "precision": 0.3479503448275862,
+        "voxelsPerReferencePoint": 29.761904761904763,
+        "backgroundFPR": 0.002718602947226543
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9763546798029556,
+        "precision": 0.46891240587962885,
+        "voxelsPerReferencePoint": 19.14712643678161,
+        "backgroundFPR": 0.0011532071952762878
+      }
+    ],
+    "centreCoverage": 1.0,
+    "centrePrecision": 0.23051394083758775
+  },
+  "compressed": {
+    "loss": 2.4767600571115813,
+    "semanticLoss": 0.9674033994476,
+    "centreLoss": 0.5237247714151939,
+    "foregroundDice": 0.6020096655955807,
+    "cases": 48,
+    "skeletonVoxels": 59366,
+    "skeletonCoverage": 0.9032274365798605,
+    "affinityFalsePositiveRate": 0.07199964063731747,
+    "backgroundFalsePositiveRate": 0.009784548146893704,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9424586463632382,
+        "precision": 0.35912025104844847,
+        "voxelsPerReferencePoint": 25.593572078293974,
+        "backgroundFPR": 0.007558096878283758
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9156756392547923,
+        "precision": 0.47067690234318377,
+        "voxelsPerReferencePoint": 17.19846376713944,
+        "backgroundFPR": 0.0030859614359514407
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.8725533133443385,
+        "precision": 0.5779164233539252,
+        "voxelsPerReferencePoint": 11.509567766061382,
+        "backgroundFPR": 0.001284022193835941
+      }
+    ],
+    "centreCoverage": 0.9424586463632382,
+    "centrePrecision": 0.35912025104844847
+  },
+  "retention-0813/compressed": {
+    "loss": 2.908893272280693,
+    "semanticLoss": 1.2474125996232033,
+    "centreLoss": 0.5512926590939363,
+    "foregroundDice": 0.3842299030091774,
+    "cases": 24,
+    "skeletonVoxels": 10590,
+    "skeletonCoverage": 0.9171860245514637,
+    "affinityFalsePositiveRate": 0.09058081687318835,
+    "backgroundFalsePositiveRate": 0.01089122808329955,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.952880075542965,
+        "precision": 0.21153787711049463,
+        "voxelsPerReferencePoint": 43.50084985835694,
+        "backgroundFPR": 0.008964402246667705
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9268177525967894,
+        "precision": 0.3203393466885334,
+        "voxelsPerReferencePoint": 25.967799811142587,
+        "backgroundFPR": 0.0038966659494281022
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.8963172804532578,
+        "precision": 0.43464216869562194,
+        "voxelsPerReferencePoint": 16.312464589235127,
+        "backgroundFPR": 0.001735332156875069
+      }
+    ],
+    "centreCoverage": 0.952880075542965,
+    "centrePrecision": 0.21153787711049463
+  },
+  "mild": {
+    "loss": 2.18500018119812,
+    "semanticLoss": 0.8029606938362122,
+    "centreLoss": 0.5044177230447531,
+    "foregroundDice": 0.6717209412105782,
+    "cases": 16,
+    "skeletonVoxels": 17134,
+    "skeletonCoverage": 0.9764795144157815,
+    "affinityFalsePositiveRate": 0.06528832117609218,
+    "backgroundFalsePositiveRate": 0.006313520126665986,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9914789307809034,
+        "precision": 0.3686689059481987,
+        "voxelsPerReferencePoint": 29.52124430955994,
+        "backgroundFPR": 0.0051045618988793786
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.983016225049609,
+        "precision": 0.4801064760414471,
+        "voxelsPerReferencePoint": 20.21530290650169,
+        "backgroundFPR": 0.0018764431604234228
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9558188397338625,
+        "precision": 0.5887897688914177,
+        "voxelsPerReferencePoint": 13.745593556670947,
+        "backgroundFPR": 0.0007441725814143244
+      }
+    ],
+    "centreCoverage": 0.9914789307809034,
+    "centrePrecision": 0.3686689059481987
+  },
+  "moderate": {
+    "loss": 2.3511649891734123,
+    "semanticLoss": 0.8561723455786705,
+    "centreLoss": 0.549140864983201,
+    "foregroundDice": 0.6449936243576562,
+    "cases": 16,
+    "skeletonVoxels": 18704,
+    "skeletonCoverage": 0.9578699743370402,
+    "affinityFalsePositiveRate": 0.059895364613864605,
+    "backgroundFalsePositiveRate": 0.007277599397678429,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9820893926432849,
+        "precision": 0.39084606256054394,
+        "voxelsPerReferencePoint": 25.99534858853721,
+        "backgroundFPR": 0.00546053962855528
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.963109495295124,
+        "precision": 0.5014368324777246,
+        "voxelsPerReferencePoint": 18.12125748502994,
+        "backgroundFPR": 0.0020047191116068837
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9380346449957229,
+        "precision": 0.6064776142538515,
+        "voxelsPerReferencePoint": 12.41691616766467,
+        "backgroundFPR": 0.0007998042183142937
+      }
+    ],
+    "centreCoverage": 0.9820893926432849,
+    "centrePrecision": 0.39084606256054394
+  },
+  "hard": {
+    "loss": 2.894115000963211,
+    "semanticLoss": 1.2430771589279175,
+    "centreLoss": 0.5176157262176275,
+    "foregroundDice": 0.4893144312185077,
+    "cases": 16,
+    "skeletonVoxels": 23528,
+    "skeletonCoverage": 0.8064433866031961,
+    "affinityFalsePositiveRate": 0.09208846963339758,
+    "backgroundFalsePositiveRate": 0.015852345876398125,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.8752550153009181,
+        "precision": 0.3207105663368439,
+        "voxelsPerReferencePoint": 22.41388983339,
+        "backgroundFPR": 0.012174684268052072
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.8289272356341381,
+        "precision": 0.429890227736487,
+        "voxelsPerReferencePoint": 14.267893573614417,
+        "backgroundFPR": 0.0054092998579306235
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.7598605916354981,
+        "precision": 0.5352552502389636,
+        "voxelsPerReferencePoint": 9.15989459367562,
+        "backgroundFPR": 0.002322640373890871
+      }
+    ],
+    "centreCoverage": 0.8752550153009181,
+    "centrePrecision": 0.3207105663368439
+  },
+  "new-1447/real": {
+    "loss": 1.729345753788948,
+    "semanticLoss": 0.43533145263791084,
+    "centreLoss": 0.5244450941681862,
+    "foregroundDice": 0.9138576898796995,
+    "cases": 8,
+    "skeletonVoxels": 13638,
+    "skeletonCoverage": 0.9746297111013346,
+    "affinityFalsePositiveRate": 0.07182348067742993,
+    "backgroundFalsePositiveRate": 0.004142545440233394,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9910544068045168,
+        "precision": 0.4112021485067987,
+        "voxelsPerReferencePoint": 26.865669452998972,
+        "backgroundFPR": 0.003320156547108036
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9799824021117466,
+        "precision": 0.5159797078172776,
+        "voxelsPerReferencePoint": 18.992227599354745,
+        "backgroundFPR": 0.0009545339378091768
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9534389206628537,
+        "precision": 0.6217820894853584,
+        "voxelsPerReferencePoint": 13.090775773573839,
+        "backgroundFPR": 0.00027590074854313284
+      }
+    ],
+    "centreCoverage": 0.9910544068045168,
+    "centrePrecision": 0.4112021485067987
+  },
+  "new-1447/compressed": {
+    "loss": 2.044626841942469,
+    "semanticLoss": 0.6873941992719969,
+    "centreLoss": 0.49615688373645145,
+    "foregroundDice": 0.8197894281819839,
+    "cases": 24,
+    "skeletonVoxels": 48776,
+    "skeletonCoverage": 0.9001968181072658,
+    "affinityFalsePositiveRate": 0.06847840892784099,
+    "backgroundFalsePositiveRate": 0.008674392991151837,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.940195998031819,
+        "precision": 0.42333718076836613,
+        "voxelsPerReferencePoint": 21.705633918320487,
+        "backgroundFPR": 0.006147375400555287
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9132565195998031,
+        "precision": 0.5260956696000697,
+        "voxelsPerReferencePoint": 15.29450959488273,
+        "backgroundFPR": 0.002272711131312988
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.8673938002296211,
+        "precision": 0.6263965933308261,
+        "voxelsPerReferencePoint": 10.466786944398885,
+        "backgroundFPR": 0.0008312950178714693
+      }
+    ],
+    "centreCoverage": 0.940195998031819,
+    "centrePrecision": 0.42333718076836613
+  },
+  "legacy-real": {
+    "loss": 1.88962189356486,
+    "semanticLoss": 0.5344966579051245,
+    "centreLoss": 0.5443622945320039,
+    "foregroundDice": 0.7941746069528713,
+    "cases": 42,
+    "skeletonVoxels": 37605,
+    "skeletonCoverage": 0.9858529450870894,
+    "affinityFalsePositiveRate": 0.09256852648025028,
+    "backgroundFalsePositiveRate": 0.007581370361473263,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9949474803882462,
+        "precision": 0.37507606155794404,
+        "voxelsPerReferencePoint": 36.6220981252493,
+        "backgroundFPR": 0.0051377606377712316
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9874750698045472,
+        "precision": 0.4967746314129585,
+        "voxelsPerReferencePoint": 25.076266453928998,
+        "backgroundFPR": 0.0015560933077346584
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.970748570668794,
+        "precision": 0.6118297186369199,
+        "voxelsPerReferencePoint": 17.188911049062625,
+        "backgroundFPR": 0.00044602087970745303
+      }
+    ],
+    "centreCoverage": 0.9949474803882462,
+    "centrePrecision": 0.37507606155794404
+  },
+  "retention-0813/legacy-real": {
+    "loss": 2.0217209877791227,
+    "semanticLoss": 0.6206214593516456,
+    "centreLoss": 0.555282841126124,
+    "foregroundDice": 0.7242198174250395,
+    "cases": 27,
+    "skeletonVoxels": 17343,
+    "skeletonCoverage": 0.9910050164331431,
+    "affinityFalsePositiveRate": 0.1060071432273285,
+    "backgroundFalsePositiveRate": 0.009266502923601455,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9965403909358242,
+        "precision": 0.3405522170594333,
+        "voxelsPerReferencePoint": 39.77195410251975,
+        "backgroundFPR": 0.006034202787940309
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9916392780949086,
+        "precision": 0.47325432096582787,
+        "voxelsPerReferencePoint": 26.09139133944531,
+        "backgroundFPR": 0.001879727621099742
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9775125410828577,
+        "precision": 0.5953039616931224,
+        "voxelsPerReferencePoint": 17.73747333218013,
+        "backgroundFPR": 0.0005551328592425994
+      }
+    ],
+    "centreCoverage": 0.9965403909358242,
+    "centrePrecision": 0.3405522170594333
+  },
+  "legacy-compressed": {
+    "loss": 3.327571908632914,
+    "semanticLoss": 1.5961791932582856,
+    "centreLoss": 0.5206767161687215,
+    "foregroundDice": 0.20876687123001605,
+    "cases": 30,
+    "skeletonVoxels": 56741,
+    "skeletonCoverage": 0.7031071006855713,
+    "affinityFalsePositiveRate": 0.04090160210993064,
+    "backgroundFalsePositiveRate": 0.0564079433933644,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9306321707407342,
+        "precision": 0.057477995048021285,
+        "voxelsPerReferencePoint": 68.80199503004881,
+        "backgroundFPR": 0.11871322577714433
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.8266509226132779,
+        "precision": 0.11531667671989587,
+        "voxelsPerReferencePoint": 27.756824870904637,
+        "backgroundFPR": 0.04371238556540499
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.686611092508063,
+        "precision": 0.2269731957707176,
+        "voxelsPerReferencePoint": 10.32613101637264,
+        "backgroundFPR": 0.013455056051846532
+      }
+    ],
+    "centreCoverage": 0.9306321707407342,
+    "centrePrecision": 0.057477995048021285
+  },
+  "retention-0813/legacy-compressed": {
+    "loss": 3.520779836745489,
+    "semanticLoss": 1.7326194899422782,
+    "centreLoss": 0.5333266414347149,
+    "foregroundDice": 0.14423835770801288,
+    "cases": 21,
+    "skeletonVoxels": 26120,
+    "skeletonCoverage": 0.6341883614088821,
+    "affinityFalsePositiveRate": 0.046101917901006415,
+    "backgroundFalsePositiveRate": 0.05519132100281956,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9201378254211332,
+        "precision": 0.03371518403690457,
+        "voxelsPerReferencePoint": 103.20895865237367,
+        "backgroundFPR": 0.12447301639562804
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.8004977029096478,
+        "precision": 0.06845304248518805,
+        "voxelsPerReferencePoint": 39.95987748851455,
+        "backgroundFPR": 0.04577723506562412
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.64552067381317,
+        "precision": 0.144150563775831,
+        "voxelsPerReferencePoint": 13.70042113323124,
+        "backgroundFPR": 0.0139882315308695
+      }
+    ],
+    "centreCoverage": 0.9201378254211332,
+    "centrePrecision": 0.03371518403690457
+  },
+  "new-1447/legacy-real": {
+    "loss": 1.651843523979187,
+    "semanticLoss": 0.3794720153013865,
+    "centreLoss": 0.5247053106625875,
+    "foregroundDice": 0.920093228102969,
+    "cases": 15,
+    "skeletonVoxels": 20262,
+    "skeletonCoverage": 0.9814430954496101,
+    "affinityFalsePositiveRate": 0.08328105802697734,
+    "backgroundFalsePositiveRate": 0.004556082575596108,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9935840489586418,
+        "precision": 0.40971823179504485,
+        "voxelsPerReferencePoint": 33.926019149146185,
+        "backgroundFPR": 0.0035283943786403025
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.9839107689270555,
+        "precision": 0.5184733633713225,
+        "voxelsPerReferencePoint": 24.207383279044517,
+        "backgroundFPR": 0.0009750785215283926
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.9649590366202744,
+        "precision": 0.6268360647995088,
+        "voxelsPerReferencePoint": 16.7193761721449,
+        "backgroundFPR": 0.0002501341308550824
+      }
+    ],
+    "centreCoverage": 0.9935840489586418,
+    "centrePrecision": 0.40971823179504485
+  },
+  "new-1447/legacy-compressed": {
+    "loss": 2.8767534097035727,
+    "semanticLoss": 1.277818500995636,
+    "centreLoss": 0.4911602238814036,
+    "foregroundDice": 0.35933340278135684,
+    "cases": 9,
+    "skeletonVoxels": 30621,
+    "skeletonCoverage": 0.7618954312399987,
+    "affinityFalsePositiveRate": 0.03719116278583453,
+    "backgroundFalsePositiveRate": 0.05905061445084109,
+    "centreCurve": [
+      {
+        "threshold": 0.5,
+        "coverage": 0.9395839456582085,
+        "precision": 0.11050463712547887,
+        "voxelsPerReferencePoint": 39.45253257568336,
+        "backgroundFPR": 0.1062021688683724
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.848959864145521,
+        "precision": 0.20739912424369067,
+        "voxelsPerReferencePoint": 17.34750661310865,
+        "backgroundFPR": 0.03922724863657483
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.7216616047810326,
+        "precision": 0.3569323862141542,
+        "voxelsPerReferencePoint": 7.447829920642696,
+        "backgroundFPR": 0.01229692562623496
+      }
+    ],
+    "centreCoverage": 0.9395839456582085,
+    "centrePrecision": 0.11050463712547887
+  },
+  "step": 874,
+  "selectionScore": 1.8148367321312737
+}

@@ -1,0 +1,3122 @@
+{
+  "files": [
+    {
+      "path": "assets/fiberpred-pherc0125-256.png",
+      "bytes": 1600379,
+      "sha256": "2849a9fad83a462472a03cb90a212ab233eebaa5b542ba294653b5cc6151008a",
+      "kind": "matched-comparison-result"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/data.py",
+      "sha256": "25d44ce3b6e3dde0fbb9ae13c91a1b73967d9bf90bf6b3f80b9576fcee2d989f",
+      "bytes": 4288,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/geometry.py",
+      "sha256": "aec14d3b93765c89d07aa79cd11f387fdc7b0a7dc0044b142279393dc6159af4",
+      "bytes": 6767,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/network.py",
+      "sha256": "91dc696d9e08709896e3a86be38d2c6af9da433ef03cd5c1c8ad92ca61f52a92",
+      "bytes": 5822,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/prepare.py",
+      "sha256": "1be6bc037203e120fc0877b6706c5ed9bc95b8a18200b93b83895194f5cc4934",
+      "bytes": 5335,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/reliable_io.py",
+      "sha256": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e",
+      "bytes": 724,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/baseline.json",
+      "sha256": "33765bfcc5a0d8270841348b4c79f0ddf35967b2d9bccf3e8f06ee0c028f59f4",
+      "bytes": 17535,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json",
+      "sha256": "c9bb9f3f2751d0e2f3ced61a3d5febc5f58b966995403c624d5e91a967504fc6",
+      "bytes": 2151,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/metrics.jsonl",
+      "sha256": "182ef574d10070b3105f76122ff80f6e2a95cc258a979004c647735e88d6971b",
+      "bytes": 3657459,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/phase.json",
+      "sha256": "1853a439f9b5a2de2bfbc9170498b98321b16fa2610b1819aadbc29002fbfad0",
+      "bytes": 181,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/prepared.json",
+      "sha256": "d04f9de40979f3778b9c0c5ffc790ae646e3bcdf61ea27f4a8784900941fbcd8",
+      "bytes": 185,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/snapshot.json",
+      "sha256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "bytes": 283543,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/status.json",
+      "sha256": "680198fe6ed6f0be38a71857aa00003533e931f3e967c4a5da52950c6a305618",
+      "bytes": 123,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/validation-latest.json",
+      "sha256": "b346a8eb90823e70c07cffb422eaba3bd1dc3d4cad3634d847dcbd69e6f2db16",
+      "bytes": 17669,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/validation.json",
+      "sha256": "553fc3e919f70aba852838a48c19288b4c8af80d2dadfc6f96b97fe4b3f9eb90",
+      "bytes": 119604,
+      "kind": "recovered-historical-manifest"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/settings.py",
+      "sha256": "e72ef996cb37bac495a911e91a4b27036cf246f9d88bf2c404d2b93699802781",
+      "bytes": 430,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-centre-compression-v6/train.py",
+      "sha256": "7e12592c216ea1013059a82be23a0bb3deaa3fd1056017c948c8744cff09b08f",
+      "bytes": 15470,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/annotation.py",
+      "sha256": "334d012d7f44ee241efb1d769c3033afc38aef25ac03df819321b57a0207bb3c",
+      "bytes": 2453,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/data.py",
+      "sha256": "dcf7b71d84f0bd812b9a39ce07924c55bf0bfd188dd73b30d9ef0038611e4f82",
+      "bytes": 7407,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/material.py",
+      "sha256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "bytes": 5125,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/network.py",
+      "sha256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "bytes": 5239,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/prepare_run.py",
+      "sha256": "a4e558ddd137bcbbde54db50c066ca1d241ce7ae21fe1c7e8037fb5934e6de5f",
+      "bytes": 3096,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/reliable_io.py",
+      "sha256": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e",
+      "bytes": 724,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/baseline.json",
+      "sha256": "77c594e033a6a627e3a4c27c6138f928872c4ee3245a5129c3f2c7acd0a1579a",
+      "bytes": 683,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/config.json",
+      "sha256": "272b027b27d402da0c3a61bc823ef2ff2c461b8a74a39c7601fea5660c67ee94",
+      "bytes": 1714,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/metrics.jsonl",
+      "sha256": "3d931bf19908b360fb50f386b7aeb98bdc803a41345df88e4920a9644cb41ac2",
+      "bytes": 3130625,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/snapshot.json",
+      "sha256": "aa3bc7d1854cd5aa60185de96c61d78e5cbf27a2f09fa98ce7cbe2e7bc726067",
+      "bytes": 231683,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/status.json",
+      "sha256": "3ebd532d7dd90bcaf840cb35f2c4aec3e9d8ec81beba939a434cee8649780e0b",
+      "bytes": 161,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/validation-latest.json",
+      "sha256": "83fa606fe0b0e05f5f9bbeaedb0a698a5771e7945f051bbd00e438dc0ea22f57",
+      "bytes": 686,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/runs/multiscroll/validation.json",
+      "sha256": "d16ccaf345985eaaab3d4a97843e04dd8a6453d0d0a8736c7750f274a4a82688",
+      "bytes": 33122,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-multiscroll-v4/train.py",
+      "sha256": "aa98c544ab9dd050c94abeae9e9bad47eed9fdfa19c3bc437201ec3b6a2a7887",
+      "bytes": 12519,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/data.py",
+      "sha256": "0313b01f07bca18a592d96113958d0089057f4865ee2eb4a8e0e3d679c5f4f8e",
+      "bytes": 6710,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/material.py",
+      "sha256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "bytes": 5125,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/network.py",
+      "sha256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "bytes": 5239,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/prepare_run.py",
+      "sha256": "a137b3640ab39f44c1e1e558eaa9c1ef2d53c91afc9dd68364dddfac0ac4d8f5",
+      "bytes": 2976,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/reliable_io.py",
+      "sha256": "75918d4924f8deb27007d248873b66569f8dd739f3af7aed9f295236616616d9",
+      "bytes": 641,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/baseline.json",
+      "sha256": "c7d3167f6839e873c6bf6026e36706e864759e2a9247116869e893428a80651d",
+      "bytes": 711,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/config.json",
+      "sha256": "bf5abebe4887ed6121c9bcc4006f409d955a659b671afd3ba99677814d74d3be",
+      "bytes": 1501,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/phase.json",
+      "sha256": "0e55321555691b179574031d121692cb76243ec68b070fb1bb0723fe17d87cda",
+      "bytes": 759,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/prepared.json",
+      "sha256": "855ae6c0a8b07a6a4db59f1ee96d47ec945d9a13f4c16bda187c19bd2b396ad4",
+      "bytes": 183,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/snapshot.json",
+      "sha256": "c9859b6a3d1b9425f41f935a6c6b85b984e13620b27f1d131972eac4db636ed2",
+      "bytes": 97957,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/status.json",
+      "sha256": "6e60943d471ec7a27263f5e05b667b837ed0f4dd09fbf63f5cfb618c776d7498",
+      "bytes": 169,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/validation-latest.json",
+      "sha256": "f6286f1a55dca02dc31444e6491770de64d5bce58817857dae2384f004660e2e",
+      "bytes": 713,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/runs/full/validation.json",
+      "sha256": "d1b8e19efc75e0b6798c2c3aa755affbfe26e55a311dc9f033a18ace08640026",
+      "bytes": 30405,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-compression-pherc0358-v3/train.py",
+      "sha256": "1cac52e6b15259d9acfb13dd4480db36104a0fdd0ee8fd139d88e2e9a9c4ff1a",
+      "bytes": 12240,
+      "kind": "original-recovered"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/annotation.py",
+      "sha256": "334d012d7f44ee241efb1d769c3033afc38aef25ac03df819321b57a0207bb3c",
+      "bytes": 2453,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/data.py",
+      "sha256": "ad9c7e45457b069826aa4e689c34ab36e4575531f1aaf13792b14297d19d4056",
+      "bytes": 7492,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/material.py",
+      "sha256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "bytes": 5125,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/network.py",
+      "sha256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "bytes": 5239,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/reliable_io.py",
+      "sha256": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e",
+      "bytes": 724,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/baseline.json",
+      "sha256": "c6e03ca40b6cfe48a78dc6ff8431f43a30f45a6fe664aead9c9a048039bdedea",
+      "bytes": 2326,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json",
+      "sha256": "1e75ba2fb750a4086f1f90d50c652db0bfe05a977a491f88cf9ce04be5d98f3b",
+      "bytes": 2003,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/metrics.jsonl",
+      "sha256": "5c4e56ee4cae5146b0ebd2559355400eb19574d30eccbe32fc062ac5adae10b9",
+      "bytes": 373205,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/phase.json",
+      "sha256": "3e5785aa149a268cfdfb4e3c2a896cfa791301bcd258762c9d1b0906485897ed",
+      "bytes": 81,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/prepared.json",
+      "sha256": "0133c7abc696aa53ba76400b2530046f1ef0136089f9028439ee0affb8ce88a2",
+      "bytes": 159,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/snapshot.json",
+      "sha256": "e2a8f1337492a46153f711944a29d8ac581ade5831bf86537f99d68bd623b7ea",
+      "bytes": 283543,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/status.json",
+      "sha256": "c6acb2185f45f9fb244356c81e4c5e9eec41420cf7cf54e9822535569f0c787d",
+      "bytes": 159,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/validation-latest.json",
+      "sha256": "59551d9b1ed622a65dd694ee7080a5890c2f8835cc0fedce92f1ba6ad2460bd9",
+      "bytes": 2333,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/validation.json",
+      "sha256": "c6ba638d9008c0d1ed3b2a92997442772f9e1e81a79d8c8e413725f57fe2ee35",
+      "bytes": 40475,
+      "kind": "original"
+    },
+    {
+      "path": "original/fiber-full-8000-v5/train.py",
+      "sha256": "79813b1be4738be4925548efe80a9356f54c4d0705ab5f35075db8bf6aaafa30",
+      "bytes": 14211,
+      "kind": "original"
+    },
+    {
+      "path": "original/hf-export/export.py",
+      "sha256": "247805bc276a0a1a308c571514b8e34a4d66de0ee1610a6e33a11099bb3727e1",
+      "bytes": 2546,
+      "kind": "original"
+    },
+    {
+      "path": "original/hf-export/verification.json",
+      "sha256": "5974dfd7c6bd55b282da379493610a853840014372e7130f9483d8fee0313122",
+      "bytes": 1589,
+      "kind": "original"
+    },
+    {
+      "path": "provenance/358_finetuned_final.json",
+      "sha256": "fe67ad521fdbe05a31333825f212ee1b3278116468590283cc3ebad66a32c5ce",
+      "bytes": 1752,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/50M_MULTISCROLL_8000.json",
+      "sha256": "2c5893051c6a0a0f276cf0adb7d7afaf50082a309f293e8f49da0f818fc44b99",
+      "bytes": 559,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/backbone-tensors.json",
+      "sha256": "03e7c1c87bfe579b163dfd5657a42e81778bedaac455922ff7bf6a3b265aa09c",
+      "bytes": 293585,
+      "kind": "verified-source-checkpoint-derived-receipt"
+    },
+    {
+      "path": "provenance/base-model/dataset.json",
+      "sha256": "4b6396a383612c66e391c822ded5341f90dcf59d6af638ccf9a7bf732c8e1039",
+      "bytes": 269,
+      "kind": "original"
+    },
+    {
+      "path": "provenance/base-model/license-metadata.json",
+      "sha256": "6b70d26181bc0eded32f2bf334ba1c7482b07887551db7c2ce20672090509eac",
+      "bytes": 270,
+      "kind": "public-source-metadata-receipt"
+    },
+    {
+      "path": "provenance/base-model/plans.json",
+      "sha256": "52ad3c12d15fe651a4841912287f0cd358f43839889a5b0690186aca0c6aaa93",
+      "bytes": 11152,
+      "kind": "original"
+    },
+    {
+      "path": "provenance/checkpoint-embedded-config.json",
+      "sha256": "c9bb9f3f2751d0e2f3ced61a3d5febc5f58b966995403c624d5e91a967504fc6",
+      "bytes": 2151,
+      "kind": "verified-source-checkpoint-derived-receipt"
+    },
+    {
+      "path": "provenance/checkpoint-verification.json",
+      "sha256": "f55c467f52c1db5c36e17e6ae57ae7b2b5ef36ac27c93b8df9734e4afd3e00f1",
+      "bytes": 318,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/comparison-pherc0125-256/original-provenance.json",
+      "bytes": 566,
+      "sha256": "40c40a46ae0adb953145b7602c176c908149bc7b35d97b0bb506f03db9ce730e",
+      "kind": "matched-comparison-provenance"
+    },
+    {
+      "path": "provenance/comparison-pherc0125-256/ours-provenance.json",
+      "bytes": 562,
+      "sha256": "95fcb9383b9f182579a1215e3c090cf939e32e8498c1e870787f0f7d8073a66e",
+      "kind": "matched-comparison-provenance"
+    },
+    {
+      "path": "provenance/comparison-pherc0125-256/provenance.json",
+      "bytes": 5341,
+      "sha256": "06612e67c27a7b7b5541fd46fbae13a14b27813ab05461499f90a2833b85d2f5",
+      "kind": "matched-comparison-provenance"
+    },
+    {
+      "path": "provenance/comparison-pherc0125-256/render-provenance.json",
+      "bytes": 404,
+      "sha256": "e6a8044459d035409858b66bf94913fbcc184e20b7de6b67480f0a25d60ff341",
+      "kind": "matched-comparison-provenance"
+    },
+    {
+      "path": "provenance/ct-source-metadata.json",
+      "sha256": "451945d3635c4d11b3dbd869d6fe2cba0d688c00d20750233ea00bc78c1c48db",
+      "bytes": 8342,
+      "kind": "public-source-metadata-receipt"
+    },
+    {
+      "path": "provenance/environment-inspection.json",
+      "sha256": "37a8dcd78b23f048350de2c719b27218e3c2a53411e155b6fc526fad2f433da2",
+      "bytes": 1079,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/huggingface-release.json",
+      "sha256": "45c857292233866a8e293f3b3bbe260f52a1a330581ee83486f96ea836088509",
+      "bytes": 956,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/inference-comparison-method.json",
+      "sha256": "fddf2d70b7a30ddb0da96659f7e22f8c3a41a942040a08e54effaf30e7645d7a",
+      "bytes": 1439,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/manifest-recovery.json",
+      "sha256": "94803f73b430c1bad9ead61f23532e3f109d3a6f9a65d494f76a929639ed5e82",
+      "bytes": 989,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/packaging-checks.json",
+      "sha256": "239302329df87b535a27ac66e7031454ba312b8575ffd3f8d24b3913bb3908b1",
+      "bytes": 784,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/baseline.json",
+      "sha256": "31fe1772b31238c34e0592d13e1c103cab0916a12f112d1904d216d6a9739327",
+      "bytes": 710,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/config.json",
+      "sha256": "4f12272a04aeb4a7d1493f3a773b5eac603da2a1f4001972ebe0d69e00403325",
+      "bytes": 1508,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/metrics.jsonl",
+      "sha256": "369f1b8004ff1e7dc66eb41911649def6693fb6569473a67d965a434e487febe",
+      "bytes": 496308,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/phase.json",
+      "sha256": "378ff2e3dce04f64a7cfd0b0fb83b7ff3d75a7bd0c243fd203b372c4d5381d37",
+      "bytes": 699,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/snapshot.json",
+      "sha256": "fad4e4c0c250bcc593c3cd40e9e9c07c2ed8f49cab00cd8ab8d3795edd4b0f9f",
+      "bytes": 67122,
+      "kind": "recovered-manifest-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/status.json",
+      "sha256": "e75c72428d63e1fb0fbd92c4bce1689dfd05cba135109c496a827ce2d27405d0",
+      "bytes": 165,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/validation-latest.json",
+      "sha256": "266a9208a872b8ae14f23bfcbc35178f59d67cd9294d2efb42d5aa28e7568687",
+      "bytes": 711,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/expanded-01/validation.json",
+      "sha256": "d1b8e19efc75e0b6798c2c3aa755affbfe26e55a311dc9f033a18ace08640026",
+      "bytes": 30405,
+      "kind": "recovered-manifest-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/pre-v3/initial/baseline.json",
+      "sha256": "63a9ca53fc82b0c25270855b25a1033ba1d930c5d3b4fdbcc12f2409ebdf7110",
+      "bytes": 705,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/initial/config.json",
+      "sha256": "5b48e127710b2fc1e2ebee1b953bd87aa307908415358413b0363e5405240a66",
+      "bytes": 1504,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/initial/metrics.jsonl",
+      "sha256": "960e1de649b0b5c1e58d8943c046cdc75439e26ea07270175d3b1e0ec4ca44cd",
+      "bytes": 464099,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/initial/snapshot.json",
+      "sha256": "3b11afec8bbc0599ae3e3e72206770a6a3faba97878ede9fafef85146c245151",
+      "bytes": 24077,
+      "kind": "recovered-manifest-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/pre-v3/initial/status.json",
+      "sha256": "f8ef6bf82b83c2ef1dbdd99da3c16e8e8ae906dbcd7b2d036f3e1df8e00b2a12",
+      "bytes": 166,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/initial/validation-latest.json",
+      "sha256": "0298c3f715cf07c1fcfdf167e70bd9e2add44f698fb08b35f2a71b22e4123349",
+      "bytes": 712,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/pre-v3/initial/validation.json",
+      "sha256": "d1b8e19efc75e0b6798c2c3aa755affbfe26e55a311dc9f033a18ace08640026",
+      "bytes": 30405,
+      "kind": "recovered-manifest-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z10752_y3584_x2560.json",
+      "sha256": "d068e3a08cbae2488454dd89b353120225e429ba293fc75f51eec5ba1cd83b20",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z11776_y4608_x4608.json",
+      "sha256": "cb99553ba92c4fb71609aa6be1360e6f2d817897911a66272ba634ab672989fe",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z12800_y4608_x2560.json",
+      "sha256": "16d87b111ad290612aec395f84d96c15f1c969569c5656ba6bdbe533da6fc7f0",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z13824_y4608_x6656.json",
+      "sha256": "793fd841b491074fc20cb4e1ce4fcf6c4d6a8f49cecad8ab0f18ef48186f5dbb",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z14848_y4608_x4608.json",
+      "sha256": "a0ad3f8588c195658e8ec452ab7b84de537a0fbd604685844f57255f91134488",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z1536_y3584_x6656.json",
+      "sha256": "2b761a2a45a7b3adbe6011b510f2680b26e7a4ce0a003afb8355acb60adc8295",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z1536_y4608_x6656.json",
+      "sha256": "32e880c5acc1877cf2bf59f2c758ef297b856a205406fbaa1d99ae8d18643e12",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z15872_y3584_x5632.json",
+      "sha256": "67a4caa03a56f4fbcb1ba5fad0a19b81cb991f943bfb602667317dec7af600e2",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z16896_y5632_x4608.json",
+      "sha256": "a7b72a7c0bc31114709ff017f3988a2ce8a13ea375096fa033bb26f1cde7b043",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z17920_y4608_x6656.json",
+      "sha256": "b3bc58e5c40b67bc7a5c98d9bb2408a485606096b32627ef2c0e1b865b0f512f",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z18944_y2560_x5632.json",
+      "sha256": "382b65af3b2aaed65fe3933d572404650aaf6437edafa117126685a35e8f01bb",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z19968_y2560_x5632.json",
+      "sha256": "1ef14dd7276ec84e17f3534c4ef3cf8d598b623309eec5f16496739dd45c2c98",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z2560_y3584_x2560.json",
+      "sha256": "c699cf70f8321cdbd3d34817ac345bb7731b6d0351440d90b95fc6dca95a8c48",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z2560_y3584_x3584.json",
+      "sha256": "1491d064cb81dca4dc1d31f8efe84cf6ffb02cb11244a5898b2131ba90c3ffcc",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z3584_y1536_x3584.json",
+      "sha256": "5de98eb0a130fe3592200644e12e6e4970f603dcdaeacd054163116a009221b5",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z3584_y3584_x4608.json",
+      "sha256": "51a5ee81ed9b5321dae6f8b66074eb69605f181386aac11e3bd5acad3cd0f8f3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z4608_y2560_x4608.json",
+      "sha256": "658b3cccc52f51b59a892a522f28f023f1a590fc20f8695a8cb2bc9184c543a8",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z4608_y4608_x5632.json",
+      "sha256": "c1dfc1c8c29dcde6d760a99c2b71621cfc01343838722919cac37921b8f4a954",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z5632_y3584_x3584.json",
+      "sha256": "b0ae0cad62c4cd73da2fc1bdaaa583e44130616a3bf1cb5f119d420386297844",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z5632_y4608_x4608.json",
+      "sha256": "9c3c17c113c58c37c8e0d2681b5a0ffe41782306634b25fc33b5ee7efb3b8259",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z6656_y2560_x2560.json",
+      "sha256": "a99b1ef952b69360bede18bdbb22bfacefa05f3f665e4b212229416fb01bf502",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z6656_y3584_x1536.json",
+      "sha256": "5601618b026104f69e6c4989be13a492ac9bf4a6c41a8117aeeb7d6458d31137",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z7680_y4608_x1536.json",
+      "sha256": "317ef452036a39b702be2f32f85439ceabf2ebc275cd0b8d5b440894eb2dc718",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z8704_y3584_x6656.json",
+      "sha256": "b9d2b158a2b37d2a25a6a3a773315cbaaa5936462faad4cf9265a84c05456e13",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0125-z9728_y4608_x3584.json",
+      "sha256": "fd84cde3a16e070f5f865d4c6beb51d602060da7b69049220ee3ec4bdb2b8b87",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y04257-x04368.json",
+      "sha256": "8e00c9ec0e20e05cfaf2900ab639a594c3f49c2ba374aeff7dfe9cf478a1857d",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y04257-x04880.json",
+      "sha256": "fdcb7246cad534811d7f6c9314fb5f93d747167f8bbc11ab63bc164028baa9cf",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y04769-x03856.json",
+      "sha256": "29bae4435871ccdeccd7180063424c03d9c2b77adfc7a019ce027cd8e1cb2191",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y05281-x02832.json",
+      "sha256": "9f46a7ce8a0552fb31b862f15966c70cb194798a2577e7a817e2dff03ce5680c",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y06305-x02832.json",
+      "sha256": "8654478f6dca32bc7c1a2e9253084bc1f490831b6d2c2b4266d78e4302963e89",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05220-y06305-x03856.json",
+      "sha256": "f6c2c65171b9ebd07c0ba20f8f33081b491a767e753fc966b3ae3cc22fc073d1",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y03745-x03856.json",
+      "sha256": "32839ff7bbcae6933d4f4f349e6cd0b39d3768064e9210dccfeb8f34756cb0b5",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y03745-x04368.json",
+      "sha256": "8c723d17e34da99ff27c9e721c688df62d4b140271b4a5c7d18c3b8949f0a311",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y04257-x02832.json",
+      "sha256": "7ba1858f93f38fb5136a2a668f6a8304fec5e0054e2dadfb34a0ba56eb4958b6",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y04257-x03344.json",
+      "sha256": "bb7276359a84a3dfa1f27999b8a609f3661fa240917e66dd117e3a2039b53a26",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y04769-x03856.json",
+      "sha256": "f69e32cd206f007e85c94a964e8f3a8b3dad3bb4f7832fe88f1a4832de6b3554",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z05732-y06305-x04368.json",
+      "sha256": "ece4b4d82952eca5d2c57e85c89e6434784a45589e4d0a92efad370e8c64ca25",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y04257-x04368.json",
+      "sha256": "88a2f99ba8e5acfaac6e40e9693758791c17ad6b4828881b820deae5f125f4ed",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y04769-x03344.json",
+      "sha256": "bf9d04e67a3686d1e5e11877da82fd37e41a9587281d8993fa71ec84a8b8971c",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y04769-x04368.json",
+      "sha256": "e1da44e910f17167306f1346657d4d9797277d0032bb55e1d3ef268b3a56706a",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y05793-x03856.json",
+      "sha256": "61c7b7bb5437a1cdbaa276ffa3f6dc5e55dd392f039f53e9cc997e35e7cad975",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y06305-x03344.json",
+      "sha256": "ba45bf21f5f14f07ad9b446a73e7e7609800e7e3cabfa97c3c7d018c187cb19a",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06244-y06305-x03856.json",
+      "sha256": "68faf0dc911e869968dfce5e19bb9d36941c3b78ba708bbed7af1178ba76a424",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y04257-x03856.json",
+      "sha256": "10aa59795cf2aaf3f0d0f156248d18ca3674d1ff62eaa8e9f1c40e3344bf2b06",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y04257-x04880.json",
+      "sha256": "e7d85d6cbd7be7eb6c0ddca28c67ea9dd5bab103d8b68ef88445f771ff85af15",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y04769-x03344.json",
+      "sha256": "275dfca6d4b90269a2f7b3b0f6bf50489d9810d156982632ced89da3af63f4dd",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y04769-x04368.json",
+      "sha256": "0b9c0fc81f57cc988c37f61aeb1dc5d0cde50354f201910d33c05885d3bcade4",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y04769-x04880.json",
+      "sha256": "11326e527e8efb5614f30fde605257dc29a802a419993bc759c81ecb1bffc57b",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-v5-z06756-y05281-x02832.json",
+      "sha256": "62726ceb428c3cb3ca1614e00971a0efed5f8fe50c62964a1fb907c8c26bd4c5",
+      "bytes": 386,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z10752_y2560_x3584.json",
+      "sha256": "164f64fab432acebd7c061d15525b5dbb3bdb166c3cd55baecccdeb3b8d6b98f",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z10752_y5632_x3584.json",
+      "sha256": "76f712e7093c18f059ad19a6680f42af10e1ba96d687d6f02afb007ca57b35de",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z1536_y4608_x2560.json",
+      "sha256": "07be8822ae4e0aaee8522c72d3e577953e291112faf2b752cf3623fa76d9c946",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z1536_y4608_x6656.json",
+      "sha256": "3ff38b50163277e6198a294bfc51249525ffa604b000e2b65586a2aac46d7aad",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z1536_y6656_x5632.json",
+      "sha256": "021302d576b256fde2be10a1fb3b4272682e1bd41a6bf9f1130ec545773a930b",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z2560_y2560_x1536.json",
+      "sha256": "32094b9bb64f22a4e0a39d69a306dbf9c527bdc15ba8c5ada342b118ea2fd8ea",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z2560_y4608_x2560.json",
+      "sha256": "c7008b835cfbf8dec4eaf3ad0cfa71092f70acb529063a74b0bd81ca9f23b7e0",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z2560_y6656_x6656.json",
+      "sha256": "26153932808ea78fd96967c8dc857cb6778a2499eab119eb30a61801294611f6",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z3584_y5632_x3584.json",
+      "sha256": "1539c3e6f32278057f0349c004c1218a1f7b56ad94181a23ee8a698cab9ee27b",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z3584_y6656_x3584.json",
+      "sha256": "aa83ac70dce068f1e59b8a727a643791c18215d7e55f0fa842f06f857770f2a1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z3584_y6656_x6656.json",
+      "sha256": "9a83b3fbfe8518687a74ba9030c66cd2ed02f565c5bf160f23bab6334bceab65",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z4608_y4608_x4608.json",
+      "sha256": "48f86603f64c5d87391cb5986ad1ae35b5a20b4bdc5b2b0967636043de820342",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z4608_y5632_x2560.json",
+      "sha256": "e1f73bb64a198f7ce7ce64882cf3bbe6ead8eda8aa829b4f6b6487666d7e81b4",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z512_y6656_x6656.json",
+      "sha256": "99683b6938322876597d6a2e1becf5023617f0b6e45349d51fe8cf3dc81ea64a",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z5632_y4608_x2560.json",
+      "sha256": "ce54e8cf15c617d6df527deed2c72597d831e3d74f199193c999054275308ff1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z5632_y5632_x3584.json",
+      "sha256": "54a4034f4d1cf78244df9b8d6e184e18eb4efd80cc76edd99b448ea98fe9ed79",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z6656_y4608_x4608.json",
+      "sha256": "0aed4fb6dd6e8d2013c883d0f7b240e79aed79c6e8a3b5712b8185cd7111d9a6",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z6656_y6656_x4608.json",
+      "sha256": "0d1820614e24129c507bc5213dc3f7bf42fff5ceaa85710cdeb6e1c847dac1c0",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z7680_y4608_x3584.json",
+      "sha256": "3bbc10905cd17c29873d395487116fd570659abfd44d4ed7ddb2957ba3b82bc6",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z7680_y4608_x4608.json",
+      "sha256": "7434703eeb14766ca561b68610109fe7bd12ca01ad3a1993d075a329d73475bb",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z8704_y2560_x3584.json",
+      "sha256": "2deb1806e993d94b1bde42bc4125d74697219025cf8c98e6d807dd401958a685",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z8704_y5632_x4608.json",
+      "sha256": "0b62b22249ad6ee263cb55257c72efca8af1313e9b2a4164cb6645108521c344",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z9728_y3584_x4608.json",
+      "sha256": "5f252d9ed3a992affef67bb6a5f0980cb39a0590812b4b5beb3f1605a495f244",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0175A-z9728_y5632_x7680.json",
+      "sha256": "43798197e503a882bbf191ae967d9ec1b132058f0c7051be9bd794b900d0a5f1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z10752_y3584_x3584.json",
+      "sha256": "e3d29cb751bd390ec2c08c3c2b59c2a2a7dc9d689ab76f432d69a0080c6040fb",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z11776_y5632_x2560.json",
+      "sha256": "e0e4183546ccb0ad7e1d47842b5b0afc535dfb07ec3f16588fb18c5058769c25",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z12800_y4608_x2560.json",
+      "sha256": "f83386bc000e2e84343525536a29fd1b054be494f232ea540303c104037fc271",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z13824_y5632_x2560.json",
+      "sha256": "9a48ac44f04b193f59386b0584a947b4ba72b84bcb0524e75057ac99bffc9454",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z14848_y3584_x4608.json",
+      "sha256": "95c4f483b5f2ffbafa4f698848829bf5ab4a11517fd628e9a63dfd399ffcaff4",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z1536_y4608_x5632.json",
+      "sha256": "822938d210675c6b7e23069abc1ece45d3593b8aab4af49eec245530718aa961",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z1536_y5632_x5632.json",
+      "sha256": "cee6e503c0f9401c47ffa41193f2eac0f50705451e57c8d4406819607770ffe6",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z15872_y3584_x2560.json",
+      "sha256": "8021fb295293e3383be7f35e8642931160faa28c7df7a57a2839a08e8c17159d",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z16896_y3584_x3584.json",
+      "sha256": "6865e7a7464862dd0c862610fb71590141fb9b32c3be64d8449b96f3614fb39c",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z17920_y1536_x3584.json",
+      "sha256": "59fbaef10301f4a08dabe13fcfb7eeae69ab7e7879f899bb98e16cfbd08b439b",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z2560_y3584_x3584.json",
+      "sha256": "0d560aa64317c806720fdb028fd1d451387084819d53ae9c61d5f03eb9964b3e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z2560_y5632_x4608.json",
+      "sha256": "ec4d78bdc8a3ed7f33af68ffec67ab0c1c6d1cc50a5b2f5e3a93ac8af25858e6",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z3584_y3584_x2560.json",
+      "sha256": "a28d17fa1805f1b940760a4f80b4678256d7c830ac0252cc758b52b831e2a181",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z3584_y4608_x3584.json",
+      "sha256": "e5bcbe77c9a2fbda4bdf617b557705c9cd9f314a54c462339eb4111a73adc27e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z4608_y4608_x4608.json",
+      "sha256": "6de784768b4f1b5ff8b59e29d923cc6636277a46cf7cf036e419f9265f82c4a0",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z4608_y4608_x5632.json",
+      "sha256": "55236a28bda4109578c77556a918fcb9b0a6633fe965a501ed631ff4afa05f75",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z5632_y3584_x5632.json",
+      "sha256": "9ea1972a87c1c1da6b08d8583a22a31eb1bdba81e92ed4ee3d00151e66480934",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z5632_y6656_x5632.json",
+      "sha256": "5135823d6702525eb0aba87db40e6b2ff3af72e269360a220c9803158aa255b0",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z6656_y5632_x2560.json",
+      "sha256": "0e4e0dbad0214cf7d9321e8cc6b624b7169a6dc6e4476d09f1b4dd3cd8b9c226",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z6656_y5632_x5632.json",
+      "sha256": "538d0c23a9aaddd7c0569bbb27247fb6e57c6bb805ad4d3cf40d58f25e736fb3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z7680_y4608_x1536.json",
+      "sha256": "0c99ad5a621b48d24680a9ccd8654462a40e84dba89713636412fba8c27f28bb",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z7680_y5632_x1536.json",
+      "sha256": "37eceb2357ce19c04a0607af61b10220e4dece29feed7739d8f7812486ff2f32",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z8704_y5632_x2560.json",
+      "sha256": "ddec087f69c6857ebb99f68ed7e7a6409307fc08a03200ec423ef8e904a3bcb2",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0191-z9728_y2560_x4608.json",
+      "sha256": "775fa5865bf4193643f67ad5eb687b1198dd94f231ecb89a4e1091901650057d",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z10752_y2560_x4608.json",
+      "sha256": "a1c8cad484bd75d3d3ed75a3d89182473cc657422736dfb2bb0166d1d0e7c9a7",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z11776_y1536_x5632.json",
+      "sha256": "f4c1414786488f41e2a5f0710d3172c4996036eda6b4a752c245dff7d025e105",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z12800_y3584_x5632.json",
+      "sha256": "a948308633ef8072d58b6c67466b0712fa34f918a80c03994588a1da7838ed27",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z13824_y1536_x3584.json",
+      "sha256": "6c008e103767a9e6d658308436581b1614b6565749e883ecb329ab3c1ad9da4f",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z14848_y3584_x2560.json",
+      "sha256": "e84cc10f450e29328f78647778a1853c52cfd7131055a58eda4eaf6349df8672",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z1536_y4608_x4608.json",
+      "sha256": "c1bae0d118fa5b1447b9670e8e33a080824e7fd43743a3c6d36a24458080f668",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z1536_y5632_x4608.json",
+      "sha256": "f51204285c636c3790d14c0543d007c02734ff51e6adf9c74db75189fd996134",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z15872_y2560_x3584.json",
+      "sha256": "31093865010b429801efd7d03bc16d4a05d9c7f70dde50c0c85fa491d1e045f1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z16896_y4608_x1536.json",
+      "sha256": "589f0c85e5485de17d890fd70943aefc1998f9e275bf3d5653ccafa83650ae4b",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z17920_y3584_x3584.json",
+      "sha256": "b882e1f5c400d3cb2fa6ec4e181263b75180e9f71406ef3076a2d660bbd4723f",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z2560_y4608_x1536.json",
+      "sha256": "5b5bba02fb088de78255809ee524e6e2b97f1dcc8387df04b4b31af32067e270",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z2560_y4608_x4608.json",
+      "sha256": "1ae045b60e3df87f9e070815f1128178139fdc752fd95250ba3b6ffd9e1648bf",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z3584_y4608_x1536.json",
+      "sha256": "7b4bd47c7b8eb7b715cbfbf2f6e0bf77ac1167724e883c332535c147b540b890",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z3584_y4608_x4608.json",
+      "sha256": "8eeb4415cc2d5719c18e1e1113ebcfc46558f0f8de14590d5f85300224e4c0b1",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z4608_y3584_x1536.json",
+      "sha256": "81376065d5bf8159a86e6d8bf54bc0f12e5ea61bf19f62cfec07aa3815c1d5c7",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z4608_y4608_x4608.json",
+      "sha256": "0c72b5ef7c5c3eb643d1f3e2b33d10abfd020ea2e6a537b8b3e3e52f3765d2b0",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z5632_y3584_x1536.json",
+      "sha256": "338c5967bf0589d9c22d402ae39afaee82aab1ea8f2a1c7894fefb0caeba09b9",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z5632_y4608_x4608.json",
+      "sha256": "ffe2675e5d38f44601533d79992ccb329dbce9516c4b50e97356ebadffbc9165",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z6656_y2560_x3584.json",
+      "sha256": "3a60b39de2cbc75f75e159cf35b7e5e728dfb48bcef18eaa521974fc5bcb66a4",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z6656_y3584_x4608.json",
+      "sha256": "4d1007bae52ab9ad060d57d2f4aba16a6888014c63ce51513524140a9912aadc",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z7680_y3584_x1536.json",
+      "sha256": "cdc32483c3dbae6a28a65d792f338164bcac769f7fe135e5b96a1265380d78fc",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z7680_y3584_x4608.json",
+      "sha256": "d29de6e3930c1bb700928da6d808b19bd1c43c102566f227981a44903f168037",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z8704_y2560_x1536.json",
+      "sha256": "75c18da2f6bab3ecf2d2888e7b02010e19bc530d4ac4f7e9f43fcae0f0209aef",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z8704_y3584_x1536.json",
+      "sha256": "58c7fe197b676837b16d1526f106905212ac39762944b9bc09951063be3b65e1",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0211-z9728_y3584_x2560.json",
+      "sha256": "d3e316071115cc7eac506da12aa4cf725a8ed2ae6a897402cb426e803345b4dd",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z10752_y2560_x3584.json",
+      "sha256": "0733ff876bf3e9b689ef71e544c323be88b38f8c765bcb947dec4364718c868a",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z10752_y4608_x3584.json",
+      "sha256": "e27bb6544486a0215998b892a60e251acd3dde8c5a2c517ee202c519742b3762",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z10752_y4608_x4608.json",
+      "sha256": "295279676ff9f1ce07fc2b7c49f296b6f07fa1b2487fb7b67271e89b81e4d16e",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z11776_y2560_x4608.json",
+      "sha256": "b656cc1011abf29931d46842838786547c0b3c6465d77a689487b666867cf873",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z11776_y3584_x3584.json",
+      "sha256": "41bc7e2e02c4ac3bfb7cb23e0180f427cc3f080738084e66a2d72d07b248be48",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z11776_y5632_x3584.json",
+      "sha256": "28ee759f5377a2e6d41b6e3fe85f64fe671e5f2cc8dfed1cd9575841c2216aef",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z12800_y3584_x4608.json",
+      "sha256": "0e6b1bf7e758a59028118a76fc6bb2c902d533b3f751ed18e69eac3a951a6ee5",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z12800_y4608_x5632.json",
+      "sha256": "e08da2c2741fc47f6abc2a5515a569c9f9fcebe3defd5d0c9b687dce16836019",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z12800_y6656_x4608.json",
+      "sha256": "8743c77b5be5048a3ebbe5cc4ad54a064d70e3c0bde5e7f8007bc0839faca3db",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z13824_y3584_x4608.json",
+      "sha256": "96c377e7948efc897929b6f6960791c868ecc8680b5a9cff438f13ff428dab8f",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z13824_y4608_x5632.json",
+      "sha256": "a59886b38fd7c617ca5bd14c4215e1ba23a5859e5600a8cc0520e78bdf7d236a",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z13824_y5632_x3584.json",
+      "sha256": "38e90e3eb30deaab104cb26e0e4c6dcfa163e42f981877877487f57c95c8c2ad",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z14848_y3584_x2560.json",
+      "sha256": "b144ba7ddd594e33b0002a44c6ab0f17da8c098f3137a5b1ad974f0a5fba9629",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z14848_y5632_x4608.json",
+      "sha256": "cdbbecaac04b8b16ab2e580f3277a2d3126d1db6099d0b2629d397b2caad311a",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z1536_y6656_x4608.json",
+      "sha256": "5216cb15d71d5ff518250aad1bf9735fbead84102a62a2aafb168e677b1556aa",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z1536_y6656_x5632.json",
+      "sha256": "c6be4ec71d06fab3c92925b78c0e4b1399ebb22df56e054cbaa6304d6defbeee",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z15872_y3584_x4608.json",
+      "sha256": "954aa0e5c49ef147ae178d13804a8173e05368d68c35a761a49c2079d43264d1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z15872_y4608_x2560.json",
+      "sha256": "8da0e03213149261b5fbc4e9f5b09068157615821d5217f58e1e50533762c77c",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z16896_y3584_x4608.json",
+      "sha256": "791caa858cd737b8a90de46bda5a402d13a701a1e2583c31cd8bae46f3ba7099",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z16896_y4608_x4608.json",
+      "sha256": "d2d485ff3face3f9db84d0d08e190d12f3928e927a68b74f3d3889569c7f4a2d",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z17920_y2560_x2560.json",
+      "sha256": "aff2d27e2c4fe65200c560a4b68fee732d3262ec25f4a6391796855ced178a3c",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z17920_y2560_x3584.json",
+      "sha256": "25de3d0067c675282862febb56cb7e8e86fd1c93fb8cfbbb427080d70a7d1371",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z2560_y3584_x3584.json",
+      "sha256": "a23ed2713a49245c50bc37b060280b18640e122ba4451ad5151507c602b0a32d",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z2560_y4608_x3584.json",
+      "sha256": "43c7d5f17c216d588aa550d2cf30a358a3007573c5f1f51463105234f0a2db5e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z2560_y5632_x4608.json",
+      "sha256": "6bb24849dabca7ca80e3e88678a90b46e6ac6c091934937e13141b11b07938e6",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z3584_y3584_x2560.json",
+      "sha256": "a44a65974e19e9236156a5debe9c1a4df789bff241a4f83ea42c51438c9c1dda",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z3584_y4608_x2560.json",
+      "sha256": "d5aa478b46d8fc648b6331bbb17069524960f3b24701e9f71d123a58d3105dde",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z3584_y4608_x4608.json",
+      "sha256": "ae3950b09f4d8de2ecfe1a3ab1b4b1777f5337f44a24997dd39d4734e247a4ff",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z4608_y3584_x2560.json",
+      "sha256": "adf912fed5f5bdebdd17254b8d800e66491df95c87329bd256aa7aca0b197b6e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z4608_y3584_x3584.json",
+      "sha256": "c50b9ec6f60900c76ead7a8a607ed16eb16598852c75ad90e83cc3dfb08848aa",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z4608_y5632_x3584.json",
+      "sha256": "a75886f9b7067035ba32ad2301d8342d0c7fc1a078bd2e2d02293f67e3a84aa6",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z5632_y2560_x4608.json",
+      "sha256": "50d6ff3bfefbecf907fea5fa48f2acdf2c3c4bfa1b09117e00750d06b61fc4e0",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z5632_y4608_x4608.json",
+      "sha256": "721d352ed3860eac5fd6d336d90d444bfd5506a7e78534080a7eba6690654ff1",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z5632_y5632_x3584.json",
+      "sha256": "0c4a10d111a57e3dc2e503bf9ce0ca20fb22a29661cf9a52a7aa8519e8bb1afc",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z6656_y3584_x2560.json",
+      "sha256": "e372ccc978c823acdf68d4bd0d3d36001125806e6766ff3e7bcefdf2de91526d",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z6656_y4608_x2560.json",
+      "sha256": "4699d16995382b6f5359cadf46e5199716d8dbe477308e67c78f33166c262c34",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z6656_y4608_x4608.json",
+      "sha256": "6c266638c52e69111d999b47e9e3c450aba9c5f3b4e819142ff679a621df93b3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z7680_y2560_x4608.json",
+      "sha256": "485314fbcd2331d7f04f9ac7c4f12aff9f15859a664cd0cca0bc3586bb045014",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z7680_y3584_x2560.json",
+      "sha256": "79e09f2107adc8ff652a303d57daa8c5966e11b0b78f981d83cf1382d85dd0a1",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z7680_y3584_x4608.json",
+      "sha256": "a342cf1b34c1df399d91ce4d5fe96d91f38e8183c58140f3c7beb2076cf10360",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z8704_y1536_x2560.json",
+      "sha256": "bd1afe437da81f285f400983aaca87f993e15a4ad7e8c68637e17c9154b315c9",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z8704_y1536_x4608.json",
+      "sha256": "b362b45dd9c301200bdc75060d3f9751d9d01df9eba91e297d2040ea522a977f",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z8704_y4608_x4608.json",
+      "sha256": "19d44940b7e774df4bf1217bfc128c9434dc9dfc4cfed514eddbc72323901f6f",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z9728_y3584_x2560.json",
+      "sha256": "39ea55429a843ee97e6fa25a8f9b2461a3d37785113f1316b39165c5df1fb865",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z9728_y3584_x3584.json",
+      "sha256": "ae48a437d2ab3fad1e78ae9ca4f49a8d1c42f9f42a26914c2ed5b11f4fba908a",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0257-z9728_y4608_x3584.json",
+      "sha256": "f0eed97bdc46d664b137f0f756a37da336e06cfc4899c270c7f5e771c9523f65",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y2560_x7680.json",
+      "sha256": "de3a0467e3033e94a5d71cb728aa78c282a76801782974b1e67b83ace5d54661",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y4608_x6656.json",
+      "sha256": "d8bcf04f9a567c6f860a77d5377a887f9b68d52d796caef0595493f594f4e1f3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y5632_x7680.json",
+      "sha256": "12d83da413c21ac5b2ebabb6162655127d4ef31c6f7a68ab4bc2afc3a7f07874",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y7680_x1536.json",
+      "sha256": "e5528baf6bb1d021677f317c86fae422866d4cebf27b5ba35116576a142da6f3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y7680_x3584.json",
+      "sha256": "2372830f50861e4237480c9e70e1b483402c3e2691764fbf5063e3792a90fe30",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y7680_x9728.json",
+      "sha256": "704642e8d9d13866b930f85748907afb94508bbb9eda0666f8f0f56879268d09",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y8704_x2560.json",
+      "sha256": "a9b663399f35ed4a3c086dd797ad297b674aff9585f17101c7cf8a5a8245f243",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y8704_x7680.json",
+      "sha256": "35d45526756cd405ff98001b1cc796eb27eb6597363c0054d41bfed04d1000f3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z10752_y9728_x4608.json",
+      "sha256": "c99b8bf28bec7b0558a187f2bcc013cbd060a29a9e138bc41646d25486912fa4",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y4608_x5632.json",
+      "sha256": "6cb1375ab10742e9cacd6724154bf0cf7f0f90a38bf2bf82f1830e2d7b8e797a",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y5632_x9728.json",
+      "sha256": "aaf589330181d5a63c0575f9ae163b91c7adf47c3939be32f60f4a2eb1a51d19",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y6656_x4608.json",
+      "sha256": "4f9586508f08e71b5d80840b63499d78059d9b85268b2f6f1bd7da83339b8cb7",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y6656_x9728.json",
+      "sha256": "da4eebaed40bb276a7504278676e6258e94730a3ea32b01ff35c1106cbb2d150",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y7680_x2560.json",
+      "sha256": "a84e3c0eafc29a7184424ece7f05234c2c58b133e608f3e1f5a1fb6fa3a7e04e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y7680_x6656.json",
+      "sha256": "26ce0d8910db572d07c3f40de2433dfcf2c56b80facdd2195bb6da67ea941a87",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y8704_x1536.json",
+      "sha256": "d52b38799cf517444ed4e9e5e8206080e0cb0838f36c3bcd3abece0849734592",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y8704_x7680.json",
+      "sha256": "befa7df3e05c88f138249da5127d93aa7f5cd3b428e41d45a6a30e2987c58b6d",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y9728_x4608.json",
+      "sha256": "9150cd1856ac8e8e4f24dbe8daa0f9090b0f19e32fb75ea83347d816fbea2f81",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z11776_y9728_x5632.json",
+      "sha256": "cf083a8986dd856a38b3e38a4aef43769cd43f9565c34abcb0bb2bf4988f831c",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y10752_x5632.json",
+      "sha256": "11db6193a254850c3ccd8c91123481e43d655c2afde17d7a3a10b08aab123e32",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y7680_x4608.json",
+      "sha256": "6a3dfee005843a72cf51f6c2ad205587f56779499659bae0e49274d64e0b4f58",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y7680_x5632.json",
+      "sha256": "01ed32f6633ebb890410563980c3674179d34a754b9a564eed6a48db8e0c018a",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y7680_x7680.json",
+      "sha256": "a124b2afa40706b80dd98db5164eceb3c9af817d8f678f8e2fea5d898beb5c52",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x2560.json",
+      "sha256": "d2a8ec26ff81f207693ee5b9b213fd9fa6e3f2b4d16bf52c91f8feefa1e50527",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x3584.json",
+      "sha256": "67b44a33143a7ae3af4dea418437347ff44608a453c27eb9e578610db299e78f",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x4608.json",
+      "sha256": "d919375976d220f72677fecebb2252ff6ad2e2160902d79ce895a77328f6028b",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x6656.json",
+      "sha256": "a3d92938e6a3461fe8633ff9fb8798dee718e53b31b8faac0885b12358bcf061",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x7680.json",
+      "sha256": "b66e1462c0d00b73d88e266e6dc45851b51b22b6c9a35b995f453a3ceb0df7c3",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z12800_y8704_x8704.json",
+      "sha256": "4a27b121e808ed46dc7b41d1012048695d90463ab53d23c11e55d1eb0479ac7a",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y2560_x5632.json",
+      "sha256": "34eb46a4f346d775d099cbdb07f42d8571c953b4c31f1fc96f1874a577412248",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y2560_x7680.json",
+      "sha256": "bf7688841701133aa23e0b46bdf7b69d89c27ecf8ef091e49d8c01073d153ecf",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y3584_x3584.json",
+      "sha256": "8b3f0cc6926dbbb1931ecd2c2b259604440eb7ed8788306249d9a225906f3db9",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y3584_x5632.json",
+      "sha256": "064bcd065c7694ce3694510a03eab37e0072c145c48d097da5b75f035f8d4c04",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y3584_x6656.json",
+      "sha256": "0353c237d59596582329977c454620a0adccc9cc9453a9fdb3eaf720c3c65787",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y3584_x9728.json",
+      "sha256": "504e2d4b1659489c88509f43f2538b360c3183e300c170b9e63da6ed2790ab58",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y4608_x2560.json",
+      "sha256": "0d2acff94c9988557279ab7bab3dc47b03df52a254009231f36e0f80b5e7d780",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y4608_x3584.json",
+      "sha256": "844bb0d0a1fc9cab0f1443e3c2267fb11f046752ecec4c7a587db703577c2fc4",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z1536_y5632_x4608.json",
+      "sha256": "8fb672f3a89212089826d13e79ed2a6fe73997e04ac9bc475f358e5b6c049bf0",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y3584_x7680.json",
+      "sha256": "d950735406cb0cc9aff807de316b93dab59899ceef292fa0504f70b1c28b44ae",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y4608_x1536.json",
+      "sha256": "fd26e6d125beeede0192afdf04130c746d874566f62154838771153584c86eb5",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y4608_x3584.json",
+      "sha256": "3c491269e035e1937444070477cf11283129ab44c8c809b8b42dad8842e10678",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y4608_x7680.json",
+      "sha256": "1117acc0e57f87526a4b88b39a35fdbec4df59bf236248f616cc7155167968b2",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y5632_x4608.json",
+      "sha256": "1afc8286839da6eebafc1c689b0f451d3ac6f428fdd8b3c739235677af853b0a",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y5632_x7680.json",
+      "sha256": "33177be2d8493064209728081ab3717b04a166ca8d2fde23e77dfdcd1773cefe",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y5632_x8704.json",
+      "sha256": "e2c4ecbe1b0d7250fdb017a7ef7ea859092ffa21030cc2ee02faf87b73cbd99f",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y5632_x9728.json",
+      "sha256": "b585e697fcb51613129af97abd50f6451c18a3225b594823415f8ea66b02d6e9",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y6656_x5632.json",
+      "sha256": "81b22fe98faf91b312ce64150bcc527a7caab3087b6f3501f31dc35393d73af3",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y6656_x7680.json",
+      "sha256": "3f0c1f41a0923cb05fd85f4e11e6d7aebd7af866f4714f9c768e1907e619f922",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z2560_y6656_x8704.json",
+      "sha256": "bc074597351e9eb2136aa3f3de1afa1858a4f2ba60daf8956ce84a3d5628d228",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y1536_x7680.json",
+      "sha256": "d708e565fcf6d4ab22fe7f5b0aa287dac7c737315ffc6d3e4b4f87b8fea0f7ed",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y3584_x9728.json",
+      "sha256": "cdb34a1dbe79f7cd8047c9ebb1cea95be45f1fd39323c85eca72a0368acad5a7",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y4608_x4608.json",
+      "sha256": "9821442edeae424de4f954e56db7bdb6678968e299aee88a80f797bbfa15ae37",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y5632_x4608.json",
+      "sha256": "c76408dddfcec2386457c7b0b463a917eea576dce75d1515ec8c564a2a20d055",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y5632_x5632.json",
+      "sha256": "556bf4e281fdade7fc8d722856ec052da184afa2482a2335b1d6f99f7f5b44e4",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y7680_x1536.json",
+      "sha256": "1527e4001e8e74aae172ab962a2b68c68fd3ecdb86fe3fedb47f5e612938bade",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y7680_x5632.json",
+      "sha256": "9670427346d29cb38b2515321ea29d2762525d266676107f36ea19d38d8d6751",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y7680_x6656.json",
+      "sha256": "8299caf68e67ed553108a4c7d3aa0246479f939675b79b5c3771bba1c822a348",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z3584_y8704_x5632.json",
+      "sha256": "8f7f8abd0bbb67645506736f41521fcaefeddaac2f29150058f84af059fb76ed",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y3584_x2560.json",
+      "sha256": "c810036d5ce1c770f413e5e0847c1a79d3c28d0925f9b9dc9537c5fc616eeffe",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y3584_x7680.json",
+      "sha256": "a356aa3d070157e66d9c043299e9d0338b143e9a76fb26011cffed9e786bbf4f",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y4608_x4608.json",
+      "sha256": "f2f454856786aceda4fc27cb965abf2a4237932d41352154de313c97fffe84db",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y6656_x3584.json",
+      "sha256": "640d09680c67724b8ecb344d8270d59aebd0ba8f4f68751c3cc0b9a792280ea4",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y6656_x4608.json",
+      "sha256": "c42dc30b6c3b2f8946664f085a5738c1fab571ef78068de78f211b51e3c59efc",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y6656_x5632.json",
+      "sha256": "86476c0903f729d31095ec4aeefa0e92149fbb3ba07445a2a3b1e52bda1083cf",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y7680_x6656.json",
+      "sha256": "fc028d30003d160422977dc1c717e700789cb9c249283d182b76a71160a4239b",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y7680_x9728.json",
+      "sha256": "f95214533ce8e9e6f801e26a8f387b672249602b7279f00c1f3e18c960dd49db",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z4608_y9728_x6656.json",
+      "sha256": "6af4a72e1fc2fe172db722fa245c767e291105355eabf7874711caef31e39177",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y2560_x5632.json",
+      "sha256": "e0a6d089309683c2ff48ca5f128133bd4133dc5fcec4689473e5fe9137725fbc",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y3584_x3584.json",
+      "sha256": "ccb57e4442e1ce49c02d1a5bdf8eebfe683be4811cc456ca624f29866deb9888",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y3584_x7680.json",
+      "sha256": "52cace70d55a3732d64b0972010a15330eba7ed998200485e7ae8d422d1157b3",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y4608_x2560.json",
+      "sha256": "b6384979d22c917836848a5b191be723b5fdab9a435d7df9c99d71d3b88b82ae",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y4608_x7680.json",
+      "sha256": "d5705c0102bbe67717def1f06526b5b1acb2a9bb741ade5737c3f6371b1f87c1",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y4608_x9728.json",
+      "sha256": "1ca931f06bc8a2499aa615a848c0ec863d21a1f4e1bfccc973631f31d90a3d21",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y6656_x9728.json",
+      "sha256": "539f3216cb244baea43824330ffc22e530225eb0cbfba8084fa7da545cc5fafa",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z5632_y8704_x8704.json",
+      "sha256": "3cc26dd2a1903388af26dd4a074133089d6185306bab786cfee293531dd73968",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y4608_x6656.json",
+      "sha256": "d7f72cbafa4e56bde7d23f27c46bbb0386353e1438ca4485ded3005520a8c908",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y5632_x1536.json",
+      "sha256": "2e3a7a476fa6e040b54172c764fb2f8270deca3daf30d278715e06d37893b4ea",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y6656_x6656.json",
+      "sha256": "af7eacb29aaadbc8ec5d6039f37a9788645577f3590e8cc12a0f15b6765bd722",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y6656_x8704.json",
+      "sha256": "8f94c85a15e5e8855accfeda84d79cf576b3e1815b79760f316397a623818006",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y7680_x1536.json",
+      "sha256": "95c9071e1e8699c3d329fe8f0d58f4e15482d2e9db305e93eb2bbbc2f59f086f",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y7680_x2560.json",
+      "sha256": "ef2b4fb8b6127326e88e593df92aaab67352d44ac620fa664533a7d8cc965112",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y7680_x5632.json",
+      "sha256": "ea00dcd861c69c0ab98c74c1ad57696b87de372330e4c0b5519c5c9a8c2e081c",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y7680_x6656.json",
+      "sha256": "2f291728607a24060eb3140145ab396f45616c2682d5e7dcdf0c50e533651805",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y7680_x7680.json",
+      "sha256": "711a57b69629594e27f99dc60530b77ed48a558c51c508899d259d94f8303232",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z6656_y8704_x6656.json",
+      "sha256": "52546f950dfdd071729011e6207aa9cb486f29cef91daf697a1c0a7e0da7d6a2",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y3584_x6656.json",
+      "sha256": "5d45e5f955311af88f6a6124bf814175781b9d4519cc9f0f688bee5927b5e7db",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y3584_x8704.json",
+      "sha256": "8903bf5e989567c62b6991cfb7e37ab2c74094791b21256b5a2461ebe0a3b672",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y4608_x3584.json",
+      "sha256": "06d37c2e7ca747b09e69d28bf4e751a7d33077f1444a69c1cda1b49afd1ccdde",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y4608_x6656.json",
+      "sha256": "11b25563ed5b207cfaff220d4337ddf5f1a4ed0cfa5132b30d70063d511b96ed",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y7680_x1536.json",
+      "sha256": "cd2a4090780999e604707506d60a72db62b023a1547e24e8ffcfd16fc43c18f0",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y7680_x2560.json",
+      "sha256": "fe2e7b7b328bb86b6b133b65ee2b0f787435d664a38cd79a32cb3117fc2178ec",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y7680_x8704.json",
+      "sha256": "6c7c4dc3ff2977333e94339cf2e624e568dcdc96ebabb39769f98cb618bf2a1d",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y7680_x9728.json",
+      "sha256": "3d79dc4e7bb1c57b9120c969545693ed1a138c817416c3eb45d3be46787b9829",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z7680_y8704_x5632.json",
+      "sha256": "be479ec6b73aa0d5b8e126c3e4b70f1a0a2050422354e3bd5a9b99ac0dcfca60",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y2560_x5632.json",
+      "sha256": "51809d8983e032cdeee059847e69fd80d5ecc6db6b56822f726601de24c6a851",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y3584_x6656.json",
+      "sha256": "985bb6dcce365b9394ce90881235d6740126edd34be6564a901e43a7db04fa08",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y4608_x9728.json",
+      "sha256": "ebedf61989388fb1d6b96a36d1c6a8bd851022152142929d5c84789ca27168e2",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y5632_x2560.json",
+      "sha256": "3626fb0b3d825c5b56ee2d293d8096d2677688d3ae198be821c3d4b3f56e6672",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y6656_x1536.json",
+      "sha256": "af4a0676d021ecbe1596e14c3aa64f629ba210069121409b06f3200731ac8600",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y6656_x8704.json",
+      "sha256": "d2019dcfcfc17c24aae6e420d11f684d4d70f56d8e96cfea70328dca37eeae89",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y6656_x9728.json",
+      "sha256": "3d957e3a71517ad2ac7093646462eab6d2b0167a5f5a165178de5c8017e68f1b",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y7680_x3584.json",
+      "sha256": "a30d9d915522cb48f9b798adaaa683239ce9b9eb44bd0e6e7828713bcb6baf54",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y8704_x8704.json",
+      "sha256": "1e09795da4c3482ca99242a95ff5c2beed6e2566feaea97c05c65938be8024ae",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z8704_y9728_x7680.json",
+      "sha256": "fc11a31db2f63248bfb9e5ca8b3ef27fea2282537b38cab9b9e320975c196ca1",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y3584_x3584.json",
+      "sha256": "33be324051f2d0cc4efd9ab01e04f134dcb51dcf7f99b40ad5ccf21560b3f926",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y3584_x8704.json",
+      "sha256": "32907a2e452563ed06c95f5bd3ae8fe17845e1ad750e949ef989a5349c1ce833",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y4608_x4608.json",
+      "sha256": "1fb0e847fdb76e6a9666163db56853425695a2074e40422a2c40d53799f94dd0",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y4608_x7680.json",
+      "sha256": "a427c9e2701ad749f77d17ff31a8d3667f6d9d87fe80db0f6c7a0dd8f52f7947",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y5632_x3584.json",
+      "sha256": "a2261a4be6a527b456d0a4ea0723c570cfa22214b9821b3ef034a522b08a8af5",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y6656_x8704.json",
+      "sha256": "3463b7ad79fd65609031c983a82387ec8ddf2b895e29e4d11e33135ebcc34683",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y6656_x9728.json",
+      "sha256": "b3a64a03b5096c4bae3adc415b574b880e047bfe83431545c5f2fb6d2f8f0e34",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y8704_x6656.json",
+      "sha256": "1ac5938f50c3a5b2d9f9c7047d2034bde1ff0a764862ec1af866667914865e2d",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y8704_x8704.json",
+      "sha256": "020ee4bafaff6dc84b894f0f61d3e0ba5962206670b8c4615675eef56dfc8d35",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0268-z9728_y9728_x3584.json",
+      "sha256": "35f5d6fffe8a87f04ed6de82e15e021841758788e53a3281aa55072f98765843",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z10752_y1536_x4608.json",
+      "sha256": "46e6f5523375a7b4eea4539a4b07ff79a79eb910a61caa91b8ded296154b456e",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z11776_y3584_x6656.json",
+      "sha256": "e8975dc3a99977d69c74e7bab8974d7cf15b1c735850809ada61b5484438fa1b",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z12800_y4608_x3584.json",
+      "sha256": "6c7c6ac7cfe6cc8c2e609cf887e5cf5ba0d384df4303f5a0c85068fb986fca25",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z13824_y2560_x3584.json",
+      "sha256": "9f673a54991f2709a77eab5035493608d927f662ba87084dca7e78b2250b796f",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z14848_y4608_x7680.json",
+      "sha256": "c5fc99d42724b1fa4847d9adb390082f26966b605869f6217667aaa49305bf60",
+      "bytes": 456,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z1536_y4608_x5632.json",
+      "sha256": "3e5c823d726823d1f10f550c80dbcbd5a70b925f6e1b0cce4099202c702dd655",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z1536_y5632_x4608.json",
+      "sha256": "ec2cf487e0bfeff45a16c1750352c6c31dc86151ecac575eeff2fd7cea6982a7",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z2560_y5632_x3584.json",
+      "sha256": "023e2513ef914797e626e504e75019cddedb239e414c7a9cef369ef411ae4685",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z2560_y6656_x4608.json",
+      "sha256": "08214519c602d00fb47fe5a53442acb8bd73b7a1545bcd22d3c387c009416605",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z3584_y2560_x2560.json",
+      "sha256": "b23fdf766b0f50661fad0c3532221699004bbaf6f49594e6724085e4b1ec41dc",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z3584_y2560_x4608.json",
+      "sha256": "1ce49ddd8e85bbc6585f418a329e80a901721d4adbbf10a72007d31226ac5946",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z4608_y1536_x2560.json",
+      "sha256": "394fd3e73030e807c3032c6e69a011f736534229c05ffa4c48931017fe33cc8f",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z4608_y2560_x6656.json",
+      "sha256": "e3127f986b42e43eb60b9c9e7328e40e9ed2c4d5f747afbac71691fcc6f09d24",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z512_y5632_x3584.json",
+      "sha256": "88c1234763c539167be5dcfe91d3936acff9e558ab47aac5facdddb9684a7d92",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z512_y6656_x3584.json",
+      "sha256": "196d13275c396574a109c31b143e055c1f4d69abac8bc6860fdb0c8b3345fb37",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z5632_y3584_x3584.json",
+      "sha256": "fa6676fc798ec6e062987711ee927cea0a4f121f5db22b399d5a1fc8f1b43289",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z5632_y6656_x4608.json",
+      "sha256": "19eb06bd546c366ef2709800c19af7cd654a825e9aef30ac98b832379c94086a",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z6656_y3584_x3584.json",
+      "sha256": "5d7d5fe4bb5748a42a34d33d7144aeedc5ad91d8bf3fd5c9df422e03bb3d4f6d",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z6656_y3584_x6656.json",
+      "sha256": "832e23f90a4ab2f8666ad969da7ab13d4de880692d4d765ffe20c3f6b121ca7a",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z7680_y5632_x4608.json",
+      "sha256": "f5b72c32aa9c1dbddb08493f763853d8f4fee20932b6c79eae11ae728e2db4c6",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z7680_y6656_x3584.json",
+      "sha256": "5b82063e95591f04bdb474600d05756917887c11caadad1979ff52e8b6833de8",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z8704_y3584_x2560.json",
+      "sha256": "beb2aeb1b30b8984c7c2f8c2f3bb53cef666b906461edb5b51971165c499d4f1",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z8704_y4608_x6656.json",
+      "sha256": "56925368f8ac6d9d0ca555290570cee24a7905ee3021fd47edbe5499ac0a95cc",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0306B-z9728_y3584_x4608.json",
+      "sha256": "9cdbdbb381185ada8acc42cf4b454729ac868f3edb73b1e58a24e86764c98357",
+      "bytes": 455,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z10752_y6656_x5632.json",
+      "sha256": "ea7de84e86268576fd32c500405cacb99ead7b2009ab21ddd38d1b554b3b7b9b",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z11776_y2560_x2560.json",
+      "sha256": "131bdfa67b61ece2bf258f19d321311628ce052402a22ce0e2926e574829e7ff",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z12800_y3584_x2560.json",
+      "sha256": "94c5bcc6141b530fa0c2ba75309b15c94d75c43896cc3828b200d08ff3acb188",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z13824_y2560_x3584.json",
+      "sha256": "6fd6e73cfc6e10533f2191c6a76efa4ec653cd31c72a2150c1e329e48f688ccd",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z14848_y6656_x3584.json",
+      "sha256": "cbfeebcbc4014a8e76821e093152a8d83dd808ecb0b165b4fd9fddee117d132b",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z1536_y2560_x4608.json",
+      "sha256": "9ac57585deedbd08a934cc2d6127d618dbcd5832bc203533ae06976627afe0ab",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z1536_y2560_x5632.json",
+      "sha256": "55b6d3ee0af20bcbb230f058e5269ae32f8f40fe24cb6ff12e80cd00d4ad44ec",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z15872_y6656_x3584.json",
+      "sha256": "525d3ae94445418d41611804e7577bc1cfdbdcf745759f5f332d7d2ad8f6d334",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z16896_y3584_x3584.json",
+      "sha256": "4278f3657931d89d874cff34ef688409b80e6962c3aae37654cab86dfa748208",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z17920_y3584_x4608.json",
+      "sha256": "a12743b896a3fb0f512a606525a6f7449fe2b469f465b17d57638902bee1fae5",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z18944_y3584_x6656.json",
+      "sha256": "ef7f3b9a94a9b69fbb6e5fca5d4c918c4e4405ed464b646dee4cf4744bb0386b",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z19968_y4608_x4608.json",
+      "sha256": "e28e35b8fc285f122824bc194c88f8d7b8a96f1cf200826026e12ceee36c2c31",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z20992_y7680_x3584.json",
+      "sha256": "a1875fbfabdad3709c836e36f869fb299d59ba4b3f352dbfa5f45810744923ed",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z22016_y3584_x2560.json",
+      "sha256": "a0cbebe76e614df8378ec14fbd5b538f63777249b549227e1fa9f84df141c87e",
+      "bytes": 454,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z2560_y1536_x5632.json",
+      "sha256": "02992c134fc8a727d279e3a8d583a209a792c86b4461b99512a4b6758e4f56d7",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z2560_y3584_x6656.json",
+      "sha256": "1db121bd35fa43f82143325278ab7d82b184de020f06cfbfc38317314fb028e3",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z3584_y2560_x5632.json",
+      "sha256": "ab25d0372376f89bf74c3e6675411c4d765688d9f73d804353a8a30ab10b1ab7",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z3584_y2560_x6656.json",
+      "sha256": "1f8cdf35c5506927c69bb7b24e831bed09d1de5a5654f785ce76683b97ba040c",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z4608_y2560_x6656.json",
+      "sha256": "dfba6bdcf6f5de2c1b2e02381a270be89b301a034767be2117503a1f2fbf0e9a",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z4608_y6656_x6656.json",
+      "sha256": "0210a1b680f6663517bdf2f877e0fc0dba4abf40c93858f46062caccc166edf8",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z5632_y1536_x4608.json",
+      "sha256": "be59841ed94e73105e76c86ddbccdd1af75fbfca8a3bbaea22d31dd6f6ce79f4",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z5632_y1536_x5632.json",
+      "sha256": "36236b1bdca9f8079e40d11f919a269885117426780bac14fb0b5e60c933d45f",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z6656_y2560_x6656.json",
+      "sha256": "abf630bf70e0c0b4edde1c21ff5e0f7945a2a42f83bbdb05c09e42b85dbd6d12",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z7680_y5632_x5632.json",
+      "sha256": "05cf5d10a61003d405ef6c54cf691ffc7c7458accbe938bcb98efb79d2eff507",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z8704_y3584_x2560.json",
+      "sha256": "84ead681aaa27dffffdecd0d3cea90c2b84219b457e8f52f16a9edad49b41dfa",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0800-z9728_y3584_x2560.json",
+      "sha256": "d5cc0f3994ebadf2ff03af766d9e3077c5d70c4729004f516bc54257349333fa",
+      "bytes": 453,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z10752_y3584_x3584.json",
+      "sha256": "c4f8b882c133574820626048ef052889051a1ac0c310db1240d905e1997eedaf",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z10752_y4608_x2560.json",
+      "sha256": "667889dc3c65f76447c52a393f7924e6a67c903be0db1e51dd5e353dd5ffc85d",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z11776_y1536_x4608.json",
+      "sha256": "38626017c220626641b6a95c7bb350880777d2fb4f90029be40c09f5c28252e5",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z11776_y2560_x5632.json",
+      "sha256": "afdf406b10dc4a8bc2ea922572b08000573bb8802c53da8e26f851dfa0212fe3",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z12800_y4608_x4608.json",
+      "sha256": "d8cd9d4eff62eba84bc08ec0ea613e0c64c3c1f86de36dfea2d3fe0dd92e3cee",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z12800_y5632_x3584.json",
+      "sha256": "2e7ccbbad558f2352e93b3af1eee93dddca9da042318f8ff0884e090f9882ae7",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z13824_y2560_x1536.json",
+      "sha256": "f909dadbceae28026cb60d1b935efc4076da98e6f73e48e5915d9a0d3c5bd254",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z13824_y2560_x2560.json",
+      "sha256": "e39c0f2956beebfed820bed9433c22a55c3f0632111b063c90aefaf08a9ebbd8",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z14848_y1536_x3584.json",
+      "sha256": "17cc2094cdf048bc62dd6f2efcab0538b37052b6ee161bfc87aef0613fa92a7f",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z14848_y4608_x2560.json",
+      "sha256": "bdfba3067701777c3874d9612e83f2d571cde296e7f7321873b8069aebc727ff",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z1536_y3584_x4608.json",
+      "sha256": "d3fc204e1afd96189fd64296b34a9052c8019494a39a9ccbb1cbc7a6ce018fc6",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z1536_y4608_x3584.json",
+      "sha256": "d406909214d1f5a404ada27a3cb5c4e74c7a286874cc0a64a59194d8c45711ab",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z1536_y4608_x4608.json",
+      "sha256": "c140bc4030728fb2aabbb856fd5195034542d7a0708d27edc187464a99776066",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z15872_y2560_x1536.json",
+      "sha256": "c375478d1a4792d06829dc428eb3c1ed81f7e058745022634ac02ab23c2b5a4a",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z15872_y2560_x2560.json",
+      "sha256": "82d2c6d5f2a4d450de6574e69cd42629f70d843976b46759938dc3ac0be6843c",
+      "bytes": 460,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z2560_y2560_x2560.json",
+      "sha256": "b0d933a72f9bd78f9cf09342d415fc6e6b29f07493621c23960c3b61d61d6bcd",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z2560_y3584_x3584.json",
+      "sha256": "3ffd181b76cb18646038318c6190972f5f0ab130f05cfefd01668d1debd0e328",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z3584_y1536_x1536.json",
+      "sha256": "c7e1594a903d323f8154bec11f9e13aa135af71374ddf2d30e1f394cb08c8da0",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z3584_y1536_x3584.json",
+      "sha256": "9f34601f140248aa518b423d0473723591896a5cd27aeb74b782dc93a1bc9bd5",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z4608_y2560_x4608.json",
+      "sha256": "6b4ed39d5398ffdb820322852fb48ad4628fde043ced725dab3f993fa4e9fa6e",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z4608_y4608_x4608.json",
+      "sha256": "8ae74d43ee990467d20e5550da526bfdd16b2c4f32bf30efec99cfd3d1cd9584",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z5632_y2560_x2560.json",
+      "sha256": "78019443823a73eaf4701dc18d26f55f05512fab3455c1ba18bc550fdf465e89",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z5632_y3584_x3584.json",
+      "sha256": "ad8f6e3c4bcc5fad1ca9b2dd49fc6faa2b5eafcf1673effda541fcd185ac0cb6",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z6656_y2560_x5632.json",
+      "sha256": "a23fd43f7f67af5f0d3f5e9f11e570d5321f18415a729b861cb03aa6abfa83ad",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z6656_y3584_x1536.json",
+      "sha256": "18621de87241ae05c2df24f08c4729d8b378fadf77a57ea57a0f72dfa26dd9b2",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z7680_y2560_x4608.json",
+      "sha256": "8b1b548547169aa83f1f15f5bbb49975c613acc0ded632a952e4d461c3f8816f",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z7680_y2560_x5632.json",
+      "sha256": "e2bca3972c0c86cda6f055b33ffeb32a343d8c4deb787d76c94de0cf4d5aaa11",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z8704_y3584_x4608.json",
+      "sha256": "ef63018730d8b0490b7a65004c61a63b36ec0f194fab7cca07dfb8d040d517cd",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z8704_y4608_x5632.json",
+      "sha256": "c64e50bda62aeeed8c760af8c56c3e3fbce37a053eed57ce5c0b9748ad2c55ac",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z9728_y1536_x3584.json",
+      "sha256": "ead8b4f83a3a91157b39224fe795ffb660a1db0188f7fae3c2ba4b1dd8b2dd16",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc0813-z9728_y4608_x4608.json",
+      "sha256": "3c91b487be0b833bc9e3867cdfd21062899bd7c567cef6042d3f695dbe109077",
+      "bytes": 459,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z003-y05-x06.json",
+      "sha256": "ed9acdc90d5fe12a0f6c84e06a66cc991a95ae5bd157e356d68a929126dc4a00",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z004-y08-x07.json",
+      "sha256": "954b3c693e4565df61524093ca55a2c187f63fd8d4abc88a606e35f4c4f8c6ee",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z005-y08-x06.json",
+      "sha256": "765d1cab45c441da3fbfd673fa15332042f3dab94d279d149a43e25d74ebefd4",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z006-y08-x07.json",
+      "sha256": "d214f74e2607f9ac9ea482c46696cd9ddec3b1826a31cd26cbc322289dc13f37",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z007-y09-x12.json",
+      "sha256": "5a4a950e5251bfef47b9ca6833874a16541021e6c885aba82c7cfe943b1effd4",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z008-y12-x08.json",
+      "sha256": "deefc1f382ff1d67d3f9ab7e90cef6716fcf9a9b23a2b88eb76014889443712c",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z009-y09-x06.json",
+      "sha256": "2ca5123124813863552c42d61cefa56db68eac903f308139baf6d45024cbab0a",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z010-y06-x03.json",
+      "sha256": "a49238ecdcb15768b06e260f225da2950b82747670c5f1fe8980795a494c6653",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z011-y09-x12.json",
+      "sha256": "41174ff01d1276d11947e3ef6c3b5d8d03af292fb5a40c0a5ccb27038e68b81d",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z012-y07-x03.json",
+      "sha256": "9e3f7369dc2a109901357f00e85cdd841875f1bb799de43a57c5468e25423aaa",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z013-y09-x08.json",
+      "sha256": "30e7c2180691e417a2c4479582f406e73a97be905b1af67a032322feb72dea17",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z014-y06-x08.json",
+      "sha256": "1f55e99183048b8345984e1a11582beb80ec327d59c25d0dabb86da026aecc08",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z015-y08-x04.json",
+      "sha256": "c12df0ee25c6ef48124b6ac5039809274fa3adf48aa8285bd2a68cc4a4d976af",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z016-y09-x10.json",
+      "sha256": "30469fdc14933c2823260dce0643d6c373593353a7795b152e05036727e14340",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z017-y05-x05.json",
+      "sha256": "22f728d05d723b8c5afdbc9fe8edc85334afeefa7a3379d7e918f3ee125602c9",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z018-y09-x09.json",
+      "sha256": "9356923a167b4a45951e6504374af88fbd3f1cbf9351c8534365956b5ab3afd0",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z019-y07-x05.json",
+      "sha256": "940196bc40da203e5510a3a840eebd358df3011bca689eb6f7669f58d64c43fa",
+      "bytes": 384,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z020-y05-x03.json",
+      "sha256": "b07b8f8af23401bd76a9f4ea5ce9fadae0665e8c9572ec759d8e7308be46ad53",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z021-y06-x04.json",
+      "sha256": "b405cd71bb578490398e12f8d74dd542448cd7e3b5325d237bf9f4386f5ba33c",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z022-y08-x03.json",
+      "sha256": "7d4b769091671218e63bb57a979a76a7cabe39fdd4b5ee3423a2a5d635e90e6b",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z023-y08-x04.json",
+      "sha256": "8d66de0dd5aead320ec5aa5cc76aa06c7a829864f135eea6bdfb9be7bb20e41b",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z024-y08-x03.json",
+      "sha256": "bd778b81e9b07a4f4dbebb3673e11d23143c3bd6bb843485e4f3de7627c81c61",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z025-y04-x08.json",
+      "sha256": "98b8b949943c5e6d844eb9cce1c51e81f66d39132a3f596847710fb5170b0ced",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z026-y08-x10.json",
+      "sha256": "36f332ac8c2233689fc40a6709e1da93d4a11be143ebb90e55a2320ab6a79fd1",
+      "bytes": 385,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z030-y06-x07.json",
+      "sha256": "f88bab4a8a84e75dbbf9c9eb0effd8df83423f0943364cd8c78d43ebf89fe0c1",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z031-y06-x06.json",
+      "sha256": "024ec36f6b8db117cd98575ee9e37d263150c792a8655dc7880a02c3199ea87d",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z032-y10-x07.json",
+      "sha256": "9be02d865dfe612ac267f9fb8dc62598a9ba8b30e3167c2d2a12fc4cbbfb9949",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z033-y10-x05.json",
+      "sha256": "da4c7a8f3dbf892c45f5f21239f9507543ef10d2230a747fcc6cd477c3ae06e3",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z034-y06-x07.json",
+      "sha256": "2be4ca93e2a2261b7e9b646265d99b014110eb43bd539fc1ee3af7698cef0dec",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata-original/PHerc1447-v5-z035-y08-x09.json",
+      "sha256": "99358d2f40e0b821e118fe47fd34cc3ba14297eca0f17ae7b9ae916c3ff6e87e",
+      "bytes": 390,
+      "kind": "recovered-metadata-historical-hash-anchored"
+    },
+    {
+      "path": "provenance/region-metadata.json",
+      "sha256": "8a42109844065780dea2ad94243e1ebeaf6e129a6a0616408b69862ba17a4317",
+      "bytes": 386620,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/released-checkpoint.json",
+      "sha256": "48dd1604d9cfc00a45eab39ee5740f2d216c30d7557eee6c0c9446e9f865fbf4",
+      "bytes": 429,
+      "kind": "original"
+    },
+    {
+      "path": "provenance/spatial-split-check.json",
+      "sha256": "c61b2fadd2f603718e0b294b306d4a6e35c402cdb158a1b63361a43e5678f47b",
+      "bytes": 407,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/v6/geometry-verified.json",
+      "sha256": "a51f89845822cfe51afe9c18c768deeb1ebc543d57e845bf86f5f9b6f0b8dbf9",
+      "bytes": 182,
+      "kind": "author-generated-review-receipt"
+    },
+    {
+      "path": "provenance/v6/validation-cases-2624.json",
+      "sha256": "ce1605766dea8665384833a4438d0eeba5fc99d9261d794f6f42099758fe8f36",
+      "bytes": 117962,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "provenance/v6/validation-cases-7624.json",
+      "sha256": "d3143e4be77d965ac548a5168d024862379696c4a7ff7228907cec95e0c5bd8e",
+      "bytes": 117706,
+      "kind": "recovered-author-receipt"
+    },
+    {
+      "path": "release/README.md",
+      "sha256": "d63afc395527d242576b45380d0ecf439604bf38076bc32edd0c39a19c4c7a8e",
+      "bytes": 1035,
+      "kind": "original"
+    },
+    {
+      "path": "release/dataset.json",
+      "sha256": "4b6396a383612c66e391c822ded5341f90dcf59d6af638ccf9a7bf732c8e1039",
+      "bytes": 269,
+      "kind": "original"
+    },
+    {
+      "path": "release/plans.json",
+      "sha256": "467cf4e07a2b6212359901573eb191b37f2c485ff8b1fbd4940e050787852cc2",
+      "bytes": 11153,
+      "kind": "original"
+    }
+  ],
+  "trainingChecks": [
+    {
+      "phase": "v3",
+      "path": "original/fiber-compression-pherc0358-v3/network.py",
+      "expectedSHA256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-pherc0358-v3/runs/full/config.json"
+    },
+    {
+      "phase": "v3",
+      "path": "original/fiber-compression-pherc0358-v3/data.py",
+      "expectedSHA256": "0313b01f07bca18a592d96113958d0089057f4865ee2eb4a8e0e3d679c5f4f8e",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-pherc0358-v3/runs/full/config.json"
+    },
+    {
+      "phase": "v3",
+      "path": "original/fiber-compression-pherc0358-v3/material.py",
+      "expectedSHA256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-pherc0358-v3/runs/full/config.json"
+    },
+    {
+      "phase": "v3",
+      "path": "original/fiber-compression-pherc0358-v3/train.py",
+      "expectedSHA256": "1cac52e6b15259d9acfb13dd4480db36104a0fdd0ee8fd139d88e2e9a9c4ff1a",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-pherc0358-v3/runs/full/config.json"
+    },
+    {
+      "phase": "v4",
+      "path": "original/fiber-compression-multiscroll-v4/network.py",
+      "expectedSHA256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-multiscroll-v4/runs/multiscroll/config.json"
+    },
+    {
+      "phase": "v4",
+      "path": "original/fiber-compression-multiscroll-v4/data.py",
+      "expectedSHA256": "dcf7b71d84f0bd812b9a39ce07924c55bf0bfd188dd73b30d9ef0038611e4f82",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-multiscroll-v4/runs/multiscroll/config.json"
+    },
+    {
+      "phase": "v4",
+      "path": "original/fiber-compression-multiscroll-v4/material.py",
+      "expectedSHA256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-multiscroll-v4/runs/multiscroll/config.json"
+    },
+    {
+      "phase": "v4",
+      "path": "original/fiber-compression-multiscroll-v4/train.py",
+      "expectedSHA256": "aa98c544ab9dd050c94abeae9e9bad47eed9fdfa19c3bc437201ec3b6a2a7887",
+      "verified": true,
+      "recordedIn": "original/fiber-compression-multiscroll-v4/runs/multiscroll/config.json"
+    },
+    {
+      "phase": "v5",
+      "path": "original/fiber-full-8000-v5/network.py",
+      "expectedSHA256": "9d9d7f8124c8ca4ea20714df4607b7da50c6aeaa067c14ebdf656d73b9c88766",
+      "verified": true,
+      "recordedIn": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json"
+    },
+    {
+      "phase": "v5",
+      "path": "original/fiber-full-8000-v5/data.py",
+      "expectedSHA256": "ad9c7e45457b069826aa4e689c34ab36e4575531f1aaf13792b14297d19d4056",
+      "verified": true,
+      "recordedIn": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json"
+    },
+    {
+      "phase": "v5",
+      "path": "original/fiber-full-8000-v5/material.py",
+      "expectedSHA256": "8eb5c22f658c60580bbed08732f39a9027936c38406865061919a84abd24adb7",
+      "verified": true,
+      "recordedIn": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json"
+    },
+    {
+      "phase": "v5",
+      "path": "original/fiber-full-8000-v5/train.py",
+      "expectedSHA256": "79813b1be4738be4925548efe80a9356f54c4d0705ab5f35075db8bf6aaafa30",
+      "verified": true,
+      "recordedIn": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json"
+    },
+    {
+      "phase": "v5",
+      "path": "original/fiber-full-8000-v5/reliable_io.py",
+      "expectedSHA256": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e",
+      "verified": true,
+      "recordedIn": "original/fiber-full-8000-v5/runs/multiscroll-full-v5/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/settings.py",
+      "expectedSHA256": "e72ef996cb37bac495a911e91a4b27036cf246f9d88bf2c404d2b93699802781",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/geometry.py",
+      "expectedSHA256": "aec14d3b93765c89d07aa79cd11f387fdc7b0a7dc0044b142279393dc6159af4",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/data.py",
+      "expectedSHA256": "25d44ce3b6e3dde0fbb9ae13c91a1b73967d9bf90bf6b3f80b9576fcee2d989f",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/network.py",
+      "expectedSHA256": "91dc696d9e08709896e3a86be38d2c6af9da433ef03cd5c1c8ad92ca61f52a92",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/train.py",
+      "expectedSHA256": "7e12592c216ea1013059a82be23a0bb3deaa3fd1056017c948c8744cff09b08f",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    },
+    {
+      "phase": "v6",
+      "path": "original/fiber-centre-compression-v6/reliable_io.py",
+      "expectedSHA256": "449c10bd23d94b7212466f1bf90b0282587afdedeab0f9f3833595ab9fe4e23e",
+      "verified": true,
+      "recordedIn": "original/fiber-centre-compression-v6/runs/multiscroll-centre-v6/config.json"
+    }
+  ],
+  "scope": "Training core only. Network orchestration, CT downloads/caches, transfers, machine supervisors, viewer code and source archives excluded at author request. Included source files remain byte-identical."
+}
